@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-output_file="${1:-2pi_response.txt}"
+output_file="${1:-2ip_response.txt}"
+primary_url="https://2ip.io/"
+fallback_url="http://2ip.io/"
 
-if curl -sS "https://2pi.com/" -o "$output_file"; then
+if curl -sS "$primary_url" -o "$output_file"; then
   :
 else
-  curl -sS "http://2pi.com/" -o "$output_file"
+  curl -sS "$fallback_url" -o "$output_file"
 fi
-echo "Saved response to ${output_file}"
+echo "Saved response from 2ip.io to ${output_file}"
