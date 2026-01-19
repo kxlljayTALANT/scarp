@@ -12,7 +12,7 @@ const options = {
   chunkSize: 25,
   limit: null,
   delayMs: 1200,
-  model: process.env.XAI_MODEL || 'grok-2-latest',
+  model: process.env.XAI_MODEL || 'grok-3',
   resume: false,
 };
 
