@@ -113,13 +113,16 @@ const normalize = (items, parsed) => {
   const map = new Map();
   if (Array.isArray(parsed)) {
     for (const row of parsed) {
-      if (row && typeof row.product_id === 'string') {
-        map.set(row.product_id, row);
+      if (row && row.product_id !== undefined && row.product_id !== null) {
+        const id = String(row.product_id).trim();
+        if (id) {
+          map.set(id, row);
+        }
       }
     }
   }
   return items.map((item) => {
-    const hit = map.get(item.product_id) || {};
+    const hit = map.get(String(item.product_id)) || {};
     return {
       product_id: item.product_id,
       title: item.title,
