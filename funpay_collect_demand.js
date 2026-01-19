@@ -76,7 +76,7 @@ const readLines = (filePath) => fs.readFileSync(filePath, 'utf8')
   .filter(Boolean);
 
 const parseTitleUrls = (html) => {
-  const regex = /<div class="game-title[^"]*">\s*<a href="([^"]+)">([^<]+)<\/a>/g;
+  const regex = /<div class="game-title[^"]*"[^>]*>\s*<a href="([^"]+)">([^<]+)<\/a>/g;
   const map = new Map();
   let match;
   while ((match = regex.exec(html)) !== null) {
