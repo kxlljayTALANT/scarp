@@ -1,0 +1,674 @@
+1	Dota 2	87325	very_high	Буст MMR=26322, Предметы=19527, Прочее=11796
+2	PUBG Mobile	59368	very_high	Metro Royale=28857, Прочее=7817, Популярность=6785
+3	Brawl Stars	58160	very_high	Прочее=16884, Аккаунты=9633, Буст рангов=9449
+4	Steam	56356	very_high	Аккаунты с играми=12903, Услуги=10797, Подарки (Gifts)=10590
+5	Black Russia	53179	very_high	Прочее=22074, Аккаунты=10306, Вирты=10154
+6	Counter-Strike 2	43367	very_high	Прочее=18482, Буст=11984, Аккаунты=5190
+7	Clash Royale	37513	very_high	Прочее=12515, Буст=12026, Аккаунты=4619
+8	Assassin’s Creed	31555	very_high	Прочее=20237, Ключи=7001, Аккаунты=2822
+9	Aion	31035	very_high	Прочее=29439, Кинары=493, Аккаунты=478
+10	Genshin Impact	30389	very_high	Прочее=6323, Исследование локаций=6087, Прокачка=3022
+11	Standoff 2	27160	very_high	Буст=9670, Прочее=6765, Услуги=2394
+12	Clash of Clans	26671	very_high	Прочее=15041, Донат=3535, Аккаунты=2558
+13	Apex Legends	26614	very_high	Прочее=20414, Монеты=2340, Аккаунты=1078
+14	Fortnite	26309	very_high	Прочее=13271, В-баксы=3471, Аккаунты=3374
+15	Battlefield	24920	very_high	Прочее=17421, Ключи=4345, Аккаунты=1829
+16	ARC Raiders	24744	very_high	Предметы=15325, Услуги=3903, Ключи=2262
+17	Diablo 4	24672	very_high	Прочее=10006, Предметы=3435, Платина=1745
+18	Albion Online	24130	very_high	Прочее=17337, Донат=3900, Услуги=1514
+19	Among Us	23666	very_high	Прочее=21533, Ключи=839, Аккаунты=700
+20	AFK Arena	23459	very_high	Гайды=20933, Донат=1375, Алмазы=688
+21	Arena Breakout	22773	very_high	Прочее=13231, Облигации=2757, Донат=2262
+22	Прочие игры	22232	very_high	Аккаунты=6518, Ключи=6412, Прочее=2697
+23	Age of Wonders 4	22015	very_high	Прочее=20243, Ключи=1538, Аккаунты=234
+24	AFK Journey	22004	very_high	Прочее=19847, Донат=1202, Кристаллы дракона=794
+25	Rust	21273	very_high	Услуги=7352, Прочее=6315, Аккаунты=1924
+26	Arma 3	20781	very_high	Прочее=18228, Ключи=1831, Аккаунты=638
+27	APB: Reloaded	20642	very_high	Прочее=20039, G1C=289, Доллары=123
+28	PlayStation	19706	very_high	Пополнение бумажника=9525, Аккаунты=5039, Ключи=2734
+29	Dead by Daylight	19510	very_high	Ключи=7757, Прочее=6666, Золотые клетки=2327
+30	Atomic Heart	19060	very_high	Прочее=16183, Ключи=1989, Аккаунты=626
+31	Valorant	18653	very_high	Прочее=5179, Буст=4503, Аккаунты=4009
+32	Mobile Legends	17725	very_high	Алмазы=7273, Буст=3500, Прочее=2779
+33	GTA 5 RP, SAMP	16963	very_high	Прочее=7371, Услуги=3809, Вирты=2413
+34	Castle Clash	16702	very_high	Прочее=15546, Бриллианты=689, Донат=429
+35	Destiny 2	16208	very_high	Прочее=10173, Ключи=3331, Серебро=632
+36	Lost Ark	14746	very_high	Прочее=13487, Золото=419, Предметы=284
+37	Black Desert Mobile	14712	very_high	Прочее=13605, Донат=973, Услуги=94
+38	Assetto Corsa	14244	very_high	Прочее=11678, Ключи=1689, Аккаунты=680
+39	Avatar: Frontiers of Pandora	13757	very_high	Прочее=11052, Ключи=1784, Аккаунты=380
+40	League of Legends	13738	very_high	Прочее=4565, Riot Points=2959, Буст=1706
+41	GTA 5 Online	13691	very_high	Прочее=6271, Ключи=2482, Услуги=2227
+42	TikTok	13114	very_high	Услуги=7944, Аккаунты=3948, Монеты=1222
+43	Lineage 2	13079	very_high	Прочее=4990, Предметы=2476, Прокачка=1813
+44	ArcheAge	12899	very_high	Услуги=8553, Прочее=2637, Предметы=698
+45	Call of Duty Warzone	12692	very_high	Прочее=9413, CP=1389, Аккаунты=1096
+46	Diablo Immortal	12405	very_high	Прочее=8768, Донат=2106, Вечные сферы=642
+47	Asphalt	12132	very_high	Прочее=11065, Донат=864, Токены=145
+48	Elder Scrolls	11898	very_high	Прочее=7899, Ключи=2761, Аккаунты=804
+49	Xbox	11646	very_high	Пополнение баланса=3616, Ключи=3113, Game Pass=2641
+50	Battle.net	11255	very_high	Прочее=4022, Пополнение баланса=3930, Аккаунты с играми=1534
+51	Black Desert	10999	very_high	Прочее=8720, Услуги=1214, Прокачка=591
+52	Boom Beach	10942	very_high	Прочее=9510, Донат=702, Алмазы=645
+53	Honkai: Star Rail	10737	very_high	Прочее=4000, Услуги=2397, Донат=1867
+54	Baldur's Gate 3	10732	very_high	Прочее=8169, Ключи=1799, Аккаунты=628
+55	Deadlock	10698	very_high	Прочее=9620, Буст=377, Инвайты=276
+56	Call of Duty	10515	very_high	Прочее=3686, Ключи=3288, Аккаунты=2402
+57	Alan Wake 2	10419	very_high	Прочее=8648, Ключи=1044, Аккаунты=526
+58	Anthem	10223	very_high	Прочее=9622, Ключи=345, Аккаунты=134
+59	Call of Dragons	9815	very_high	Прочее=8472, Донат=877, Самоцветы=337
+60	Stalcraft	9655	very_high	Услуги=4522, Предметы=3223, Аккаунты=880
+61	Мобильные игры	9593	very_high	Донат=6576, Аккаунты=1289, Услуги=981
+62	Call of Duty: Black Ops 6	9445	very_high	Прочее=5095, Ключи=1471, CP=1017
+63	Counter-Strike: GO	9412	very_high	Прочее=6435, Аккаунты=1227, Буст=681
+64	DayZ	9320	very_high	Прочее=6483, Ключи=1987, Аккаунты=753
+65	ARK: Survival Evolved	8917	very_high	Услуги=7122, Ключи=913, Аккаунты=693
+66	Astellia	8682	very_high	Прочее=8536, GN-монеты=124, Золото=22
+67	Age of Empires Mobile	8470	very_high	Прочее=7330, Донат=566, Empire Coins=513
+68	Free Fire	8384	very_high	Прочее=4371, Алмазы=2018, Донат=1125
+69	Aion Classic	8319	very_high	Прочее=7664, Кинары=258, Услуги=212
+70	Far Cry	8256	very_high	Ключи=5275, Аккаунты=1791, Услуги=585
+71	Blade & Soul	8187	high	Прочее=8044, Услуги=54, Золото=45
+72	Arizona RP	8149	high	Прочее=1936, Аккаунты=1523, Вирты=1472
+73	Lords Mobile	8069	very_high	Прочее=7244, Алмазы=378, Донат=363
+74	Cities: Skylines II	7731	high	Прочее=6451, Ключи=875, Аккаунты=232
+75	Epic Games	7723	high	Аккаунты с играми=2922, Пополнение баланса=1315, Услуги=1232
+76	ARK: Survival Ascended	7677	high	Услуги=5840, Ключи=1059, Предметы=350
+77	New World	7668	high	Прочее=5721, Ключи=692, Прокачка=491
+78	Bloodhunt	7538	high	Прочее=7514, Twitch Drops=19, Аккаунты=5
+79	Ghostrunner 2	7517	high	Прочее=6400, Ключи=870, Аккаунты=247
+80	Call of Duty Mobile	7443	high	CP=2353, Прочее=1838, Донат=1718
+81	BattleBit Remastered	7191	high	Прочее=6337, Ключи=455, Аккаунты=169
+82	Amazing RP	7180	high	Предметы=2859, Прочее=1655, Услуги=1297
+83	PUBG	7117	very_high	Прочее=2781, G-Coins=1495, Аккаунты=1262
+84	Biomutant	7050	high	Прочее=6587, Ключи=286, Аккаунты=156
+85	Mafia	7037	very_high	Прочее=2829, Ключи=2575, Аккаунты=1059
+86	Arknights	6928	high	Услуги=4505, Донат=1622, Originium=558
+87	Metal Gear	6876	high	Прочее=5266, Ключи=1199, Аккаунты=255
+88	Delta Force	6839	high	Delta Coins=3108, Донат=1149, Услуги=1133
+89	Dying Light	6742	high	Ключи=3629, Аккаунты=1506, Услуги=889
+90	Blood Strike	6680	high	Прочее=4591, Золото=1400, Боевой пропуск=361
+91	Borderlands	6673	high	Прочее=3757, Ключи=1998, Аккаунты=634
+92	Drag Racing: Уличные гонки	6656	high	Прочее=5193, Донат=814, Баксы=413
+93	Star Wars	6539	high	Ключи=3282, Донат=1863, Аккаунты=918
+94	Black Myth: Wukong	6510	high	Прочее=3796, Ключи=1873, Аккаунты=635
+95	Forza Horizon	6508	high	Ключи=3172, Аккаунты=1294, Услуги=930
+96	EA SPORTS FC 26	6377	high	Ключи=2244, Буст=1645, Points=942
+97	FC Mobile	6322	high	Донат=3019, Points=1184, Прочее=1068
+98	Helldivers	6320	high	Прочее=2326, Ключи=1967, Аккаунты=684
+99	Zenless Zone Zero	6088	high	Услуги=1580, Монохромы=1474, Донат=1318
+100	Ashes of Creation	6023	high	Прочее=4809, Услуги=385, Золото=277
+101	Battle Teams 2	6002	high	Прочее=5835, Монеты=83, Услуги=72
+102	Dead Island 2	5986	high	Прочее=3599, Ключи=1685, Аккаунты=551
+103	Raid: Shadow Legends	5839	high	Донат=2273, Аккаунты=1954, Услуги=958
+104	Hunt: Showdown	5821	high	Прочее=3586, Ключи=1141, Twitch Drops=627
+105	Last Epoch	5632	high	Прочее=3375, Ключи=1296, Прокачка=263
+106	Nintendo	5504	high	eShop=4263, Аккаунты=544, Switch Online=544
+107	Overwatch 2	5480	high	Монеты=1609, Прочее=1287, Аккаунты=939
+108	Anomaly Zone	5453	high	Прочее=5346, Серебряные рубли=39, Золотые рубли=24
+109	Mortal Kombat Mobile	5413	high	Прочее=3295, Донат=1036, Души=461
+110	Doom	5373	high	Ключи=2931, Прочее=985, Аккаунты=883
+111	Radmir	5330	high	Прочее=1996, Донат=930, Аккаунты=764
+112	Hearthstone	5222	high	Прочее=2157, Донат=1654, Рунические камни=636
+113	Wuthering Waves	5162	high	Аккаунты=1506, Услуги=1012, Донат=900
+114	Lethal Company	5146	high	Прочее=4133, Аккаунты=509, Ключи=461
+115	EA app	5124	high	Подписка EA Play=1640, Аккаунты с играми=1201, Пополнение баланса=926
+116	Battlefield 6	5035	high	Ключи=2300, Аккаунты=721, Услуги=600
+117	Dragon Ball Legends	4875	high	Прочее=4151, Донат=429, Аккаунты=284
+118	Dragon Raja	4848	high	Прочее=4219, Донат=359, Купоны=266
+119	Red Dead Redemption 2	4847	high	Ключи=2540, Аккаунты=915, Услуги=716
+120	Sea of Thieves	4772	high	Ключи=2129, Прочее=643, Услуги=518
+121	Elden Ring	4687	high	Ключи=2815, Аккаунты=710, Услуги=632
+122	Dune: Awakening	4684	high	Солярий=1474, Ключи=1038, Меланжа=742
+123	Instagram	4684	high	Услуги=3661, Аккаунты=1023
+124	Need for Speed	4626	high	Ключи=2833, Аккаунты=1166, Услуги=423
+125	Farming Simulator	4554	high	Прочее=2158, Ключи=1640, Аккаунты=608
+126	Majestic RP	4520	high	Прочее=1632, Донат=1018, Вирты=581
+127	Hay Day	4509	high	Прочее=1652, Донат=1086, Алмазы=758
+128	Cyberpunk 2077	4481	high	Ключи=2717, Аккаунты=1179, Оффлайн активации=343
+129	Lineage 2 Essence	4474	high	Прочее=3391, Аккаунты=496, Предметы=341
+130	Cult of the Lamb	4330	high	Прочее=3401, Ключи=651, Аккаунты=268
+131	Enshrouded	4283	high	Прочее=3258, Ключи=579, Аккаунты=237
+132	Astro Bot	4266	high	Прочее=3798, Ключи=297, Аккаунты=171
+133	Total War	4259	high	Ключи=3627, Аккаунты=552, Прочее=80
+134	League of Legends: Wild Rift	4239	high	Прочее=1691, Wild Cores=1365, Донат=738
+135	Call of Duty: Modern Warfare 3 (2023)	4214	high	Прочее=1773, CP=997, Ключи=514
+136	Tom Clancy's Rainbow Six	4172	high	Ключи=1420, Кредиты=870, Аккаунты=732
+137	Resident Evil	4128	high	Ключи=2597, Аккаунты=954, Оффлайн активации=509
+138	Hogwarts Legacy	4107	high	Ключи=1982, Аккаунты=1174, Прочее=671
+139	Kingdom Come: Deliverance	4094	high	Ключи=2484, Аккаунты=744, Прочее=597
+140	Car Parking Multiplayer	4066	high	Прочее=2121, Предметы=939, Услуги=326
+141	Aliens: Dark Descent	3996	high	Прочее=3091, Ключи=603, Аккаунты=157
+142	Aion 2	3963	high	Кинары=1641, Услуги=819, Донат=648
+143	Assassin’s Creed Shadows	3948	high	Ключи=2375, Аккаунты=597, Helix Credits=378
+144	Dragon Age: The Veilguard	3905	high	Прочее=2570, Ключи=1137, Аккаунты=160
+145	Palworld	3863	high	Прочее=2470, Ключи=796, Аккаунты=411
+146	NBA 2K	3814	high	Ключи=2279, Аккаунты=1025, VC=373
+147	Матрешка RP	3813	high	Вирты=1197, Услуги=1126, Прочее=887
+148	Tom Clancy's The Division	3766	high	Ключи=2205, Аккаунты=443, Премиальные кредиты=415
+149	Mortal Kombat 1	3764	high	Ключи=2056, Аккаунты=951, Донат=345
+150	Age of Mythology: Retold	3761	high	Прочее=2226, Ключи=1151, Аккаунты=179
+151	Marvel Rivals	3746	high	Кристаллы=977, Буст=611, Прочее=550
+152	8 Ball Pool	3682	high	Прочее=2626, Донат=394, Монеты=327
+153	The Sims	3679	high	Ключи=2591, Донат=571, Аккаунты=483
+154	Brawlhalla	3583	high	Прочее=2831, Mammoth Coins=212, Донат=186
+155	Armored Core VI: Fires of Rubicon	3548	high	Услуги=2746, Ключи=646, Аккаунты=143
+156	Azur Lane	3530	high	Услуги=1859, Донат=1105, Гемы=500
+157	Bodycam	3506	high	Прочее=2792, Ключи=372, Аккаунты=327
+158	Immortals of Aveum	3439	high	Прочее=2907, Ключи=447, Аккаунты=85
+159	Outlast	3435	high	Ключи=1556, Аккаунты=953, Прочее=683
+160	Chained Together	3348	high	Прочее=2687, Аккаунты=352, Ключи=309
+161	Blockman GO	3341	high	Услуги=1534, Предметы=706, Донат=513
+162	EA SPORTS FC 24	3333	high	Прочее=1754, Points=561, Ключи=390
+163	Fallout 76	3267	high	Ключи=1336, Предметы=815, Услуги=439
+164	Days Gone	3257	high	Прочее=1975, Ключи=779, Аккаунты=503
+165	The Last of Us	3255	high	Ключи=2023, Аккаунты=820, Оффлайн активации=318
+166	EA SPORTS FC 25	3252	high	Ключи=1439, Аккаунты=709, Points=481
+167	Candy Crush	3241	high	Прочее=2787, Донат=423, Аккаунты=17
+168	For Honor	3232	high	Ключи=1710, Донат=667, Сталь=421
+169	Persona	3184	high	Ключи=1468, Прочее=1185, Аккаунты=330
+170	Warhammer 40,000: Space Marine 2	3151	high	Ключи=2276, Аккаунты=468, Услуги=249
+171	Likee	3119	high	Алмазы=1304, Прочее=1105, Услуги=563
+172	Pokemon GO	3099	high	Прочее=2643, Покемонеты=194, Услуги=154
+173	Conan Exiles	3041	medium	Прочее=1815, Ключи=827, Аккаунты=273
+174	Metro	3040	high	Ключи=1748, Аккаунты=812, Оффлайн активации=480
+175	Tom Clancy’s Ghost Recon	3039	medium	Ключи=1878, Аккаунты=507, Донат=375
+176	Ведьмак 3: Дикая Охота	3037	medium	Ключи=1816, Аккаунты=740, Оффлайн активации=371
+177	Dawn of Ages	3033	medium	Прочее=2541, Донат=263, Самоцветы=134
+178	Uplay	3000	medium	Ключи=1395, Аккаунты с играми=942, Пополнение баланса=419
+179	Borderlands 4	2983	medium	Ключи=2067, Аккаунты=260, Прочее=233
+180	Lineage 2 Legacy	2975	medium	Прочее=2561, Предметы=299, Адена=57
+181	Watch Dogs	2973	medium	Ключи=2168, Аккаунты=507, Прочее=135
+182	God of War	2972	medium	Ключи=1868, Аккаунты=794, Оффлайн активации=285
+183	eFootball PES	2942	medium	Прочее=1788, Монеты=712, Аккаунты=442
+184	Spider-Man	2918	high	Ключи=1568, Аккаунты=987, Оффлайн активации=312
+185	Core Keeper	2914	medium	Прочее=2569, Ключи=264, Аккаунты=81
+186	Dragon's Dogma 2	2889	medium	Ключи=1546, Прочее=917, Аккаунты=337
+187	Back 4 Blood	2884	medium	Ключи=1171, Услуги=1112, Аккаунты=476
+188	Tekken	2812	high	Ключи=2184, Аккаунты=545, Услуги=67
+189	Once Human	2799	medium	Прочее=829, Донат=586, Девианты=556
+190	Minecraft Legends	2790	medium	Прочее=2068, Ключи=504, Аккаунты=193
+191	Euro Truck Simulator 2	2745	medium	Ключи=1199, Аккаунты=874, Услуги=375
+192	Last Day on Earth: Survival	2670	medium	Услуги=864, Предметы=740, Донат=730
+193	Deus Ex	2668	medium	Прочее=1817, Ключи=605, Аккаунты=169
+194	R.E.P.O.	2664	medium	Аккаунты=1472, Ключи=844, Прочее=229
+195	Elden Ring Nightreign	2658	medium	Ключи=1968, Аккаунты=375, Услуги=253
+196	Civilization	2654	medium	Ключи=1118, Прочее=1004, Аккаунты=439
+197	Call of Duty: Black Ops 7	2649	medium	Ключи=1069, Услуги=643, Аккаунты=445
+198	Dragon Ball: Sparking Zero	2600	medium	Прочее=1693, Ключи=821, Аккаунты=59
+199	Archeage War	2599	medium	Прочее=2065, Донат=431, Алмазы=77
+200	Devil May Cry: Peak of Combat	2595	medium	Прочее=1831, Донат=504, Гемы=201
+201	Rise of Kingdoms	2592	medium	Донат=1518, Самоцветы=512, Услуги=366
+202	Diablo 2: Resurrected	2562	medium	Предметы=711, Ключи=640, Руны=527
+203	Awaken: Chaos Era	2531	medium	Услуги=2022, Донат=369, Бриллианты=140
+204	Fallout 4	2483	medium	Ключи=1076, Прочее=965, Аккаунты=306
+205	Black Clover M	2461	medium	Прочее=1879, Донат=338, Black Crystals=151
+206	Mortal Kombat 11	2460	medium	Ключи=1459, Аккаунты=656, Game Pass=129
+207	Amikin Survival	2432	medium	Прочее=2026, Донат=234, Самоцветы нексуса=87
+208	Car Parking Multiplayer 2	2422	medium	Прочее=1876, Предметы=242, Донат=122
+209	Beat Saber	2397	medium	Прочее=1900, Ключи=308, Аккаунты=189
+210	The Crew Motorfest	2393	medium	Ключи=1708, Аккаунты=297, Кредиты=198
+211	Lost Light	2388	medium	Прочее=867, Light Points=461, Донат=453
+212	Resident Evil 4	2367	medium	Ключи=1579, Аккаунты=492, Оффлайн активации=169
+213	Lineage 2 Aden	2363	medium	Прочее=2300, Адена=57, Предметы=5
+214	Ghost of Tsushima	2355	medium	Ключи=1007, Прочее=899, Аккаунты=328
+215	Little Nightmares	2347	medium	Ключи=1475, Аккаунты=608, Оффлайн активации=193
+216	Fall Guys	2345	medium	Прочее=1163, Донат=543, Шмяксы=405
+217	Русская Рыбалка	2345	medium	Услуги=961, Предметы=591, Золото=342
+218	Phasmophobia	2341	medium	Аккаунты=921, Ключи=616, Услуги=444
+219	Deep Rock Galactic	2332	medium	Прочее=1018, Ключи=795, Аккаунты=459
+220	Dark and Darker	2329	medium	Прочее=1946, Услуги=206, Предметы=96
+221	Rocket League	2327	medium	Донат=955, Буст=434, Прочее=344
+222	RAVEN2	2325	medium	Донат=884, Алмазы=774, Прочее=235
+223	Clair Obscur: Expedition 33	2317	medium	Ключи=1695, Аккаунты=362, Оффлайн активации=100
+224	Blue Lock Project: World Champion	2311	medium	Прочее=1844, Донат=247, Blue Gems=143
+225	Rematch	2309	medium	Ключи=1492, Аккаунты=598, Прочее=135
+226	Monster Hunter Wilds	2287	medium	Ключи=1776, Аккаунты=243, Услуги=155
+227	Night Crows	2281	medium	Бриллианты=756, Прочее=697, Донат=429
+228	Eiyuden Chronicle: Hundred Heroes	2258	medium	Прочее=1668, Ключи=558, Аккаунты=32
+229	Halo Infinite	2246	medium	Прочее=1654, Ключи=274, Кредиты=191
+230	Rush Royale	2234	medium	Донат=856, Услуги=437, Аккаунты=344
+231	Squad	2213	medium	Ключи=985, Аккаунты=621, Прочее=607
+232	Dark Souls	2209	medium	Ключи=1493, Аккаунты=492, Оффлайн активации=183
+233	No Rest for the Wicked	2208	medium	Прочее=1819, Ключи=321, Аккаунты=49
+234	Throne and Liberty	2182	medium	Lucent=805, Донат=310, Услуги=235
+235	Watcher of Realms	2172	medium	Аккаунты=695, W-Gold=657, Донат=458
+236	Armored Warfare: Армата	2168	medium	Услуги=1670, Предметы=345, Золото=141
+237	Forza Motorsport (2023)	2160	medium	Ключи=1014, Прочее=898, Game Pass=120
+238	Terraria	2160	high	Ключи=758, Аккаунты=721, Предметы=361
+239	Blum	2139	medium	Прочее=1878, Рефералы=245, Услуги=16
+240	Frostpunk 2	2137	medium	Ключи=987, Прочее=914, Аккаунты=182
+241	CookieRun: Kingdom	2118	medium	Донат=1139, Аккаунты=473, Кристаллы=414
+242	Harry Potter: Magic Awakened	2112	medium	Прочее=1565, Jewels=401, Донат=136
+243	Perfect World	2111	medium	Аккаунты=716, Услуги=425, Донат=341
+244	Horizon	2104	medium	Ключи=1047, Прочее=573, Аккаунты=367
+245	Anno	2094	medium	Ключи=1467, Аккаунты=427, Прочее=110
+246	Microsoft Flight Simulator	2069	medium	Ключи=1383, Аккаунты=313, Game Pass=248
+247	It Takes Two	2064	medium	Ключи=1208, Аккаунты=750, Game Pass=71
+248	Hollow Knight	2014	medium	Ключи=1107, Аккаунты=520, Оффлайн активации=285
+249	Will To Live Online	2006	medium	Предметы=1214, Услуги=545, Жетоны=183
+250	Final Fantasy XVI	1996	medium	Прочее=914, Ключи=810, Аккаунты=169
+251	Lineage 2M	1978	medium	Донат=890, Алмазы=441, Услуги=317
+252	Dead Rising	1976	medium	Прочее=1000, Ключи=698, Аккаунты=195
+253	Garry’s Mod	1972	medium	Аккаунты=857, Ключи=466, Услуги=448
+254	Goddess of Victory: Nikke	1972	medium	Донат=959, Гемы=716, Аккаунты=280
+255	Hearts of Iron IV	1969	medium	Ключи=1306, Аккаунты=379, Услуги=192
+256	Honor of Kings	1969	medium	Жетоны=978, Прочее=570, Донат=311
+257	FIFA	1966	medium	Аккаунты=823, Ключи=499, Points=280
+258	Peak	1965	medium	Аккаунты=1170, Ключи=649, Прочее=96
+259	7 Days to Die	1962	medium	Ключи=862, Аккаунты=676, Прочее=273
+260	Diablo 3	1946	medium	Ключи=1038, Аккаунты=520, Услуги=303
+261	Remnant 2	1941	medium	Ключи=1335, Аккаунты=315, Прочее=136
+262	Where Winds Meet	1896	medium	Услуги=613, Echo Beads=584, Прокачка=298
+263	Warhammer	1847	medium	Ключи=1386, Аккаунты=294, Оффлайн активации=117
+264	Ready or Not	1843	medium	Ключи=1119, Аккаунты=651, Прочее=73
+265	Bombie	1829	medium	Прочее=1797, Рефералы=32, Аккаунты=0
+266	Corepunk	1823	medium	Прочее=973, Ключи=259, Предметы=206
+267	Devil May Cry	1817	medium	Ключи=1226, Аккаунты=374, Оффлайн активации=154
+268	Yakuza	1803	medium	Ключи=1395, Аккаунты=219, Оффлайн активации=146
+269	CrossFire	1774	medium	Услуги=1000, ZP=348, Промокоды=219
+270	Monster Hunter	1767	medium	Ключи=1438, Аккаунты=281, Прочее=48
+271	Chivalry 2	1757	medium	Ключи=1164, Аккаунты=330, Прочее=152
+272	Project Zomboid	1750	medium	Прочее=619, Ключи=596, Аккаунты=450
+273	Sid Meier's Civilization 7	1750	medium	Ключи=1354, Аккаунты=284, Оффлайн активации=55
+274	War Thunder Mobile	1741	medium	Донат=1116, Орлы=433, Аккаунты=101
+275	Batman: Arkham	1738	medium	Ключи=1089, Оффлайн активации=277, Аккаунты=265
+276	Sons of the Forest	1728	medium	Аккаунты=766, Ключи=672, Оффлайн активации=161
+277	Payday 3	1707	medium	Ключи=1231, Аккаунты=326, Услуги=79
+278	Liar's Bar	1696	medium	Прочее=878, Аккаунты=412, Ключи=374
+279	Stellar Blade	1686	medium	Ключи=1204, Аккаунты=297, Оффлайн активации=124
+280	Dark Orbit	1682	medium	Услуги=1517, Аккаунты=87, Предметы=76
+281	Hades 2	1682	medium	Прочее=847, Ключи=638, Аккаунты=197
+282	Dragonheir: Silent Gods	1679	medium	Донат=859, Кристаллы дракона=687, Аккаунты=100
+283	My Singing Monsters	1679	medium	Прочее=753, Донат=597, Бриллианты=292
+284	Farlight 84	1677	medium	Прочее=989, Алмазы=570, Донат=85
+285	Sniper Elite	1672	medium	Ключи=1044, Аккаунты=395, Оффлайн активации=196
+286	Dead Space	1661	medium	Ключи=1124, Аккаунты=238, Оффлайн активации=144
+287	Undawn	1641	medium	Донат=662, RC=652, Прочее=159
+288	Province RP	1636	medium	Прочее=479, Донат=386, Услуги=259
+289	Dead Rising Deluxe Remaster	1634	medium	Прочее=971, Ключи=605, Аккаунты=38
+290	Dragon Age	1630	medium	Прочее=872, Ключи=484, Аккаунты=200
+291	Resident Evil Village	1624	medium	Ключи=1044, Аккаунты=366, Оффлайн активации=125
+292	The Crew 2	1617	medium	Ключи=1026, Аккаунты=328, Донат=110
+293	Silent Hill 2	1614	medium	Ключи=1106, Аккаунты=348, Оффлайн активации=111
+294	Backrooms	1613	medium	Ключи=793, Аккаунты=677, Прочее=143
+295	Life is Strange: Double Exposure	1606	medium	Прочее=859, Ключи=587, Аккаунты=98
+296	Manor Lords	1604	medium	Прочее=746, Ключи=629, Аккаунты=186
+297	Killing Floor	1600	medium	Ключи=1155, Аккаунты=192, Прочее=117
+298	Lies of P	1595	medium	Ключи=1066, Аккаунты=297, Game Pass=114
+299	Cabal Online	1590	medium	Услуги=1525, Alz=59, Аккаунты=6
+300	Vikings: War of Clans	1584	medium	Донат=1487, Услуги=45, Предметы=34
+301	RustMe	1580	medium	Услуги=459, Прочее=426, Донат=307
+302	Indiana Jones and the Great Circle	1578	medium	Ключи=1152, Аккаунты=224, Game Pass=98
+303	Skull and Bones	1573	medium	Ключи=808, Золото=345, Аккаунты=127
+304	SnowRunner	1573	medium	Ключи=852, Аккаунты=655, Прочее=66
+305	Expeditions: A MudRunner Game	1572	medium	Прочее=840, Ключи=559, Аккаунты=173
+306	Silent Hill f	1571	medium	Ключи=1130, Аккаунты=283, Оффлайн активации=120
+307	Epic Seven	1569	medium	Прочее=834, Донат=363, Skystones=182
+308	FragPunk	1565	medium	Прочее=1122, Монеты=142, Аккаунты=92
+309	Bullet Echo	1563	medium	Донат=942, Баксы=562, Услуги=43
+310	Call of Duty Warzone Mobile	1521	medium	Прочее=1032, Донат=211, CP=180
+311	ODIN: Valhalla Rising	1508	medium	Донат=483, Алмазы=375, Услуги=250
+312	NHL	1505	medium	Ключи=715, Аккаунты=549, Услуги=171
+313	Дурак Онлайн	1505	medium	Предметы=503, Кредиты=435, Прочее=169
+314	Conqueror's Blade	1500	medium	Прочее=957, Соверены=238, Донат=188
+315	SCUM	1493	medium	Ключи=919, Услуги=313, Аккаунты=204
+316	Football Manager	1492	medium	Прочее=896, Ключи=326, Аккаунты=175
+317	Metaphor: ReFantazio	1488	medium	Прочее=703, Ключи=692, Аккаунты=61
+318	CarX Drift Racing	1485	medium	Ключи=658, Донат=390, Аккаунты=262
+319	Crossout	1485	medium	Услуги=931, Аккаунты=337, Предметы=197
+320	Solo Leveling: ARISE	1476	medium	Донат=656, Аккаунты=280, Алмазы=280
+321	Tomb Raider	1475	medium	Ключи=804, Аккаунты=403, Оффлайн активации=236
+322	Doomsday	1472	medium	Прочее=914, Донат=351, Кристаллы=113
+323	Nulls Brawl	1453	medium	Прочее=726, Услуги=620, Аккаунты=107
+324	Lords of the Fallen	1452	medium	Ключи=1073, Аккаунты=243, Предметы=68
+325	Pixel Gun 3D	1450	medium	Алмазы=367, Аккаунты=328, Донат=313
+326	Split Fiction	1440	medium	Ключи=922, Аккаунты=394, Оффлайн активации=60
+327	Prince of Persia: The Lost Crown	1438	medium	Ключи=668, Прочее=591, Аккаунты=179
+328	Tarisland	1437	medium	Донат=475, Кристаллы=430, Золото=204
+329	Magic Chess: Go Go	1435	medium	Алмазы=1231, Донат=93, Буст=64
+330	Street Fighter 6	1429	medium	Ключи=1066, Аккаунты=303, Прочее=38
+331	No Man's Sky	1413	medium	Ключи=717, Аккаунты=379, Game Pass=96
+332	Gothic	1411	medium	Прочее=850, Ключи=433, Аккаунты=66
+333	Mech Arena: Robot Showdown	1396	medium	Донат=997, А-коины=352, Услуги=36
+334	Flintlock: The Siege of Dawn	1370	medium	Прочее=899, Ключи=414, Аккаунты=34
+335	Starfield	1342	medium	Ключи=1016, Аккаунты=156, Game Pass=112
+336	Party Animals	1339	medium	Прочее=606, Ключи=517, Аккаунты=209
+337	World War Z	1303	medium	Ключи=794, Аккаунты=315, Game Pass=88
+338	IDLE Berserker	1296	medium	Донат=574, Прочее=538, Алмазы=177
+339	Шахматы	1290	medium	Подписка=556, Услуги=297, Аккаунты=231
+340	Valheim	1288	low	Ключи=528, Аккаунты=421, Услуги=200
+341	Arma Reforger	1284	medium	Ключи=851, Аккаунты=220, Прочее=105
+342	Torchlight: Infinite	1278	low	Донат=681, Первокристаллы=313, Элементиевое пламя=128
+343	Naruto X Boruto Ultimate Ninja Storm Connections	1274	medium	Прочее=688, Ключи=497, Аккаунты=89
+344	Command & Conquer: Legions	1270	medium	Прочее=896, Донат=186, Gold=156
+345	Tower of Fantasy	1256	low	Прочее=391, Tanium=374, Донат=291
+346	VR игры	1249	low	Ключи=514, Аккаунты=427, Оффлайн активации=193
+347	F1 25	1241	medium	Ключи=963, Аккаунты=193, Оффлайн активации=49
+348	Plants vs Zombies 2	1238	low	Прочее=652, Аккаунты=216, Услуги=130
+349	Gran Turismo	1233	very_low	Прочее=851, Ключи=208, Аккаунты=174
+350	Grounded	1226	very_low	Ключи=788, Аккаунты=261, Game Pass=86
+351	Last Island of Survival	1225	medium	Купоны=717, Донат=239, Услуги=215
+352	Heroes vs Hordes: Survivor	1219	low	Прочее=687, Донат=385, Кристаллы=117
+353	Payday 2	1219	low	Ключи=582, Аккаунты=382, Оффлайн активации=133
+354	Catizen	1205	low	Прочее=924, Рефералы=276, Услуги=5
+355	Lord of Nazarick	1205	medium	Прочее=791, Донат=255, Magic Crystals=146
+356	PUBG: New State	1205	low	Прочее=686, NC=483, Аккаунты=20
+357	Facebook	1202	medium	Услуги=1166, Группы=36
+358	Left 4 Dead	1201	medium	Аккаунты=497, Ключи=333, Прочее=178
+359	Mobile Legends: Adventure	1200	medium	Донат=521, M-Cash=441, Алмазы=113
+360	Destiny: Rising	1196	low	Silver=453, Донат=420, Battle Pass=203
+361	RV There Yet	1195	medium	Аккаунты=782, Ключи=372, Прочее=28
+362	Paladins	1187	low	Прочее=751, Аккаунты=271, Кристаллы=122
+363	Royal Match	1184	medium	Донат=685, Монеты=380, Прочее=99
+364	Zepeto	1184	medium	Земы=673, Донат=488, Услуги=12
+365	Heroes of Might and Magic	1181	low	Прочее=712, Ключи=330, Аккаунты=102
+366	Mortal Kombat X	1179	medium	Ключи=739, Аккаунты=412, Услуги=28
+367	Stalker Online (Stay Out)	1178	low	Предметы=423, Прочее=412, Услуги=172
+368	Naraka: Bladepoint	1169	medium	Прочее=804, Аккаунты=122, Ключи=87
+369	Squad Busters	1169	low	Донат=526, Монеты=350, Суперский пропуск=122
+370	Team Fortress 2	1161	medium	Предметы=624, Аккаунты=225, Прочее=219
+371	Atomfall	1155	medium	Ключи=746, Аккаунты=172, Прочее=154
+372	V Rising	1151	low	Ключи=771, Аккаунты=256, Услуги=122
+373	Bleach Rebirth of Souls	1135	medium	Ключи=977, Прочее=82, Аккаунты=72
+374	Teamfight Tactics	1134	medium	Монеты=688, Буст=214, Прочее=189
+375	Hill Climb Racing 2	1126	low	Донат=456, Услуги=222, Самоцветы=219
+376	EVE Echoes	1119	medium	AUR=473, Донат=469, Предметы=103
+377	Pax Dei	1117	low	Прочее=623, Ключи=279, Предметы=132
+378	Karos Online	1113	medium	Предметы=425, Услуги=383, Аккаунты=167
+379	Gwent	1108	very_low	Донат=913, Метеоритная пыль=176, Услуги=14
+380	Gray Zone Warfare	1107	very_low	Прочее=890, Ключи=154, Аккаунты=63
+381	Minecraft Dungeons	1105	medium	Ключи=769, Аккаунты=290, Услуги=31
+382	The First Berserker: Khazan	1094	medium	Ключи=846, Аккаунты=143, Оффлайн активации=70
+383	Homeworld 3	1093	low	Прочее=607, Ключи=460, Аккаунты=26
+384	Reverse: 1999	1093	low	Донат=572, Crystal Drops=237, Аккаунты=209
+385	Pokemon TCG Pocket	1088	low	Прочее=591, Poke Gold=178, Аккаунты=161
+386	Frostborn	1087	very_low	Донат=552, Монеты=252, Предметы=251
+387	Honkai Impact 3rd	1087	low	B-Chips=480, Кристаллы=461, Аккаунты=65
+388	Warcraft Rumble	1086	medium	Донат=665, Монеты=311, Услуги=59
+389	Don't Starve Together	1082	low	Ключи=425, Аккаунты=376, Прочее=115
+390	Infinity Nikki	1082	medium	Донат=606, Stellarite=264, Услуги=100
+391	Wuchang: Fallen Feathers	1082	medium	Ключи=884, Аккаунты=112, Оффлайн активации=60
+392	The Seven Deadly Sins: Grand Cross	1065	medium	Донат=793, Аккаунты=227, Услуги=45
+393	Subnautica	1057	medium	Ключи=568, Аккаунты=332, Оффлайн активации=139
+394	Girls Frontline 2: Exilium	1048	very_low	Донат=853, Аккаунты=109, Прочее=52
+395	GOG	1045	very_low	Ключи=880, Аккаунты с играми=165
+396	Vampire: The Masquerade - Bloodlines 2	1045	low	Ключи=845, Аккаунты=119, Оффлайн активации=66
+397	Legend of YMIR	1043	medium	Донат=574, Алмазы=196, Аккаунты=109
+398	MO.CO	1038	medium	Донат=474, Монеты=374, Прочее=74
+399	Abyss of Dungeons	1032	low	Прочее=505, Донат=350, Услуги=173
+400	Infinite Magicraid	1028	medium	Донат=552, Алмазы=206, Аккаунты=166
+401	Hytale	1026	low	Ключи=744, Аккаунты=187, Услуги=47
+402	Geometry Dash	1019	very_low	Услуги=313, Аккаунты=251, Ключи=205
+403	Etheria Restart	1013	medium	Донат=352, Кристаллы=243, Аккаунты=218
+404	Identity V	996	low	Echoes=727, Услуги=218, Аккаунты=51
+405	Dungeonborne	994	low	Прочее=907, Услуги=31, Ключи=28
+406	Palia	972	low	Прочее=661, Coins=134, Услуги=109
+407	Madden NFL	967	low	Ключи=604, Аккаунты=282, Услуги=81
+408	Punishing: Gray Raven	949	low	Rainbow Cards=489, Донат=380, Аккаунты=61
+409	The Finals	939	low	Прочее=478, Буст=153, Twitch Drops=130
+410	Kenshi	935	low	Прочее=570, Ключи=274, Аккаунты=91
+411	Hustle Castle	934	low	Услуги=593, Алмазы=254, Предметы=79
+412	RoboCop: Rogue City	928	low	Ключи=709, Аккаунты=148, Оффлайн активации=71
+413	City Holder	926	low	Прочее=907, Рефералы=18, Услуги=1
+414	Fellowship (2025)	926	low	Буст=548, Ключи=288, Аккаунты=46
+415	Stardew Valley	922	low	Ключи=484, Аккаунты=274, Оффлайн активации=114
+416	Soul Knight	917	low	Донат=462, Услуги=280, Аккаунты=175
+417	Myths of Moonrise	916	low	Прочее=674, Донат=95, Алмазы=82
+418	The First Descendant	909	low	Услуги=451, Caliber=291, Прочее=134
+419	Summoners War: Sky Arena	908	low	Аккаунты=456, Донат=414, Прочее=38
+420	Love and Deepspace	906	low	Донат=378, Кристаллы=303, Пропуск Aurum=165
+421	Chaos Zero Nightmare	905	low	Донат=515, Аккаунты=325, Услуги=46
+422	Undecember	902	low	Донат=442, Алмазы=226, Прокачка=100
+423	Nightingale	892	low	Прочее=637, Ключи=219, Аккаунты=36
+424	AI Limit	889	low	Ключи=635, Прочее=153, Аккаунты=79
+425	Super Sus	887	low	Gold Star=480, Донат=350, Услуги=40
+426	Only Up!	885	low	Прочее=627, Ключи=119, Аккаунты=111
+427	Легенды Дракономании	872	low	Донат=609, Кристаллы=225, Услуги=28
+428	Duet Night Abyss	858	low	Донат=330, Phoxene Plumule=255, Услуги=120
+429	The Outer Worlds	856	low	Ключи=622, Аккаунты=134, Оффлайн активации=68
+430	inZOI	848	low	Ключи=580, Аккаунты=136, Прочее=68
+431	Stumble Guys	833	low	Гемы=398, Донат=331, Прочее=54
+432	Bleach: Immortal Soul	824	low	Донат=564, Токены Души=207, Аккаунты=36
+433	Jujutsu Kaisen Phantom Parade	818	low	Донат=534, Аккаунты=216, Прочее=53
+434	Death Stranding	814	low	Аккаунты=452, Ключи=320, Прочее=42
+435	Wallpaper Engine	810	low	Ключи=595, Оффлайн активации=93, Обои=90
+436	One Punch Man: World	793	low	Прочее=614, Донат=114, World Gold=53
+437	Avowed	790	low	Ключи=421, Аккаунты=174, Прочее=146
+438	Ninja Gaiden 4	786	low	Ключи=674, Аккаунты=61, Оффлайн активации=32
+439	The Dark Pictures	782	low	Ключи=423, Аккаунты=242, Оффлайн активации=84
+440	Jurassic World Evolution 3	779	low	Ключи=668, Аккаунты=49, Оффлайн активации=40
+441	Crystal of Atlan	774	low	Opal=313, Донат=296, Phantasium Pass=87
+442	Zooba	774	low	Донат=478, Алмазы=177, Прочее=72
+443	Red Dead Redemption	772	low	Ключи=577, Аккаунты=157, Оффлайн активации=38
+444	One Piece Bounty Rush	771	low	Донат=324, Аккаунты=260, Rainbow Diamonds=177
+445	StarCraft 2	771	low	Ключи=296, Донат=198, Аккаунты=130
+446	Калибр	767	low	Услуги=266, Донат=227, Аккаунты=137
+447	Blue Protocol: Star Resonance	764	low	Донат=386, Rose Gems=271, Услуги=51
+448	Cronos: The New Dawn	754	low	Ключи=585, Аккаунты=119, Оффлайн активации=33
+449	Oxide: Survival Island	754	low	Монеты=197, Предметы=145, Услуги=137
+450	Warcraft 3: Reforged	749	low	Ключи=480, Аккаунты=203, Услуги=66
+451	RimWorld	747	low	Ключи=560, Аккаунты=131, Прочее=56
+452	Hell is Us	739	low	Ключи=577, Аккаунты=99, Прочее=42
+453	Дзен	717	low	Услуги=686, Каналы=31
+454	Trovo	716	low	Услуги=655, Аккаунты=61, Ace=0
+455	The Alters	709	low	Ключи=575, Аккаунты=87, Прочее=24
+456	Uncharted	709	low	Ключи=369, Аккаунты=183, Прочее=79
+457	The Long Dark	708	low	Ключи=472, Аккаунты=137, Оффлайн активации=65
+458	RoadCraft	702	low	Ключи=537, Аккаунты=128, Прочее=20
+459	MiSide	694	low	Ключи=441, Аккаунты=117, Оффлайн активации=71
+460	Stronghold	694	low	Ключи=522, Аккаунты=87, Оффлайн активации=57
+461	Blade & Soul NEO	686	low	Донат=372, Divine Gems=137, Услуги=74
+462	Outriders	676	low	Ключи=505, Аккаунты=128, Услуги=43
+463	The Legend of Neverland	669	low	Донат=461, Хрусталь Кабалы=181, Услуги=14
+464	Paws	668	low	Прочее=618, Ключи=47, Оффлайн активации=3
+465	Satisfactory	665	low	Ключи=345, Аккаунты=286, Прочее=30
+466	Dragon Nest	662	low	Услуги=592, Золото=40, Предметы=17
+467	PixelTap	658	low	Прочее=540, Рефералы=117, Аккаунты=1
+468	IDLE Heroes	649	low	Донат=451, Алмазы=102, Аккаунты=72
+469	Mecharashi	633	low	Донат=370, Solid Arashium=190, Прочее=45
+470	Hamster Kombat	626	low	Рефералы=511, Услуги=58, Ключи=34
+471	Europa Universalis V	613	low	Ключи=567, Аккаунты=24, Оффлайн активации=12
+472	Ghost of Yotei	606	low	Ключи=425, Аккаунты=181
+473	Black Beacon	594	low	Донат=319, Rune Stones=114, Supply Difference Engine=78
+474	Stella Sora	593	low	Донат=340, Lumina=162, Аккаунты=64
+475	Active Matter	591	low	Прочее=335, Услуги=173, Ключи=49
+476	Royal Quest	585	low	Услуги=160, Прочее=151, Предметы=97
+477	Umamusume: Pretty Derby	583	low	Аккаунты=274, Донат=172, Carats=99
+478	Mimesis	579	low	Аккаунты=384, Ключи=166, Прочее=20
+479	Tainted Grail: The Fall of Avalon	577	low	Ключи=460, Аккаунты=70, Оффлайн активации=25
+480	Modern Warships	575	low	Донат=375, Золото=157, Аккаунты=23
+481	Enigma of Sepia	570	low	Донат=344, Star Diamond=171, Прочее=50
+482	Persona 5: The Phantom X	569	low	Донат=263, Кристаллы=170, Phantom Pass=61
+483	Mortal Online 2	567	low	Золото=267, Предметы=121, Ключи=84
+484	Ragnarok	563	low	Услуги=313, Предметы=135, Зени=88
+485	Unknown 9: Awakening	539	low	Ключи=457, Аккаунты=40, Прочее=36
+486	UNO!	537	low	Донат=253, Алмазы=158, Аккаунты=88
+487	Lost Soul Aside	536	low	Ключи=418, Аккаунты=62, Прочее=29
+488	Thief	536	low	Ключи=330, Аккаунты=101, Оффлайн активации=65
+489	Senua’s Saga: Hellblade 2	534	low	Ключи=316, Аккаунты=76, Game Pass=73
+490	Test Drive Unlimited Solar Crown	528	low	Ключи=414, Аккаунты=70, Прочее=34
+491	Undisputed	523	low	Ключи=323, Аккаунты=139, Прочее=35
+492	Megabonk	513	low	Ключи=176, Услуги=156, Прочее=101
+493	Soundpad	507	low	Ключи=269, Аккаунты=123, Прочее=103
+494	Clash of Kings	504	low	Донат=435, Золото=49, Аккаунты=20
+495	ROM	503	low	Донат=434, Прочее=37, Алмазы=13
+496	Tank Company	503	low	Донат=460, Услуги=35, Аккаунты=8
+497	Titanfall 2	493	low	Ключи=349, Аккаунты=76, Прочее=34
+498	Until Dawn	491	low	Ключи=323, Аккаунты=106, Прочее=38
+499	South of Midnight	474	low	Ключи=397, Аккаунты=35, Прочее=24
+500	Veo 3	473	low	Аккаунты=181, Подписка=136, Услуги=81
+501	Sonic X Shadow Generations	471	low	Ключи=363, Аккаунты=51, Оффлайн активации=29
+502	Suicide Squad: Kill the Justice League	471	low	Ключи=277, Прочее=93, Аккаунты=77
+503	T3 Arena	471	low	Т-гемы=380, Донат=83, Услуги=7
+504	Smite	469	low	Прочее=252, Аккаунты=126, Услуги=60
+505	The Casting of Frank Stone	468	low	Ключи=327, Аккаунты=102, Прочее=39
+506	Commandos: Origins	462	low	Ключи=374, Прочее=42, Аккаунты=37
+507	Shin Megami Tensei V: Vengeance	453	very_low	Ключи=421, Прочее=16, Аккаунты=13
+508	Rise of the Ronin	451	very_low	Ключи=371, Аккаунты=39, Прочее=27
+509	RF Online	450	very_low	Предметы=178, Аккаунты=115, Услуги=114
+510	Tiny Bunny	449	very_low	Ключи=319, Аккаунты=130
+511	Worms	448	very_low	Ключи=325, Аккаунты=48, Прочее=47
+512	Neverwinter	439	very_low	Предметы=162, Услуги=161, Бриллианты=74
+513	Broken Arrow	438	very_low	Ключи=341, Аккаунты=45, Прочее=40
+514	Oniro	438	very_low	Донат=397, Прочее=28, Услуги=9
+515	Ratchet & Clank: Rift Apart	438	very_low	Ключи=284, Аккаунты=125, Прочее=29
+516	Revelation	437	very_low	Услуги=298, Предметы=70, Золото=54
+517	Silver and Blood	437	very_low	Донат=304, Аккаунты=71, Прочее=22
+518	Enlisted	434	very_low	Донат=165, Услуги=143, Золото=103
+519	Silkroad Online	426	very_low	Услуги=245, Золото=96, Предметы=51
+520	Atlas Fallen	422	very_low	Ключи=331, Game Pass=61, Аккаунты=20
+521	Point Blank	417	very_low	Услуги=393, Аккаунты=23, Предметы=1
+522	Deltarune	415	very_low	Ключи=272, Аккаунты=90, Прочее=39
+523	R2 Online	409	very_low	Серебро=182, Услуги=141, Аккаунты=59
+524	Injustice 2 Mobile	408	very_low	Донат=324, Прочее=51, Боевой пропуск=30
+525	Одноклассники	400	very_low	Услуги=398, Группы=2
+526	Titan Quest	397	very_low	Ключи=287, Прочее=44, Аккаунты=42
+527	Metin2	393	very_low	Янги=281, Услуги=104, Предметы=4
+528	Summoners War: Chronicles	393	very_low	Донат=225, Кристаллы=111, Аккаунты=34
+529	Myth of Empires	391	very_low	Ключи=208, Аккаунты=54, Услуги=53
+530	Undertale	388	very_low	Ключи=204, Аккаунты=136, Прочее=45
+531	King Arthur: Legends Rise	381	very_low	Донат=174, Кристаллы=77, Аккаунты=74
+532	Drakensang Online	378	very_low	Услуги=176, Аккаунты=107, Донат=95
+533	Amerzone: The Explorer's Legacy	375	very_low	Ключи=280, Прочее=73, Аккаунты=16
+534	Still Wakes the Deep	375	very_low	Ключи=301, Аккаунты=74
+535	Game of Thrones: Kingsroad	374	very_low	Донат=267, Прочее=92, Аккаунты=13
+536	Exoprimal	365	very_low	Ключи=288, Аккаунты=55, Услуги=22
+537	The Quinfall	361	very_low	Ключи=161, Услуги=75, Прочее=59
+538	Spore	360	very_low	Ключи=224, Аккаунты=98, Прочее=38
+539	Sonic Racing: CrossWorlds	359	very_low	Ключи=316, Аккаунты=27, Оффлайн активации=10
+540	Critical Ops	358	very_low	Кредиты=123, Прочее=118, Услуги=113
+541	Lineage 2 Revolution	346	very_low	Услуги=244, Донат=101, Аккаунты=1
+542	Drive Beyond Horizons	345	very_low	Ключи=184, Аккаунты=130, Оффлайн активации=23
+543	LORDNINE	343	very_low	Алмазы=194, Донат=89, Прочее=39
+544	Sea of Conquest: Pirate War	336	very_low	Донат=194, Изумруды=107, Прочее=28
+545	Sky: Children of the Light	336	very_low	Донат=263, Услуги=52, Аккаунты=15
+546	Sword Art Online Fractured Daydream	334	very_low	Ключи=324, Прочее=10, Аккаунты=0
+547	Tempest Rising	331	very_low	Ключи=313, Прочее=17, Оффлайн активации=1
+548	The Headliners	312	very_low	Ключи=162, Аккаунты=118, Прочее=32
+549	Mecha Break	306	very_low	Кориты=237, Прочее=34, Донат=13
+550	Kling AI	297	very_low	Подписка=129, Кредиты=80, Аккаунты=68
+551	Escape from Duckov	295	very_low	Ключи=137, Аккаунты=91, Прочее=63
+552	Era of Celestials	293	very_low	Алмазы=183, Донат=110, Аккаунты=0
+553	Revelation Mobile	293	very_low	Донат=164, Небесные самоцветы=78, Прочее=46
+554	Trove	292	very_low	Услуги=95, Предметы=92, Кредиты=54
+555	Legacy: Steel & Sorcery	283	very_low	Ключи=121, Прочее=69, Предметы=47
+556	Warno	279	very_low	Ключи=213, Прочее=51, Аккаунты=12
+557	MindsEye	275	very_low	Ключи=185, Аккаунты=45, Прочее=28
+558	Lost Records: Bloom & Rage	269	very_low	Ключи=193, Прочее=56, Аккаунты=16
+559	Journey of Monarch	264	very_low	Донат=199, Прочее=48, Diamonds=6
+560	Strinova	264	very_low	Донат=91, Прочее=83, Аккаунты=43
+561	WPlace	263	very_low	Донат=143, Услуги=96, Аккаунты=15
+562	Gran Saga	260	very_low	Донат=196, Прочее=48, Аккаунты=8
+563	Heroes of the Storm	260	very_low	Аккаунты=144, Услуги=116
+564	Foundation	253	very_low	Ключи=190, Прочее=47, Аккаунты=10
+565	Icarus	249	very_low	Аккаунты=85, Золото=76, Услуги=72
+566	Block Strike	248	very_low	Донат=114, Прочее=102, Предметы=15
+567	Painkiller	248	very_low	Ключи=191, Прочее=24, Оффлайн активации=17
+568	Warborne Above Ashes	242	very_low	Соларбиты=161, Прочее=45, Донат=21
+569	Blood And Soul	237	very_low	GN-монеты=171, Услуги=60, Предметы=3
+570	Ragnarok M: Eternal Love	235	very_low	Big Cat Coins=155, Донат=45, Предметы=24
+571	Project Motor Racing	231	very_low	Ключи=214, Прочее=14, Оффлайн активации=2
+572	Tiles Survive	229	very_low	Донат=193, Аккаунты=21, Прочее=11
+573	Wayfinder	224	very_low	Ключи=156, Аккаунты=45, Услуги=13
+574	Smite 2	219	very_low	Founders Edition=177, Аккаунты=36, Twitch Drops=6
+575	Rasalas	218	very_low	Донат=130, Алмазы (паки)=63, Прочее=18
+576	Sker Ritual	218	very_low	Ключи=164, Прочее=29, Аккаунты=25
+577	Perfect World Mobile	216	very_low	Донат=162, Услуги=52, Аккаунты=2
+578	Stormgate	216	very_low	Ключи=168, Прочее=23, Аккаунты=12
+579	Total Conflict: Resistance	216	very_low	Ключи=180, Прочее=32, Аккаунты=4
+580	Critical Strike	215	very_low	Донат=172, Услуги=43, Аккаунты=0
+581	Wild Terra 2: New Lands	208	very_low	Золото=94, Услуги=50, Аккаунты=32
+582	Vladik Brutal	205	very_low	Ключи=134, Прочее=47, Аккаунты=24
+583	Forever Skies	203	very_low	Ключи=130, Прочее=46, Аккаунты=25
+584	World of Goo	195	very_low	Ключи=147, Прочее=33, Аккаунты=15
+585	Evil Dead: The Game	190	very_low	Ключи=137, Аккаунты=49, Услуги=4
+586	The Legend of Zelda	188	very_low	Аккаунты=65, Ключи=63, Прочее=60
+587	Anchor Panic	186	very_low	Донат=102, Прочее=43, Кристаллы=26
+588	BitCraft Online	185	very_low	Ключи=90, Прочее=37, Услуги=31
+589	The Bazaar	179	very_low	Донат=75, Прочее=57, Founder's Packs=44
+590	MIR4	177	very_low	Услуги=105, Золото=61, Аккаунты=11
+591	Perfect World: Ascend	172	very_low	Донат=59, Прочее=44, Gold Ingots=30
+592	Runway	171	very_low	Подписка=96, Аккаунты=42, Услуги=33
+593	Towa and the Guardians of the Sacred Tree	169	very_low	Ключи=153, Прочее=16, Аккаунты=0
+594	Hero Siege	167	very_low	Аккаунты=97, Золото=35, Услуги=34
+595	TERA	159	very_low	Услуги=91, Золото=40, Предметы=23
+596	Skyforge	156	very_low	Услуги=148, Аккаунты=8
+597	Seven Hearts Stories	155	very_low	Донат=106, Алмазы=35, Прочее=14
+598	FBC: Firebreak	153	very_low	Ключи=87, Аккаунты=28, Прочее=27
+599	Ravendawn	151	very_low	Донат=46, Прочее=43, Twitch Drops=23
+600	Wildgate	151	very_low	Ключи=107, Аккаунты=21, Прочее=12
+601	Ragnarok Origin	143	very_low	Донат=133, Услуги=6, Аккаунты=4
+602	Rappelz	136	very_low	Услуги=87, Рупи=33, Предметы=11
+603	System Shock 2: Remaster	134	very_low	Ключи=104, Game Pass=12, Прочее=12
+604	Contract Wars	129	very_low	Услуги=118, Предметы=6, Аккаунты=5
+605	Dreadmyst	126	very_low	Предметы=59, Золото=28, Услуги=19
+606	AutoChess	107	very_low	Пончики=95, Аккаунты=7, Буст=5
+607	Blade & Soul 2	106	very_low	Услуги=101, Аккаунты=3, Камни бога=1
+608	Kaiju NO. 8 The Game	106	very_low	Донат=29, Прочее=27, Аккаунты=25
+609	Jump Space	101	very_low	Ключи=56, Прочее=19, Аккаунты=15
+610	Perfect World International	98	very_low	Юани=48, Услуги=38, Аккаунты=10
+611	Bless Unleashed	95	very_low	Услуги=69, Star Seeds=24, Аккаунты=2
+612	Valorant Mobile	92	very_low	Прочее=34, Услуги=32, Донат=16
+613	RCD	89	very_low	Прочее=56, Монеты=19, Услуги=10
+614	Splitgate 2	85	very_low	Прочее=32, Наборы=22, Twitch Drops=19
+615	Легенды Кунг Фу	84	very_low	Прочее=36, Услуги=30, Ляни=16
+616	World of Warcraft Titan Reforged	80	very_low	Золото=57, Прочее=11, Аккаунты=8
+617	RavenQuest	76	very_low	Прочее=32, Услуги=24, Донат=11
+618	Rohan 2	76	very_low	Донат=58, Прочее=10, Валюта=4
+619	Threads	71	very_low	Услуги=66, Аккаунты=5
+620	Last Oasis	66	very_low	Аккаунты=36, Услуги=30, Флоты=0
+621	Arknights: Endfield	61	very_low	Услуги=37, Аккаунты=16, Донат=8
+622	Tabletop Simulator	61	very_low	Ключи=49, Прочее=9, Услуги=3
+623	Broken Ranks	59	very_low	Платина=22, Золото=14, Прокачка=12
+624	Blade & Soul Heroes	58	very_low	Донат=22, Прочее=20, Divine Gems=12
+625	Spectre Divide	55	very_low	Прочее=35, Ключи=17, Аккаунты=3
+626	Chicken Gun	50	very_low	Услуги=24, Аккаунты=20, Монеты=6
+627	Dungeon Stalkers	47	very_low	Прочее=21, Донат=11, Услуги=11
+628	World of Water	45	very_low	Донат=39, Услуги=5, Аккаунты=1
+629	Bird Game 3	41	very_low	Аккаунты=19, Прочее=15, Донат=4
+630	Drakantos	37	very_low	Прочее=26, Услуги=11, Аккаунты=0
+631	World of Sea Battle	37	very_low	Предметы=19, Услуги=9, Прочее=7
+632	2XKO	30	very_low	Ключи=14, Буст=11, Аккаунты=5
+633	Mistfall Hunter	27	very_low	Прочее=23, Услуги=4, Аккаунты=0
+634	SoulWorker	27	very_low	Услуги=17, Dzenai=8, Аккаунты=2
+635	GanjaWars	25	very_low	Услуги=18, Аккаунты=7
+636	Mad World: Age of Darkness	24	very_low	Услуги=17, Золото=6, Аккаунты=1
+637	Project Zeta	17	very_low	Прочее=16, Аккаунты=1, Услуги=0
+638	Anvil Empires	5	very_low	Аккаунты=5, Серебро=0
+639	PUBG: Black Budget	4	very_low	Аккаунты=4, Twitch Drops=0
+640	Chrono Odyssey	2	very_low	Аккаунты=2, Ключи=0, Донат=0
+641	Aniimo	0	very_low	
+642	App Store & iTunes	0	very_low	
+643	Bellatores	0	very_low	
+644	Code Vein II	0	very_low	
+645	Conscript	0	very_low	
+646	Crimson Desert	0	very_low	
+647	Crosswind	0	very_low	
+648	Edens Zero	0	very_low	
+649	Exoborne	0	very_low	
+650	Fantasy Life i: The Girl Who Steals Time	0	very_low	
+651	Fate Trigger	0	very_low	
+652	FP Club	0	very_low	Аккаунты=0, Ключи=0, Донат=0
+653	Gods, Death & Reapers	0	very_low	
+654	Hunter x Hunter Nen x Impact	0	very_low	
+655	Inazuma Eleven: Victory Road	0	very_low	
+656	Mandragora: Whispers of the Witch Tree	0	very_low	
+657	Marathon	0	very_low	
+658	Nioh 3	0	very_low	
+659	NTE (Neverness to Everness)	0	very_low	
+660	Pioner	0	very_low	
+661	Prison Architect 2	0	very_low	
+662	Reanimal	0	very_low	
+663	Resident Evil Requiem	0	very_low	
+664	Rust Mobile	0	very_low	
+665	Saros	0	very_low	
+666	Silver Palace	0	very_low	
+667	Soulframe	0	very_low	
+668	Soulmask	0	very_low	
+669	Star Savior	0	very_low	
+670	The Midnight Walkers	0	very_low	
+671	Vampires: Bloodlord Rising	0	very_low	
+672	Vaultbreakers	0	very_low	
+673	VK Coin	0	very_low	
+674	007 First Light	0	very_low	

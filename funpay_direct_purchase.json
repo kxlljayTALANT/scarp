@@ -1,0 +1,3717 @@
+[
+  {
+    "name": "Abyss of Dungeons",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or mobile stores."
+  },
+  {
+    "name": "Acrobat",
+    "direct_purchase": true,
+    "reason": "Part of Adobe's subscription plans available directly on their site."
+  },
+  {
+    "name": "Active Matter",
+    "direct_purchase": false,
+    "reason": "Unclear if sold directly; likely through third-party platforms."
+  },
+  {
+    "name": "Adobe",
+    "direct_purchase": true,
+    "reason": "Subscriptions and digital goods sold directly on official site."
+  },
+  {
+    "name": "AFK Arena",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "AFK Journey",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "After Effects",
+    "direct_purchase": true,
+    "reason": "Part of Adobe's subscription plans available directly on their site."
+  },
+  {
+    "name": "Age of Empires Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through App Store or Google Play."
+  },
+  {
+    "name": "Age of Mythology: Retold",
+    "direct_purchase": false,
+    "reason": "Sold through Steam or Xbox store."
+  },
+  {
+    "name": "Age of Wonders 4",
+    "direct_purchase": false,
+    "reason": "Sold through Steam or other third-party platforms."
+  },
+  {
+    "name": "AI Limit",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam."
+  },
+  {
+    "name": "Aion",
+    "direct_purchase": false,
+    "reason": "Purchases handled through NCsoft launcher or third-party stores."
+  },
+  {
+    "name": "Aion 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through NCsoft or third-party stores."
+  },
+  {
+    "name": "Aion Classic",
+    "direct_purchase": false,
+    "reason": "Purchases handled through NCsoft launcher or third-party stores."
+  },
+  {
+    "name": "Alan Wake 2",
+    "direct_purchase": false,
+    "reason": "Sold through Epic Games Store or console stores."
+  },
+  {
+    "name": "Albion Online",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or official launcher with third-party integration."
+  },
+  {
+    "name": "Aliens: Dark Descent",
+    "direct_purchase": false,
+    "reason": "Sold through Steam or console stores."
+  },
+  {
+    "name": "Amazing RP",
+    "direct_purchase": false,
+    "reason": "Unclear if sold directly; likely through third-party platforms."
+  },
+  {
+    "name": "Amerzone: The Explorer's Legacy",
+    "direct_purchase": false,
+    "reason": "Likely sold through Steam or other third-party platforms."
+  },
+  {
+    "name": "Amikin Survival",
+    "direct_purchase": false,
+    "reason": "Likely sold through App Store or Google Play."
+  },
+  {
+    "name": "Among Us",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, App Store, or Google Play."
+  },
+  {
+    "name": "Anchor Panic",
+    "direct_purchase": false,
+    "reason": "Unclear if sold directly; likely through third-party platforms."
+  },
+  {
+    "name": "Aniimo",
+    "direct_purchase": false,
+    "reason": "Unclear if sold directly; likely through third-party platforms."
+  },
+  {
+    "name": "Anno",
+    "direct_purchase": false,
+    "reason": "Sold through Ubisoft Store or other third-party platforms."
+  },
+  {
+    "name": "Anomaly Zone",
+    "direct_purchase": false,
+    "reason": "Likely sold through Steam or other third-party platforms."
+  },
+  {
+    "name": "Anthem",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA/Origin or console stores."
+  },
+  {
+    "name": "Anvil Empires",
+    "direct_purchase": false,
+    "reason": "Likely through Steam or other platforms, no clear direct purchase on official site."
+  },
+  {
+    "name": "APB: Reloaded",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam or third-party platforms."
+  },
+  {
+    "name": "Apex Legends",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA/Origin or console stores."
+  },
+  {
+    "name": "App Store & iTunes",
+    "direct_purchase": false,
+    "reason": "Marketplace platform, not a single product site."
+  },
+  {
+    "name": "ARC Raiders",
+    "direct_purchase": false,
+    "reason": "Likely through Steam or Epic Games Store, no direct purchase confirmed."
+  },
+  {
+    "name": "ArcheAge",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam or publisher platforms."
+  },
+  {
+    "name": "Archeage War",
+    "direct_purchase": false,
+    "reason": "Likely through publisher platforms or third-party stores."
+  },
+  {
+    "name": "Arena Breakout",
+    "direct_purchase": false,
+    "reason": "Purchases likely through mobile app stores or third-party platforms."
+  },
+  {
+    "name": "Arizona RP",
+    "direct_purchase": false,
+    "reason": "Likely tied to GTA V platforms or third-party servers, no direct purchase confirmed."
+  },
+  {
+    "name": "ARK: Survival Ascended",
+    "direct_purchase": false,
+    "reason": "Purchases through Steam or console stores."
+  },
+  {
+    "name": "ARK: Survival Evolved",
+    "direct_purchase": false,
+    "reason": "Purchases through Steam or console stores."
+  },
+  {
+    "name": "Arknights",
+    "direct_purchase": false,
+    "reason": "Purchases through mobile app stores like Google Play or App Store."
+  },
+  {
+    "name": "Arknights: Endfield",
+    "direct_purchase": false,
+    "reason": "Likely through mobile app stores or third-party platforms."
+  },
+  {
+    "name": "Arma 3",
+    "direct_purchase": false,
+    "reason": "Purchases through Steam or other platforms."
+  },
+  {
+    "name": "Arma Reforger",
+    "direct_purchase": false,
+    "reason": "Purchases through Steam or console stores."
+  },
+  {
+    "name": "Armored Core VI: Fires of Rubicon",
+    "direct_purchase": false,
+    "reason": "Purchases through Steam, Bandai Namco store, or console stores."
+  },
+  {
+    "name": "Armored Warfare: Армата",
+    "direct_purchase": false,
+    "reason": "Purchases likely through publisher platform or Steam."
+  },
+  {
+    "name": "Ashes of Creation",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Kickstarter or publisher platform, not direct."
+  },
+  {
+    "name": "Asphalt",
+    "direct_purchase": false,
+    "reason": "Purchases through mobile app stores like Google Play or App Store."
+  },
+  {
+    "name": "Assassin’s Creed",
+    "direct_purchase": false,
+    "reason": "Purchases through Ubisoft Store or console stores."
+  },
+  {
+    "name": "Assassin’s Creed Shadows",
+    "direct_purchase": false,
+    "reason": "Purchases through Ubisoft Store or console stores."
+  },
+  {
+    "name": "Assetto Corsa",
+    "direct_purchase": false,
+    "reason": "Purchases through Steam or console stores."
+  },
+  {
+    "name": "Astellia",
+    "direct_purchase": false,
+    "reason": "Purchases likely through publisher platforms or third-party stores."
+  },
+  {
+    "name": "Astro Bot",
+    "direct_purchase": false,
+    "reason": "Purchases through PlayStation Store or other console platforms."
+  },
+  {
+    "name": "Atlas Fallen",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Atomfall",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Atomic Heart",
+    "direct_purchase": false,
+    "reason": "Purchases handled by third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "AutoChess",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores like Steam or Epic."
+  },
+  {
+    "name": "Avatar: Frontiers of Pandora",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Ubisoft store or third-party platforms."
+  },
+  {
+    "name": "Avowed",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by Xbox or Steam."
+  },
+  {
+    "name": "Awaken: Chaos Era",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by App Store or Google Play for mobile."
+  },
+  {
+    "name": "Azur Lane",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by App Store or Google Play for mobile."
+  },
+  {
+    "name": "Back 4 Blood",
+    "direct_purchase": false,
+    "reason": "Purchases handled by third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Backrooms",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores like Steam if available."
+  },
+  {
+    "name": "Baldur's Gate 3",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Batman: Arkham",
+    "direct_purchase": false,
+    "reason": "Purchases handled by third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Battle Teams 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores or in-game platforms."
+  },
+  {
+    "name": "Battle.net",
+    "direct_purchase": false,
+    "reason": "Marketplace/store platform, not a single product site."
+  },
+  {
+    "name": "BattleBit Remastered",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Battlefield",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA app or third-party stores like Steam/console platforms."
+  },
+  {
+    "name": "Battlefield 6",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA app or third-party stores like Steam/console platforms."
+  },
+  {
+    "name": "BeamNG.drive",
+    "direct_purchase": true,
+    "reason": "Direct purchase available on official site."
+  },
+  {
+    "name": "Beat Saber",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Oculus, Steam, or console stores."
+  },
+  {
+    "name": "Bellatores",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores if available."
+  },
+  {
+    "name": "Biomutant",
+    "direct_purchase": false,
+    "reason": "Purchases handled by third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Bird Game 3",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores if available."
+  },
+  {
+    "name": "BitCraft Online",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores or in-game platforms."
+  },
+  {
+    "name": "Black Beacon",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party stores if available."
+  },
+  {
+    "name": "Black Clover M",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by App Store or Google Play for mobile."
+  },
+  {
+    "name": "Black Desert",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Black Desert Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "Black Myth: Wukong",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Black Russia",
+    "direct_purchase": false,
+    "reason": "Likely handled through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Blade & Soul",
+    "direct_purchase": false,
+    "reason": "Purchases handled through NCSoft launcher or third-party stores."
+  },
+  {
+    "name": "Blade & Soul 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through NCSoft or mobile app stores."
+  },
+  {
+    "name": "Blade & Soul Heroes",
+    "direct_purchase": false,
+    "reason": "Likely handled through third-party platforms or app stores."
+  },
+  {
+    "name": "Blade & Soul NEO",
+    "direct_purchase": false,
+    "reason": "Likely handled through third-party platforms or app stores."
+  },
+  {
+    "name": "Bleach Rebirth of Souls",
+    "direct_purchase": false,
+    "reason": "Purchases handled through console stores or third-party platforms."
+  },
+  {
+    "name": "Bleach: Immortal Soul",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "Bless Unleashed",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Block Strike",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "Blockman GO",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "Blood And Soul",
+    "direct_purchase": false,
+    "reason": "Likely handled through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Blood Strike",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "Bloodhunt",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Blue Lock Project: World Champion",
+    "direct_purchase": false,
+    "reason": "Likely handled through App Store or Google Play."
+  },
+  {
+    "name": "Blue Protocol: Star Resonance",
+    "direct_purchase": false,
+    "reason": "Purchases handled through third-party platforms or console stores."
+  },
+  {
+    "name": "Blum",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely handled through third-party platforms."
+  },
+  {
+    "name": "Bodycam",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other third-party stores."
+  },
+  {
+    "name": "Bombie",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely handled through third-party platforms."
+  },
+  {
+    "name": "Boom Beach",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "Borderlands",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Borderlands 4",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Brawl Stars",
+    "direct_purchase": false,
+    "reason": "Purchases handled through App Store or Google Play."
+  },
+  {
+    "name": "Brawlhalla",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Broken Arrow",
+    "direct_purchase": false,
+    "reason": "Likely sold through Steam or other platforms."
+  },
+  {
+    "name": "Broken Ranks",
+    "direct_purchase": false,
+    "reason": "Purchases likely through third-party platforms."
+  },
+  {
+    "name": "Bullet Echo",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Cabal Online",
+    "direct_purchase": false,
+    "reason": "Purchases likely through game launcher or third-party stores."
+  },
+  {
+    "name": "Call of Dragons",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Call of Duty",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Activision/Blizzard or console stores."
+  },
+  {
+    "name": "Call of Duty Mobile",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Call of Duty Warzone",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Activision/Blizzard or console stores."
+  },
+  {
+    "name": "Call of Duty Warzone Mobile",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Call of Duty: Black Ops 6",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Activision/Blizzard or console stores."
+  },
+  {
+    "name": "Call of Duty: Black Ops 7",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Activision/Blizzard or console stores."
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 3 (2023)",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Activision/Blizzard or console stores."
+  },
+  {
+    "name": "Candy Crush",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Canva",
+    "direct_purchase": true,
+    "reason": "Subscriptions available directly on official site."
+  },
+  {
+    "name": "CapCut",
+    "direct_purchase": true,
+    "reason": "Subscriptions available directly on official site."
+  },
+  {
+    "name": "Car Parking Multiplayer",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Car Parking Multiplayer 2",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "CarX Drift Racing",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Castle Clash",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Catizen",
+    "direct_purchase": false,
+    "reason": "Purchases likely through third-party platforms or in-app stores."
+  },
+  {
+    "name": "Chained Together",
+    "direct_purchase": false,
+    "reason": "Likely sold through Steam or other platforms."
+  },
+  {
+    "name": "Chaos Zero Nightmare",
+    "direct_purchase": false,
+    "reason": "Purchases likely through third-party platforms."
+  },
+  {
+    "name": "ChatGPT",
+    "direct_purchase": true,
+    "reason": "Paid plan on official site."
+  },
+  {
+    "name": "Chicken Gun",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Chivalry 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Epic Games Store or console stores."
+  },
+  {
+    "name": "Chrono Odyssey",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores like Steam or Epic."
+  },
+  {
+    "name": "Cities: Skylines II",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "City Holder",
+    "direct_purchase": false,
+    "reason": "Unclear platform, likely third-party store."
+  },
+  {
+    "name": "Civilization",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party stores."
+  },
+  {
+    "name": "Clair Obscur: Expedition 33",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores like Steam or Epic."
+  },
+  {
+    "name": "Clash of Clans",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store or Google Play."
+  },
+  {
+    "name": "Clash of Kings",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store or Google Play."
+  },
+  {
+    "name": "Clash Royale",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store or Google Play."
+  },
+  {
+    "name": "Claude",
+    "direct_purchase": true,
+    "reason": "Subscription available directly via Anthropic's official site."
+  },
+  {
+    "name": "Code Vein II",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores like Steam or console stores."
+  },
+  {
+    "name": "Command & Conquer: Legions",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by App Store or Google Play."
+  },
+  {
+    "name": "Commandos: Origins",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores like Steam or Epic."
+  },
+  {
+    "name": "Conan Exiles",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Conqueror's Blade",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or official launcher with third-party integration."
+  },
+  {
+    "name": "Conscript",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores like Steam."
+  },
+  {
+    "name": "Contract Wars",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party platforms."
+  },
+  {
+    "name": "CookieRun: Kingdom",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store or Google Play."
+  },
+  {
+    "name": "Core Keeper",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party stores."
+  },
+  {
+    "name": "Corepunk",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores or launchers."
+  },
+  {
+    "name": "Counter-Strike 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam."
+  },
+  {
+    "name": "Counter-Strike: GO",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam."
+  },
+  {
+    "name": "Crimson Desert",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores like Steam or Epic."
+  },
+  {
+    "name": "Critical Ops",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store or Google Play."
+  },
+  {
+    "name": "Critical Strike",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store or Google Play."
+  },
+  {
+    "name": "Cronos: The New Dawn",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "CrossFire",
+    "direct_purchase": false,
+    "reason": "Purchases typically handled through in-game stores or third-party platforms."
+  },
+  {
+    "name": "Crossout",
+    "direct_purchase": false,
+    "reason": "Purchases managed via third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Crosswind",
+    "direct_purchase": false,
+    "reason": "Unclear distribution; likely through third-party stores if available."
+  },
+  {
+    "name": "Crunchyroll",
+    "direct_purchase": true,
+    "reason": "Subscriptions available directly on official site."
+  },
+  {
+    "name": "Crystal of Atlan",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party stores or in-game purchases."
+  },
+  {
+    "name": "Cult of the Lamb",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Cursor AI",
+    "direct_purchase": true,
+    "reason": "Likely offers direct subscriptions or purchases on official site."
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam, Epic, or console platforms."
+  },
+  {
+    "name": "Dark and Darker",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party platforms."
+  },
+  {
+    "name": "Dark Orbit",
+    "direct_purchase": false,
+    "reason": "In-game purchases typically through third-party or publisher platforms."
+  },
+  {
+    "name": "Dark Souls",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Dawn of Ages",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party stores or in-game purchases."
+  },
+  {
+    "name": "Days Gone",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or PlayStation Store."
+  },
+  {
+    "name": "DayZ",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Dead by Daylight",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Dead Island 2",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam, Epic, or console platforms."
+  },
+  {
+    "name": "Dead Rising",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Dead Rising Deluxe Remaster",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Dead Space",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam, Epic, or console platforms."
+  },
+  {
+    "name": "Deadlock",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party stores like Steam."
+  },
+  {
+    "name": "Death Stranding",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam, Epic, or console platforms."
+  },
+  {
+    "name": "Deep Rock Galactic",
+    "direct_purchase": false,
+    "reason": "Sold through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Delta Force",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party stores or in-game purchases."
+  },
+  {
+    "name": "Deltarune",
+    "direct_purchase": false,
+    "reason": "Sold or distributed through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Destiny 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Bungie through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Destiny: Rising",
+    "direct_purchase": false,
+    "reason": "Likely handled through third-party stores or platforms."
+  },
+  {
+    "name": "Deus Ex",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam or console stores."
+  },
+  {
+    "name": "Devil May Cry",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Capcom through Steam or console stores."
+  },
+  {
+    "name": "Devil May Cry: Peak of Combat",
+    "direct_purchase": false,
+    "reason": "Mobile game, likely purchases through App Store or Google Play."
+  },
+  {
+    "name": "Diablo 2: Resurrected",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Blizzard's Battle.net."
+  },
+  {
+    "name": "Diablo 3",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Blizzard's Battle.net."
+  },
+  {
+    "name": "Diablo 4",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Blizzard's Battle.net."
+  },
+  {
+    "name": "Diablo Immortal",
+    "direct_purchase": false,
+    "reason": "Mobile game, purchases through App Store or Google Play."
+  },
+  {
+    "name": "Discord",
+    "direct_purchase": true,
+    "reason": "Nitro subscription available directly on official site."
+  },
+  {
+    "name": "Don't Starve Together",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam or console stores."
+  },
+  {
+    "name": "Doom",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Doomsday",
+    "direct_purchase": false,
+    "reason": "Unclear context, likely handled through third-party stores."
+  },
+  {
+    "name": "Dota 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam."
+  },
+  {
+    "name": "Drag Racing: Уличные гонки",
+    "direct_purchase": false,
+    "reason": "Mobile game, likely purchases through App Store or Google Play."
+  },
+  {
+    "name": "Dragon Age",
+    "direct_purchase": false,
+    "reason": "Purchases handled through EA app, Steam, or console stores."
+  },
+  {
+    "name": "Dragon Age: The Veilguard",
+    "direct_purchase": false,
+    "reason": "Purchases handled through EA app, Steam, or console stores."
+  },
+  {
+    "name": "Dragon Ball Legends",
+    "direct_purchase": false,
+    "reason": "Mobile game, purchases through App Store or Google Play."
+  },
+  {
+    "name": "Dragon Ball: Sparking Zero",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Dragon Nest",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms or stores."
+  },
+  {
+    "name": "Dragon Raja",
+    "direct_purchase": false,
+    "reason": "Mobile game, purchases through App Store or Google Play."
+  },
+  {
+    "name": "Dragon's Dogma 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Capcom through Steam or console stores."
+  },
+  {
+    "name": "Dragonheir: Silent Gods",
+    "direct_purchase": false,
+    "reason": "Mobile game, likely purchases through App Store or Google Play."
+  },
+  {
+    "name": "Drakantos",
+    "direct_purchase": false,
+    "reason": "Unclear context, likely handled through third-party stores."
+  },
+  {
+    "name": "Drakensang Online",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through game platform or third-party stores."
+  },
+  {
+    "name": "Dreadmyst",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchases; likely through third-party stores."
+  },
+  {
+    "name": "Drive Beyond Horizons",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchases; likely through third-party stores."
+  },
+  {
+    "name": "Duet Night Abyss",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchases; likely through third-party stores."
+  },
+  {
+    "name": "Dune: Awakening",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Dungeon Stalkers",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchases; likely through third-party stores."
+  },
+  {
+    "name": "Dungeonborne",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchases; likely through third-party stores."
+  },
+  {
+    "name": "Dying Light",
+    "direct_purchase": false,
+    "reason": "Purchases typically handled by Steam or console stores."
+  },
+  {
+    "name": "EA app",
+    "direct_purchase": false,
+    "reason": "Marketplace/store platform, not a single product site."
+  },
+  {
+    "name": "EA SPORTS FC 24",
+    "direct_purchase": false,
+    "reason": "Purchases handled through EA app or console stores."
+  },
+  {
+    "name": "EA SPORTS FC 25",
+    "direct_purchase": false,
+    "reason": "Purchases handled through EA app or console stores."
+  },
+  {
+    "name": "EA SPORTS FC 26",
+    "direct_purchase": false,
+    "reason": "Purchases handled through EA app or console stores."
+  },
+  {
+    "name": "Edens Zero",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchases; likely through third-party stores."
+  },
+  {
+    "name": "eFootball PES",
+    "direct_purchase": false,
+    "reason": "Purchases typically handled through third-party stores or in-game via platform."
+  },
+  {
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "direct_purchase": false,
+    "reason": "Likely sold through Steam or console stores."
+  },
+  {
+    "name": "Elden Ring",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Elden Ring Nightreign",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Elder Scrolls",
+    "direct_purchase": false,
+    "reason": "Purchases typically handled by third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Elder Scrolls Online (TESO)",
+    "direct_purchase": true,
+    "reason": "Subscriptions and purchases available directly on official site."
+  },
+  {
+    "name": "ElevenLabs",
+    "direct_purchase": true,
+    "reason": "Subscription plans available directly on official site."
+  },
+  {
+    "name": "Elite Dangerous",
+    "direct_purchase": true,
+    "reason": "Purchases and subscriptions available directly on official site."
+  },
+  {
+    "name": "Enigma of Sepia",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchases; likely through third-party stores."
+  },
+  {
+    "name": "Enlisted",
+    "direct_purchase": false,
+    "reason": "Purchases typically handled through third-party stores or in-game via platform."
+  },
+  {
+    "name": "Enshrouded",
+    "direct_purchase": false,
+    "reason": "Likely sold through Steam or other third-party platforms."
+  },
+  {
+    "name": "Entropia Universe",
+    "direct_purchase": true,
+    "reason": "Direct purchases available on official site for in-game currency and items."
+  },
+  {
+    "name": "Epic Games",
+    "direct_purchase": false,
+    "reason": "Marketplace/store platform, not a single product site."
+  },
+  {
+    "name": "Epic Seven",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Era of Celestials",
+    "direct_purchase": false,
+    "reason": "Purchases typically via app stores like Google Play or Apple App Store."
+  },
+  {
+    "name": "Escape from Duckov",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method; likely third-party store."
+  },
+  {
+    "name": "Escape from Tarkov",
+    "direct_purchase": true,
+    "reason": "Direct purchase available on official site."
+  },
+  {
+    "name": "Escape from Tarkov Arena",
+    "direct_purchase": true,
+    "reason": "Direct purchase available on official site."
+  },
+  {
+    "name": "Etheria Restart",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method; likely third-party store."
+  },
+  {
+    "name": "Euro Truck Simulator 2",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam or other platforms."
+  },
+  {
+    "name": "Europa Universalis V",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Steam or other platforms."
+  },
+  {
+    "name": "EVE Echoes",
+    "direct_purchase": false,
+    "reason": "Purchases typically via app stores like Google Play or Apple App Store."
+  },
+  {
+    "name": "EVE Online",
+    "direct_purchase": true,
+    "reason": "Subscription and purchases available on official site."
+  },
+  {
+    "name": "Evil Dead: The Game",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Epic, Steam, or console stores."
+  },
+  {
+    "name": "ExitLag",
+    "direct_purchase": true,
+    "reason": "Subscription available on official site."
+  },
+  {
+    "name": "Exoborne",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method; likely third-party store."
+  },
+  {
+    "name": "Exoprimal",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Expeditions: A MudRunner Game",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Steam or console stores."
+  },
+  {
+    "name": "F1 25",
+    "direct_purchase": false,
+    "reason": "Purchases likely through EA platform or third-party stores."
+  },
+  {
+    "name": "Facebook",
+    "direct_purchase": false,
+    "reason": "Not a game or subscription product; purchases via app stores if applicable."
+  },
+  {
+    "name": "Factorio",
+    "direct_purchase": true,
+    "reason": "Direct purchase available on official site."
+  },
+  {
+    "name": "Fall Guys",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Epic or console stores."
+  },
+  {
+    "name": "Fallout 4",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam, Bethesda launcher, or console stores."
+  },
+  {
+    "name": "Fallout 76",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Bethesda launcher or console stores."
+  },
+  {
+    "name": "Fantasy Life i: The Girl Who Steals Time",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Nintendo eShop or other platforms."
+  },
+  {
+    "name": "Far Cry",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Ubisoft Store, Steam, or console stores."
+  },
+  {
+    "name": "Farlight 84",
+    "direct_purchase": false,
+    "reason": "Purchases likely through app stores or third-party platforms."
+  },
+  {
+    "name": "Farming Simulator",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Fate Trigger",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "FBC: Firebreak",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "FC Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases likely through app stores like Google Play or App Store."
+  },
+  {
+    "name": "Fellowship (2025)",
+    "direct_purchase": false,
+    "reason": "Unclear, likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "FIFA",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA app or console stores."
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "direct_purchase": true,
+    "reason": "Subscription and purchases available on official site."
+  },
+  {
+    "name": "Final Fantasy XVI",
+    "direct_purchase": false,
+    "reason": "Purchases likely through third-party stores like Steam or console stores."
+  },
+  {
+    "name": "Flintlock: The Siege of Dawn",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "Football Manager",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "For Honor",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Ubisoft store or third-party platforms."
+  },
+  {
+    "name": "Forever Skies",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "Forge of Empires",
+    "direct_purchase": true,
+    "reason": "In-game purchases available directly on official site."
+  },
+  {
+    "name": "Fortnite",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Epic/console stores."
+  },
+  {
+    "name": "Forza Horizon",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Xbox or Steam."
+  },
+  {
+    "name": "Forza Motorsport (2023)",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Xbox or Steam."
+  },
+  {
+    "name": "Foundation",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "FP Club",
+    "direct_purchase": false,
+    "reason": "Unclear, likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "FragPunk",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "Free Fire",
+    "direct_purchase": false,
+    "reason": "Purchases likely through app stores like Google Play or App Store."
+  },
+  {
+    "name": "Frostborn",
+    "direct_purchase": false,
+    "reason": "Purchases likely through app stores like Google Play or App Store."
+  },
+  {
+    "name": "Frostpunk 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "Game of Thrones: Kingsroad",
+    "direct_purchase": false,
+    "reason": "Unclear, likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "GanjaWars",
+    "direct_purchase": false,
+    "reason": "Unclear, likely handled by third-party stores or platforms."
+  },
+  {
+    "name": "Garry’s Mod",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam."
+  },
+  {
+    "name": "GearUP Booster",
+    "direct_purchase": true,
+    "reason": "Subscription or purchases likely available on official site."
+  },
+  {
+    "name": "GeForce NOW",
+    "direct_purchase": true,
+    "reason": "Subscription available on official NVIDIA site."
+  },
+  {
+    "name": "Gemini",
+    "direct_purchase": true,
+    "reason": "Subscription available on official Google site."
+  },
+  {
+    "name": "Genshin Impact",
+    "direct_purchase": false,
+    "reason": "Purchases handled through in-game store or third-party platforms."
+  },
+  {
+    "name": "GeoGuessr",
+    "direct_purchase": true,
+    "reason": "Subscription available on official site."
+  },
+  {
+    "name": "Geometry Dash",
+    "direct_purchase": false,
+    "reason": "Purchases handled through app stores or Steam."
+  },
+  {
+    "name": "Ghost of Tsushima",
+    "direct_purchase": false,
+    "reason": "Purchases handled through PlayStation Store or other platforms."
+  },
+  {
+    "name": "Ghost of Yotei",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through PlayStation Store or other platforms."
+  },
+  {
+    "name": "Ghostrunner 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Girls Frontline 2: Exilium",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or in-game systems."
+  },
+  {
+    "name": "God of War",
+    "direct_purchase": false,
+    "reason": "Purchases handled through PlayStation Store or other platforms."
+  },
+  {
+    "name": "Goddess of Victory: Nikke",
+    "direct_purchase": false,
+    "reason": "Purchases handled through app stores or in-game systems."
+  },
+  {
+    "name": "Gods, Death & Reapers",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store involvement."
+  },
+  {
+    "name": "GOG",
+    "direct_purchase": false,
+    "reason": "Marketplace platform, not a single product site."
+  },
+  {
+    "name": "Gothic",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Gran Saga",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or in-game systems."
+  },
+  {
+    "name": "Gran Turismo",
+    "direct_purchase": false,
+    "reason": "Purchases handled through PlayStation Store."
+  },
+  {
+    "name": "Gray Zone Warfare",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Grok",
+    "direct_purchase": true,
+    "reason": "Subscription available on official xAI site."
+  },
+  {
+    "name": "Grounded",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Xbox or Steam."
+  },
+  {
+    "name": "GTA 5 Online",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Rockstar launcher or console stores."
+  },
+  {
+    "name": "GTA 5 RP, SAMP",
+    "direct_purchase": false,
+    "reason": "Purchases tied to GTA 5 via Rockstar or third-party platforms."
+  },
+  {
+    "name": "Guild Wars 2",
+    "direct_purchase": true,
+    "reason": "Purchases and subscriptions available on official site."
+  },
+  {
+    "name": "Gwent",
+    "direct_purchase": false,
+    "reason": "Purchases handled through in-game store or third-party platforms."
+  },
+  {
+    "name": "Hades 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Hailuo AI",
+    "direct_purchase": true,
+    "reason": "Subscription likely available on official site."
+  },
+  {
+    "name": "Halo Infinite",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Xbox/Steam stores."
+  },
+  {
+    "name": "Hamster Kombat",
+    "direct_purchase": false,
+    "reason": "Likely through app stores or third-party platforms."
+  },
+  {
+    "name": "Harry Potter: Magic Awakened",
+    "direct_purchase": false,
+    "reason": "Purchases handled by app stores or third-party platforms."
+  },
+  {
+    "name": "Hay Day",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Hearthstone",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Blizzard/Battle.net."
+  },
+  {
+    "name": "Hearts of Iron IV",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "Hell is Us",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Helldivers",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or PlayStation Store."
+  },
+  {
+    "name": "Hero Siege",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "Heroes of Might and Magic",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Ubisoft or third-party stores."
+  },
+  {
+    "name": "Heroes of the Storm",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Blizzard/Battle.net."
+  },
+  {
+    "name": "Heroes vs Hordes: Survivor",
+    "direct_purchase": false,
+    "reason": "Purchases handled by app stores or third-party platforms."
+  },
+  {
+    "name": "Hill Climb Racing 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam, Epic, or console stores."
+  },
+  {
+    "name": "Hollow Knight",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Homeworld 3",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "Honkai Impact 3rd",
+    "direct_purchase": false,
+    "reason": "Purchases handled by app stores or third-party platforms."
+  },
+  {
+    "name": "Honkai: Star Rail",
+    "direct_purchase": false,
+    "reason": "Purchases handled by app stores or third-party platforms."
+  },
+  {
+    "name": "Honor of Kings",
+    "direct_purchase": false,
+    "reason": "Purchases handled by app stores or third-party platforms."
+  },
+  {
+    "name": "Horizon",
+    "direct_purchase": false,
+    "reason": "Purchases handled by PlayStation Store or other platforms."
+  },
+  {
+    "name": "Hunt: Showdown",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Hunter x Hunter Nen x Impact",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores or app platforms."
+  },
+  {
+    "name": "Hustle Castle",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Hytale",
+    "direct_purchase": false,
+    "reason": "Likely through third-party stores or platforms."
+  },
+  {
+    "name": "Icarus",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "Identity V",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "IDLE Berserker",
+    "direct_purchase": false,
+    "reason": "Purchases typically via app stores like Google Play or App Store."
+  },
+  {
+    "name": "IDLE Heroes",
+    "direct_purchase": false,
+    "reason": "In-game purchases through app stores or third-party platforms."
+  },
+  {
+    "name": "Immortals of Aveum",
+    "direct_purchase": false,
+    "reason": "Purchases handled by platforms like Steam, Epic, or console stores."
+  },
+  {
+    "name": "Inazuma Eleven: Victory Road",
+    "direct_purchase": false,
+    "reason": "Likely sold through Nintendo or other console/app stores."
+  },
+  {
+    "name": "Indiana Jones and the Great Circle",
+    "direct_purchase": false,
+    "reason": "Purchases via platforms like Steam, Xbox, or other stores."
+  },
+  {
+    "name": "Infinite Magicraid",
+    "direct_purchase": false,
+    "reason": "In-game purchases typically through app stores."
+  },
+  {
+    "name": "Infinity Nikki",
+    "direct_purchase": false,
+    "reason": "Likely purchases via app stores or third-party platforms."
+  },
+  {
+    "name": "Injustice 2 Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases handled by app stores like Google Play or App Store."
+  },
+  {
+    "name": "Instagram",
+    "direct_purchase": false,
+    "reason": "Not a game or subscription product; purchases via app stores if any."
+  },
+  {
+    "name": "inZOI",
+    "direct_purchase": false,
+    "reason": "Likely purchases through platforms like Steam or other stores."
+  },
+  {
+    "name": "It Takes Two",
+    "direct_purchase": false,
+    "reason": "Purchases handled by platforms like Steam, Epic, or console stores."
+  },
+  {
+    "name": "Journey of Monarch",
+    "direct_purchase": false,
+    "reason": "Purchases likely via app stores or third-party platforms."
+  },
+  {
+    "name": "Jujutsu Kaisen Phantom Parade",
+    "direct_purchase": false,
+    "reason": "In-game purchases typically through app stores."
+  },
+  {
+    "name": "Jump Space",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by app stores or third-party platforms."
+  },
+  {
+    "name": "Jurassic World Evolution 3",
+    "direct_purchase": false,
+    "reason": "Purchases via platforms like Steam, Epic, or console stores."
+  },
+  {
+    "name": "Kaiju NO. 8 The Game",
+    "direct_purchase": false,
+    "reason": "Likely purchases through app stores or console platforms."
+  },
+  {
+    "name": "Karos Online",
+    "direct_purchase": false,
+    "reason": "Purchases typically handled by game platforms or third-party stores."
+  },
+  {
+    "name": "Kenshi",
+    "direct_purchase": false,
+    "reason": "Purchases handled by platforms like Steam or other stores."
+  },
+  {
+    "name": "Killing Floor",
+    "direct_purchase": false,
+    "reason": "Purchases via platforms like Steam or console stores."
+  },
+  {
+    "name": "King Arthur: Legends Rise",
+    "direct_purchase": false,
+    "reason": "In-game purchases likely through app stores."
+  },
+  {
+    "name": "Kingdom Come: Deliverance",
+    "direct_purchase": false,
+    "reason": "Purchases handled by platforms like Steam or console stores."
+  },
+  {
+    "name": "Kling AI",
+    "direct_purchase": false,
+    "reason": "Unclear if direct purchase available; likely third-party or app store."
+  },
+  {
+    "name": "Last Day on Earth: Survival",
+    "direct_purchase": false,
+    "reason": "Purchases typically through app stores like Google Play."
+  },
+  {
+    "name": "Last Epoch",
+    "direct_purchase": false,
+    "reason": "Purchases handled by platforms like Steam or other stores."
+  },
+  {
+    "name": "Last Island of Survival",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores like Steam or mobile app stores."
+  },
+  {
+    "name": "Last Oasis",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "League of Legends",
+    "direct_purchase": false,
+    "reason": "In-game purchases managed through Riot Games client, not direct on website."
+  },
+  {
+    "name": "League of Legends: Wild Rift",
+    "direct_purchase": false,
+    "reason": "Purchases handled via mobile app stores or Riot client."
+  },
+  {
+    "name": "Left 4 Dead",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam."
+  },
+  {
+    "name": "Legacy: Steel & Sorcery",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms."
+  },
+  {
+    "name": "Legend of YMIR",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms."
+  },
+  {
+    "name": "Leonardo AI",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on official site."
+  },
+  {
+    "name": "Lethal Company",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam."
+  },
+  {
+    "name": "Liar's Bar",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms."
+  },
+  {
+    "name": "Lies of P",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Life is Strange: Double Exposure",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Likee",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled via mobile app stores."
+  },
+  {
+    "name": "Lineage 2",
+    "direct_purchase": false,
+    "reason": "Purchases managed through NCsoft launcher or third-party platforms."
+  },
+  {
+    "name": "Lineage 2 Aden",
+    "direct_purchase": false,
+    "reason": "Purchases managed through NCsoft or mobile app stores."
+  },
+  {
+    "name": "Lineage 2 Essence",
+    "direct_purchase": false,
+    "reason": "Purchases managed through NCsoft or third-party platforms."
+  },
+  {
+    "name": "Lineage 2 Legacy",
+    "direct_purchase": false,
+    "reason": "Purchases managed through NCsoft or third-party platforms."
+  },
+  {
+    "name": "Lineage 2 Revolution",
+    "direct_purchase": false,
+    "reason": "Purchases handled via mobile app stores."
+  },
+  {
+    "name": "Lineage 2M",
+    "direct_purchase": false,
+    "reason": "Purchases handled via mobile app stores."
+  },
+  {
+    "name": "Little Nightmares",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Lord of Nazarick",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms or mobile app stores."
+  },
+  {
+    "name": "LORDNINE",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms."
+  },
+  {
+    "name": "Lords Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases handled via mobile app stores."
+  },
+  {
+    "name": "Lords of the Fallen",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "Lost Ark",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or Amazon Games platform."
+  },
+  {
+    "name": "Lost Light",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms like Steam or mobile stores."
+  },
+  {
+    "name": "Lost Records: Bloom & Rage",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Lost Soul Aside",
+    "direct_purchase": false,
+    "reason": "Expected to be sold via third-party platforms like Steam or PlayStation Store."
+  },
+  {
+    "name": "Love and Deepspace",
+    "direct_purchase": false,
+    "reason": "In-app purchases likely handled by App Store or Google Play."
+  },
+  {
+    "name": "Mad World: Age of Darkness",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Steam or other third-party platforms."
+  },
+  {
+    "name": "Madden NFL",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA app, console stores, or other third-party platforms."
+  },
+  {
+    "name": "Mafia",
+    "direct_purchase": false,
+    "reason": "Sold through Steam, console stores, or other third-party platforms."
+  },
+  {
+    "name": "Magic Chess: Go Go",
+    "direct_purchase": false,
+    "reason": "In-app purchases likely handled by App Store or Google Play."
+  },
+  {
+    "name": "Majestic RP",
+    "direct_purchase": false,
+    "reason": "Likely tied to third-party platforms or community servers with indirect purchases."
+  },
+  {
+    "name": "Mandragora: Whispers of the Witch Tree",
+    "direct_purchase": false,
+    "reason": "Expected to be sold via Steam or console stores."
+  },
+  {
+    "name": "Manor Lords",
+    "direct_purchase": false,
+    "reason": "Sold through Steam or other third-party platforms."
+  },
+  {
+    "name": "Marathon",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Marvel Rivals",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party platforms or in-game stores tied to Epic/Steam."
+  },
+  {
+    "name": "Mech Arena: Robot Showdown",
+    "direct_purchase": false,
+    "reason": "In-app purchases likely handled by App Store or Google Play."
+  },
+  {
+    "name": "Mecha Break",
+    "direct_purchase": false,
+    "reason": "Expected to be sold via third-party platforms like Steam."
+  },
+  {
+    "name": "Mecharashi",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms or mobile stores."
+  },
+  {
+    "name": "Megabonk",
+    "direct_purchase": false,
+    "reason": "Unclear, likely tied to third-party platforms if purchasable."
+  },
+  {
+    "name": "Metal Gear",
+    "direct_purchase": false,
+    "reason": "Sold through Steam, console stores, or other third-party platforms."
+  },
+  {
+    "name": "Metaphor: ReFantazio",
+    "direct_purchase": false,
+    "reason": "Sold through Steam, console stores, or other third-party platforms."
+  },
+  {
+    "name": "Metin2",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Metro",
+    "direct_purchase": false,
+    "reason": "Sold through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Microsoft Flight Simulator",
+    "direct_purchase": false,
+    "reason": "Sold through Microsoft Store, Steam, or Xbox platforms."
+  },
+  {
+    "name": "Midjourney",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on official site."
+  },
+  {
+    "name": "Mimesis",
+    "direct_purchase": false,
+    "reason": "Unclear, likely tied to third-party platforms if purchasable."
+  },
+  {
+    "name": "MindsEye",
+    "direct_purchase": false,
+    "reason": "Unclear, likely sold through third-party platforms if available."
+  },
+  {
+    "name": "Minecraft",
+    "direct_purchase": true,
+    "reason": "Official site offers direct purchase of game and subscriptions."
+  },
+  {
+    "name": "Minecraft Dungeons",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Microsoft Store or consoles."
+  },
+  {
+    "name": "Minecraft Legends",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Microsoft Store or consoles."
+  },
+  {
+    "name": "MIR4",
+    "direct_purchase": false,
+    "reason": "In-game purchases likely through app stores or third-party platforms."
+  },
+  {
+    "name": "MiSide",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchase; likely through third-party stores."
+  },
+  {
+    "name": "Mistfall Hunter",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchase; likely through third-party stores."
+  },
+  {
+    "name": "MO.CO",
+    "direct_purchase": false,
+    "reason": "Unclear if official site offers direct purchase; likely through third-party stores."
+  },
+  {
+    "name": "Mobile Legends",
+    "direct_purchase": false,
+    "reason": "In-game purchases handled through app stores like Google Play or App Store."
+  },
+  {
+    "name": "Mobile Legends: Adventure",
+    "direct_purchase": false,
+    "reason": "In-game purchases handled through app stores like Google Play or App Store."
+  },
+  {
+    "name": "Modern Warships",
+    "direct_purchase": false,
+    "reason": "In-game purchases likely through app stores or third-party platforms."
+  },
+  {
+    "name": "Monster Hunter",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or consoles."
+  },
+  {
+    "name": "Monster Hunter Wilds",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or consoles."
+  },
+  {
+    "name": "Mortal Kombat 1",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or consoles."
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or consoles."
+  },
+  {
+    "name": "Mortal Kombat Mobile",
+    "direct_purchase": false,
+    "reason": "In-game purchases handled through app stores like Google Play or App Store."
+  },
+  {
+    "name": "Mortal Kombat X",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or consoles."
+  },
+  {
+    "name": "Mortal Online 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam."
+  },
+  {
+    "name": "My Singing Monsters",
+    "direct_purchase": false,
+    "reason": "In-game purchases handled through app stores like Google Play or App Store."
+  },
+  {
+    "name": "Myth of Empires",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam."
+  },
+  {
+    "name": "Myths of Moonrise",
+    "direct_purchase": false,
+    "reason": "In-game purchases likely through app stores or third-party platforms."
+  },
+  {
+    "name": "Naraka: Bladepoint",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or Epic."
+  },
+  {
+    "name": "Naruto X Boruto Ultimate Ninja Storm Connections",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or consoles."
+  },
+  {
+    "name": "NBA 2K",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or consoles."
+  },
+  {
+    "name": "Need for Speed",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like EA app, Steam, or consoles."
+  },
+  {
+    "name": "Netflix",
+    "direct_purchase": true,
+    "reason": "Subscriptions available directly on official site."
+  },
+  {
+    "name": "Neverwinter",
+    "direct_purchase": false,
+    "reason": "Purchases handled through third-party platforms like Steam or Arc Games."
+  },
+  {
+    "name": "New World",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or Amazon Games."
+  },
+  {
+    "name": "NHL",
+    "direct_purchase": false,
+    "reason": "Purchases handled through EA app or console stores."
+  },
+  {
+    "name": "Night Crows",
+    "direct_purchase": false,
+    "reason": "Likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Nightingale",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Ninja Gaiden 4",
+    "direct_purchase": false,
+    "reason": "Likely handled through third-party stores or publishers like Koei Tecmo."
+  },
+  {
+    "name": "Nintendo",
+    "direct_purchase": false,
+    "reason": "Marketplace/store platform, not a single product site."
+  },
+  {
+    "name": "Nioh 3",
+    "direct_purchase": false,
+    "reason": "Likely handled through third-party stores or publishers like Koei Tecmo."
+  },
+  {
+    "name": "No Man's Sky",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, console stores, or other platforms."
+  },
+  {
+    "name": "No Rest for the Wicked",
+    "direct_purchase": false,
+    "reason": "Likely handled through Steam or other third-party platforms."
+  },
+  {
+    "name": "NoPing",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on official site."
+  },
+  {
+    "name": "NTE (Neverness to Everness)",
+    "direct_purchase": false,
+    "reason": "Unclear, likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Nulls Brawl",
+    "direct_purchase": false,
+    "reason": "Unofficial/modded game, purchases not handled directly."
+  },
+  {
+    "name": "ODIN: Valhalla Rising",
+    "direct_purchase": false,
+    "reason": "Likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Once Human",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "One Piece Bounty Rush",
+    "direct_purchase": false,
+    "reason": "Purchases handled through app stores like Google Play or App Store."
+  },
+  {
+    "name": "One Punch Man: World",
+    "direct_purchase": false,
+    "reason": "Purchases handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Oniro",
+    "direct_purchase": false,
+    "reason": "Unclear, likely handled through third-party platforms."
+  },
+  {
+    "name": "Only Up!",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Outlast",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Outriders",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Overwatch 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Battle.net or console stores."
+  },
+  {
+    "name": "Oxide: Survival Island",
+    "direct_purchase": false,
+    "reason": "Likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Painkiller",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Paladins",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Palia",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms or stores."
+  },
+  {
+    "name": "Palworld",
+    "direct_purchase": false,
+    "reason": "Purchases handled via Steam or other platforms."
+  },
+  {
+    "name": "Party Animals",
+    "direct_purchase": false,
+    "reason": "Purchases handled via Steam or console stores."
+  },
+  {
+    "name": "Path of Exile",
+    "direct_purchase": true,
+    "reason": "Microtransactions and supporter packs available on official site."
+  },
+  {
+    "name": "Path of Exile 2",
+    "direct_purchase": true,
+    "reason": "Expected to follow Path of Exile model with direct purchases on official site."
+  },
+  {
+    "name": "Paws",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store if a game or app."
+  },
+  {
+    "name": "Pax Dei",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms."
+  },
+  {
+    "name": "Payday 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled via Steam or console stores."
+  },
+  {
+    "name": "Payday 3",
+    "direct_purchase": false,
+    "reason": "Purchases handled via Steam or console stores."
+  },
+  {
+    "name": "Peak",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store if a game or app."
+  },
+  {
+    "name": "Perfect World",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Perfect World International",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Perfect World Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled via App Store or Google Play."
+  },
+  {
+    "name": "Perfect World: Ascend",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms."
+  },
+  {
+    "name": "Perplexity",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on official site."
+  },
+  {
+    "name": "Persona",
+    "direct_purchase": false,
+    "reason": "Purchases handled via console stores or third-party platforms."
+  },
+  {
+    "name": "Persona 5: The Phantom X",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled via mobile or third-party stores."
+  },
+  {
+    "name": "Phasmophobia",
+    "direct_purchase": false,
+    "reason": "Purchases handled via Steam."
+  },
+  {
+    "name": "Photoshop",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on Adobe's official site."
+  },
+  {
+    "name": "Pioner",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms."
+  },
+  {
+    "name": "Pixel Gun 3D",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled via App Store or Google Play."
+  },
+  {
+    "name": "PixelTap",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store if a game or app."
+  },
+  {
+    "name": "Plants vs Zombies 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled via App Store or Google Play."
+  },
+  {
+    "name": "PlayStation",
+    "direct_purchase": false,
+    "reason": "Marketplace/store platform, not a single product site."
+  },
+  {
+    "name": "Point Blank",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Pokemon GO",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Pokemon TCG Pocket",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by App Store/Google Play."
+  },
+  {
+    "name": "Prince of Persia: The Lost Crown",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Ubisoft store or third-party platforms like Steam/Epic."
+  },
+  {
+    "name": "Prison Architect 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Project Motor Racing",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "Project Zeta",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "Project Zomboid",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other platforms."
+  },
+  {
+    "name": "Province RP",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "PUBG",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or console stores."
+  },
+  {
+    "name": "PUBG Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "PUBG: Black Budget",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party stores similar to PUBG."
+  },
+  {
+    "name": "PUBG: New State",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Punishing: Gray Raven",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "R.E.P.O.",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "R2 Online",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms or regional publishers."
+  },
+  {
+    "name": "Radmir",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "Ragnarok",
+    "direct_purchase": false,
+    "reason": "Purchases often handled by regional publishers or third-party platforms."
+  },
+  {
+    "name": "Ragnarok M: Eternal Love",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Ragnarok Origin",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Raid: Shadow Legends",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store/Google Play."
+  },
+  {
+    "name": "Rappelz",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms or publishers."
+  },
+  {
+    "name": "Rasalas",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "Ratchet & Clank: Rift Apart",
+    "direct_purchase": false,
+    "reason": "Purchases handled by PlayStation Store or other platforms."
+  },
+  {
+    "name": "RAVEN2",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "Ravendawn",
+    "direct_purchase": false,
+    "reason": "Unclear official site; likely third-party store if available."
+  },
+  {
+    "name": "RavenQuest",
+    "direct_purchase": false,
+    "reason": "Unclear if official site sells directly; likely through third-party stores."
+  },
+  {
+    "name": "RCD",
+    "direct_purchase": false,
+    "reason": "Unclear context or official site; likely third-party store involvement."
+  },
+  {
+    "name": "Ready or Not",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Steam or other platforms."
+  },
+  {
+    "name": "Reanimal",
+    "direct_purchase": false,
+    "reason": "Unclear if official site sells directly; likely third-party stores."
+  },
+  {
+    "name": "Red Dead Redemption",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Rockstar or third-party stores like Steam/PlayStation/Xbox."
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Rockstar or third-party stores like Steam/PlayStation/Xbox."
+  },
+  {
+    "name": "Rematch",
+    "direct_purchase": false,
+    "reason": "Unclear if official site sells directly; likely third-party stores."
+  },
+  {
+    "name": "Remnant 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Resident Evil",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Capcom via Steam or console stores."
+  },
+  {
+    "name": "Resident Evil 4",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Capcom via Steam or console stores."
+  },
+  {
+    "name": "Resident Evil Requiem",
+    "direct_purchase": false,
+    "reason": "Unclear title; likely third-party store if exists."
+  },
+  {
+    "name": "Resident Evil Village",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Capcom via Steam or console stores."
+  },
+  {
+    "name": "Revelation",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store involvement."
+  },
+  {
+    "name": "Revelation Mobile",
+    "direct_purchase": false,
+    "reason": "Likely in-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Reverse: 1999",
+    "direct_purchase": false,
+    "reason": "Likely in-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "RF Online",
+    "direct_purchase": false,
+    "reason": "Purchases likely through game publisher or third-party platforms."
+  },
+  {
+    "name": "RimWorld",
+    "direct_purchase": false,
+    "reason": "Purchases primarily through Steam or other platforms."
+  },
+  {
+    "name": "Rise of Kingdoms",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Rise of the Ronin",
+    "direct_purchase": false,
+    "reason": "Purchases likely through PlayStation Store or other platforms."
+  },
+  {
+    "name": "RoadCraft",
+    "direct_purchase": false,
+    "reason": "Unclear if official site sells directly; likely third-party stores."
+  },
+  {
+    "name": "RoboCop: Rogue City",
+    "direct_purchase": false,
+    "reason": "Purchases likely through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Rocket League",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Epic Games or console stores."
+  },
+  {
+    "name": "Rohan 2",
+    "direct_purchase": false,
+    "reason": "Unclear if official site sells directly; likely third-party stores."
+  },
+  {
+    "name": "ROM",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store involvement."
+  },
+  {
+    "name": "Royal Match",
+    "direct_purchase": false,
+    "reason": "In-app purchases via App Store or Google Play."
+  },
+  {
+    "name": "Royal Quest",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through game client or third-party platforms."
+  },
+  {
+    "name": "RuneScape",
+    "direct_purchase": true,
+    "reason": "Subscriptions and items available directly on official site."
+  },
+  {
+    "name": "RuneScape: Dragonwilds",
+    "direct_purchase": true,
+    "reason": "Likely follows RuneScape model with direct purchases on official site."
+  },
+  {
+    "name": "Runway",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store or platform required."
+  },
+  {
+    "name": "Rush Royale",
+    "direct_purchase": false,
+    "reason": "Mobile game purchases typically through App Store/Google Play."
+  },
+  {
+    "name": "Rust",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam."
+  },
+  {
+    "name": "Rust Mobile",
+    "direct_purchase": false,
+    "reason": "Likely through App Store/Google Play if exists."
+  },
+  {
+    "name": "RustMe",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party platform if related to Rust."
+  },
+  {
+    "name": "RV There Yet",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store or platform required."
+  },
+  {
+    "name": "Saros",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store or platform required."
+  },
+  {
+    "name": "Satisfactory",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or Epic Games Store."
+  },
+  {
+    "name": "SCUM",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam."
+  },
+  {
+    "name": "Sea of Conquest: Pirate War",
+    "direct_purchase": false,
+    "reason": "Mobile game purchases likely through App Store/Google Play."
+  },
+  {
+    "name": "Sea of Thieves",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Xbox or Steam."
+  },
+  {
+    "name": "Senua’s Saga: Hellblade 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Xbox or Steam."
+  },
+  {
+    "name": "Seven Hearts Stories",
+    "direct_purchase": false,
+    "reason": "Likely mobile or third-party platform purchases."
+  },
+  {
+    "name": "Shin Megami Tensei V: Vengeance",
+    "direct_purchase": false,
+    "reason": "Purchases handled through console stores or Steam."
+  },
+  {
+    "name": "Sid Meier's Civilization 7",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Silent Hill 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through console stores or Steam."
+  },
+  {
+    "name": "Silent Hill f",
+    "direct_purchase": false,
+    "reason": "Purchases handled through console stores or Steam."
+  },
+  {
+    "name": "Silkroad Online",
+    "direct_purchase": false,
+    "reason": "Purchases likely through game client or third-party platforms."
+  },
+  {
+    "name": "Silver and Blood",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store or platform required."
+  },
+  {
+    "name": "Silver Palace",
+    "direct_purchase": false,
+    "reason": "Unclear context; likely third-party store or platform required."
+  },
+  {
+    "name": "Sker Ritual",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Skull and Bones",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Ubisoft Store or other platforms."
+  },
+  {
+    "name": "Sky: Children of the Light",
+    "direct_purchase": false,
+    "reason": "Purchases handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Skyforge",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "Smite",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Smite 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Sniper Elite",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "SnowRunner",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam, Epic, or console stores."
+  },
+  {
+    "name": "Solo Leveling: ARISE",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Sonic Racing: CrossWorlds",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "Sonic X Shadow Generations",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or console stores."
+  },
+  {
+    "name": "Sons of the Forest",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam."
+  },
+  {
+    "name": "Soul Knight",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores."
+  },
+  {
+    "name": "Soulframe",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms."
+  },
+  {
+    "name": "Soulmask",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "SoulWorker",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "SoundCloud",
+    "direct_purchase": true,
+    "reason": "Subscriptions available directly on official site."
+  },
+  {
+    "name": "Soundpad",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "South of Midnight",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Xbox or other platforms."
+  },
+  {
+    "name": "Spectre Divide",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "Spider-Man",
+    "direct_purchase": false,
+    "reason": "Purchases handled through PlayStation Store or other platforms."
+  },
+  {
+    "name": "Split Fiction",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms."
+  },
+  {
+    "name": "Splitgate 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "Spore",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or EA platforms."
+  },
+  {
+    "name": "Spotify",
+    "direct_purchase": true,
+    "reason": "Subscriptions available directly on official site."
+  },
+  {
+    "name": "Squad",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Steam or other platforms."
+  },
+  {
+    "name": "Squad Busters",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores."
+  },
+  {
+    "name": "Stalcraft",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms like Steam."
+  },
+  {
+    "name": "Stalker Online (Stay Out)",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms."
+  },
+  {
+    "name": "Standoff 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through mobile app stores like Google Play or App Store."
+  },
+  {
+    "name": "Star Citizen",
+    "direct_purchase": true,
+    "reason": "Direct purchases available on official site for ships and game packages."
+  },
+  {
+    "name": "Star Savior",
+    "direct_purchase": false,
+    "reason": "Unclear if direct purchase is available; likely through third-party platforms."
+  },
+  {
+    "name": "Star Wars",
+    "direct_purchase": false,
+    "reason": "Franchise with multiple games; purchases likely through third-party platforms."
+  },
+  {
+    "name": "Star Wars: TOR",
+    "direct_purchase": true,
+    "reason": "Subscriptions and in-game purchases available directly on official site."
+  },
+  {
+    "name": "StarCraft 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Blizzard's Battle.net platform."
+  },
+  {
+    "name": "Stardew Valley",
+    "direct_purchase": false,
+    "reason": "Purchases handled through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Starfield",
+    "direct_purchase": false,
+    "reason": "Purchases handled through third-party platforms like Steam or Xbox."
+  },
+  {
+    "name": "Steam",
+    "direct_purchase": false,
+    "reason": "Marketplace/store platform, not a single product site."
+  },
+  {
+    "name": "Stella Sora",
+    "direct_purchase": false,
+    "reason": "Unclear if direct purchase is available; likely through third-party platforms."
+  },
+  {
+    "name": "Stellar Blade",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through PlayStation Store or other platforms."
+  },
+  {
+    "name": "Still Wakes the Deep",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Stormgate",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms like Steam."
+  },
+  {
+    "name": "Street Fighter 6",
+    "direct_purchase": false,
+    "reason": "Purchases handled through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Strinova",
+    "direct_purchase": false,
+    "reason": "Unclear if direct purchase is available; likely through third-party platforms."
+  },
+  {
+    "name": "Stronghold",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms like Steam."
+  },
+  {
+    "name": "Stumble Guys",
+    "direct_purchase": false,
+    "reason": "Purchases handled through mobile app stores like Google Play or App Store."
+  },
+  {
+    "name": "Subnautica",
+    "direct_purchase": false,
+    "reason": "Purchases handled through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Suicide Squad: Kill the Justice League",
+    "direct_purchase": false,
+    "reason": "Purchases handled through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Summoners War: Chronicles",
+    "direct_purchase": false,
+    "reason": "Purchases handled through mobile app stores like Google Play or App Store."
+  },
+  {
+    "name": "Summoners War: Sky Arena",
+    "direct_purchase": false,
+    "reason": "Purchases handled through mobile app stores like Google Play or App Store."
+  },
+  {
+    "name": "Suno",
+    "direct_purchase": true,
+    "reason": "Subscriptions available directly on official site."
+  },
+  {
+    "name": "Super Sus",
+    "direct_purchase": false,
+    "reason": "Purchases handled through mobile app stores like Google Play or App Store."
+  },
+  {
+    "name": "Sword Art Online Fractured Daydream",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "System Shock 2: Remaster",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "T3 Arena",
+    "direct_purchase": false,
+    "reason": "Mobile game, likely purchases through App Store or Google Play."
+  },
+  {
+    "name": "Tabletop Simulator",
+    "direct_purchase": false,
+    "reason": "Sold through Steam, a third-party platform."
+  },
+  {
+    "name": "Tainted Grail: The Fall of Avalon",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam."
+  },
+  {
+    "name": "Tank Company",
+    "direct_purchase": false,
+    "reason": "Mobile game, likely purchases through App Store or Google Play."
+  },
+  {
+    "name": "Tarisland",
+    "direct_purchase": false,
+    "reason": "Likely purchases through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Team Fortress 2",
+    "direct_purchase": false,
+    "reason": "Sold and managed through Steam, a third-party platform."
+  },
+  {
+    "name": "Teamfight Tactics",
+    "direct_purchase": false,
+    "reason": "Managed through Riot Games client, likely third-party store integration."
+  },
+  {
+    "name": "Tekken",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Telegram",
+    "direct_purchase": true,
+    "reason": "Premium subscription available directly on official site or app."
+  },
+  {
+    "name": "Tempest Rising",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam."
+  },
+  {
+    "name": "TERA",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party platforms or in-game stores."
+  },
+  {
+    "name": "Terraria",
+    "direct_purchase": false,
+    "reason": "Sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Test Drive Unlimited Solar Crown",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "The Alters",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam."
+  },
+  {
+    "name": "The Bazaar",
+    "direct_purchase": false,
+    "reason": "Unclear, likely sold through third-party platforms."
+  },
+  {
+    "name": "The Casting of Frank Stone",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "The Crew 2",
+    "direct_purchase": false,
+    "reason": "Sold through third-party platforms like Ubisoft Store or console stores."
+  },
+  {
+    "name": "The Crew Motorfest",
+    "direct_purchase": false,
+    "reason": "Sold through third-party platforms like Ubisoft Store or console stores."
+  },
+  {
+    "name": "The Dark Pictures",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "The Finals",
+    "direct_purchase": false,
+    "reason": "Likely sold or managed through third-party platforms like Steam."
+  },
+  {
+    "name": "The First Berserker: Khazan",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "The First Descendant",
+    "direct_purchase": false,
+    "reason": "Likely sold or managed through third-party platforms like Steam."
+  },
+  {
+    "name": "The Headliners",
+    "direct_purchase": false,
+    "reason": "Unclear, likely sold through third-party platforms."
+  },
+  {
+    "name": "The Last of Us",
+    "direct_purchase": false,
+    "reason": "Purchases handled by PlayStation Store or other third-party platforms."
+  },
+  {
+    "name": "The Legend of Neverland",
+    "direct_purchase": false,
+    "reason": "Likely handled by App Store, Google Play, or other mobile platforms."
+  },
+  {
+    "name": "The Legend of Zelda",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Nintendo eShop or other third-party platforms."
+  },
+  {
+    "name": "The Long Dark",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam, Epic, or console stores."
+  },
+  {
+    "name": "The Lord of the Rings Online",
+    "direct_purchase": true,
+    "reason": "Official site offers direct purchases for subscriptions and in-game items."
+  },
+  {
+    "name": "The Midnight Walkers",
+    "direct_purchase": false,
+    "reason": "Unclear platform; likely handled by third-party stores if available."
+  },
+  {
+    "name": "The Outer Worlds",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam, Epic, or console stores."
+  },
+  {
+    "name": "The Quinfall",
+    "direct_purchase": false,
+    "reason": "Unclear platform; likely handled by third-party stores if available."
+  },
+  {
+    "name": "The Seven Deadly Sins: Grand Cross",
+    "direct_purchase": false,
+    "reason": "Purchases handled by App Store, Google Play, or other mobile platforms."
+  },
+  {
+    "name": "The Sims",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA app, Origin, or third-party stores."
+  },
+  {
+    "name": "Thief",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Threads",
+    "direct_purchase": false,
+    "reason": "Social media platform; no direct purchases for subscriptions or digital goods."
+  },
+  {
+    "name": "Throne and Liberty",
+    "direct_purchase": false,
+    "reason": "Likely handled by third-party platforms like Steam or publisher stores."
+  },
+  {
+    "name": "TikTok",
+    "direct_purchase": false,
+    "reason": "Purchases for in-app currency handled by App Store or Google Play."
+  },
+  {
+    "name": "Tiles Survive",
+    "direct_purchase": false,
+    "reason": "Unclear platform; likely handled by third-party stores if available."
+  },
+  {
+    "name": "Tiny Bunny",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Titan Quest",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Titanfall 2",
+    "direct_purchase": false,
+    "reason": "Purchases handled by EA app, Steam, or console stores."
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Ubisoft Store, Steam, or console stores."
+  },
+  {
+    "name": "Tom Clancy's The Division",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Ubisoft Store, Steam, or console stores."
+  },
+  {
+    "name": "Tom Clancy’s Ghost Recon",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Ubisoft Store, Steam, or console stores."
+  },
+  {
+    "name": "Tomb Raider",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam, Epic, or console stores."
+  },
+  {
+    "name": "Torchlight: Infinite",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by Steam, App Store, or Google Play."
+  },
+  {
+    "name": "Total Conflict: Resistance",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Total War",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Steam or other third-party platforms."
+  },
+  {
+    "name": "Towa and the Guardians of the Sacred Tree",
+    "direct_purchase": false,
+    "reason": "Likely sold through third-party platforms or stores."
+  },
+  {
+    "name": "Tower of Fantasy",
+    "direct_purchase": false,
+    "reason": "Purchases handled by third-party stores or platforms."
+  },
+  {
+    "name": "Trove",
+    "direct_purchase": false,
+    "reason": "Purchases managed through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Trovo",
+    "direct_purchase": false,
+    "reason": "Streaming platform, purchases likely through third-party systems."
+  },
+  {
+    "name": "Twitter (X)",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on official site."
+  },
+  {
+    "name": "UFC",
+    "direct_purchase": true,
+    "reason": "Subscriptions or digital content available directly on official site."
+  },
+  {
+    "name": "Ultima Online",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on official site."
+  },
+  {
+    "name": "Umamusume: Pretty Derby",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party app stores or platforms."
+  },
+  {
+    "name": "Uncharted",
+    "direct_purchase": false,
+    "reason": "Purchases handled by PlayStation Store or other third-party platforms."
+  },
+  {
+    "name": "Undawn",
+    "direct_purchase": false,
+    "reason": "Purchases likely managed through third-party stores or platforms."
+  },
+  {
+    "name": "Undecember",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party platforms or app stores."
+  },
+  {
+    "name": "Undertale",
+    "direct_purchase": false,
+    "reason": "Purchases managed through third-party platforms like Steam or console stores."
+  },
+  {
+    "name": "Undisputed",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party platforms or stores."
+  },
+  {
+    "name": "Unknown 9: Awakening",
+    "direct_purchase": false,
+    "reason": "Purchases likely managed through third-party platforms or stores."
+  },
+  {
+    "name": "UNO!",
+    "direct_purchase": false,
+    "reason": "Purchases handled by third-party app stores or platforms."
+  },
+  {
+    "name": "Until Dawn",
+    "direct_purchase": false,
+    "reason": "Purchases managed through PlayStation Store or other third-party platforms."
+  },
+  {
+    "name": "Uplay",
+    "direct_purchase": false,
+    "reason": "Marketplace/store platform, not a single product site."
+  },
+  {
+    "name": "V Rising",
+    "direct_purchase": false,
+    "reason": "Purchases handled by third-party platforms like Steam."
+  },
+  {
+    "name": "Valheim",
+    "direct_purchase": false,
+    "reason": "Purchases managed through third-party platforms like Steam."
+  },
+  {
+    "name": "Valorant",
+    "direct_purchase": false,
+    "reason": "Purchases handled by Riot Games client or third-party systems."
+  },
+  {
+    "name": "Valorant Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by app stores or third-party systems."
+  },
+  {
+    "name": "Vampire: The Masquerade - Bloodlines 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely managed through third-party platforms or stores."
+  },
+  {
+    "name": "Vampires: Bloodlord Rising",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party platforms or stores."
+  },
+  {
+    "name": "Vaultbreakers",
+    "direct_purchase": false,
+    "reason": "Purchases likely managed through third-party platforms or stores."
+  },
+  {
+    "name": "Veo 3",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled by third-party platforms or stores."
+  },
+  {
+    "name": "Vikings: War of Clans",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or third-party platforms."
+  },
+  {
+    "name": "VK Coin",
+    "direct_purchase": false,
+    "reason": "Associated with VK platform, likely requires third-party payment systems."
+  },
+  {
+    "name": "Vladik Brutal",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method, likely third-party store."
+  },
+  {
+    "name": "VR игры",
+    "direct_purchase": false,
+    "reason": "Generic term for VR games, not a specific product or site."
+  },
+  {
+    "name": "Wallpaper Engine",
+    "direct_purchase": false,
+    "reason": "Sold primarily through Steam."
+  },
+  {
+    "name": "War Thunder",
+    "direct_purchase": true,
+    "reason": "Direct purchases available on official site."
+  },
+  {
+    "name": "War Thunder Mobile",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores."
+  },
+  {
+    "name": "Warborne Above Ashes",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method, likely third-party store."
+  },
+  {
+    "name": "Warcraft 3: Reforged",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Battle.net."
+  },
+  {
+    "name": "Warcraft Rumble",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores or Battle.net."
+  },
+  {
+    "name": "Warface",
+    "direct_purchase": true,
+    "reason": "Direct purchases available on official site."
+  },
+  {
+    "name": "Warframe",
+    "direct_purchase": true,
+    "reason": "Direct purchases available on official site."
+  },
+  {
+    "name": "Warhammer",
+    "direct_purchase": false,
+    "reason": "Generic franchise term, purchases depend on specific title and platform."
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or console platforms."
+  },
+  {
+    "name": "Warno",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "Warspear Online",
+    "direct_purchase": true,
+    "reason": "Direct purchases available on official site."
+  },
+  {
+    "name": "Watch Dogs",
+    "direct_purchase": false,
+    "reason": "Purchases handled through Ubisoft Store or third-party platforms."
+  },
+  {
+    "name": "Watcher of Realms",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores."
+  },
+  {
+    "name": "Wayfinder",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or console stores."
+  },
+  {
+    "name": "Where Winds Meet",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method, likely third-party store."
+  },
+  {
+    "name": "Wild Terra 2: New Lands",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "Wildgate",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method, likely third-party store."
+  },
+  {
+    "name": "Will To Live Online",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through Steam or other platforms."
+  },
+  {
+    "name": "World of Goo",
+    "direct_purchase": false,
+    "reason": "Purchases handled through app stores or third-party platforms."
+  },
+  {
+    "name": "World of Sea Battle",
+    "direct_purchase": false,
+    "reason": "Unclear official site or purchase method, likely third-party store."
+  },
+  {
+    "name": "World of Tanks",
+    "direct_purchase": true,
+    "reason": "Subscriptions and in-game purchases available on official site."
+  },
+  {
+    "name": "World of Tanks Blitz",
+    "direct_purchase": true,
+    "reason": "In-game purchases available on official site."
+  },
+  {
+    "name": "World of Warcraft",
+    "direct_purchase": true,
+    "reason": "Subscriptions and digital goods sold on official Blizzard site."
+  },
+  {
+    "name": "World of Warcraft Classic + Hardcore + Season of Discovery",
+    "direct_purchase": true,
+    "reason": "Subscriptions and digital goods sold on official Blizzard site."
+  },
+  {
+    "name": "World of Warcraft Mists of Pandaria Classic",
+    "direct_purchase": true,
+    "reason": "Subscriptions and digital goods sold on official Blizzard site."
+  },
+  {
+    "name": "World of Warcraft Titan Reforged",
+    "direct_purchase": false,
+    "reason": "Unclear official source; likely third-party or community project."
+  },
+  {
+    "name": "World of Warplanes",
+    "direct_purchase": true,
+    "reason": "In-game purchases available on official site."
+  },
+  {
+    "name": "World of Warships",
+    "direct_purchase": true,
+    "reason": "In-game purchases available on official site."
+  },
+  {
+    "name": "World of Water",
+    "direct_purchase": false,
+    "reason": "Unclear if official site exists or sells directly."
+  },
+  {
+    "name": "World War Z",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or Epic."
+  },
+  {
+    "name": "Worms",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam."
+  },
+  {
+    "name": "WPlace",
+    "direct_purchase": false,
+    "reason": "Unclear if official site exists or sells directly."
+  },
+  {
+    "name": "WTFast",
+    "direct_purchase": true,
+    "reason": "Subscription available on official site."
+  },
+  {
+    "name": "Wuchang: Fallen Feathers",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores."
+  },
+  {
+    "name": "Wuthering Waves",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores or in-game via app stores."
+  },
+  {
+    "name": "Xbox",
+    "direct_purchase": false,
+    "reason": "Platform/store, not a single product site."
+  },
+  {
+    "name": "Yakuza",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or console stores."
+  },
+  {
+    "name": "YouTube",
+    "direct_purchase": true,
+    "reason": "Subscriptions and premium services sold on official site."
+  },
+  {
+    "name": "Zenless Zone Zero",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores or in-game via app stores."
+  },
+  {
+    "name": "Zepeto",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores."
+  },
+  {
+    "name": "Zooba",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through app stores."
+  },
+  {
+    "name": "Аллоды Онлайн",
+    "direct_purchase": true,
+    "reason": "In-game purchases available on official site."
+  },
+  {
+    "name": "Ведьмак 3: Дикая Охота",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through third-party stores like Steam or GOG."
+  },
+  {
+    "name": "ВКонтакте",
+    "direct_purchase": true,
+    "reason": "In-app purchases and subscriptions available on official site."
+  },
+  {
+    "name": "Герои Войны и Денег",
+    "direct_purchase": true,
+    "reason": "In-game purchases available on official site."
+  },
+  {
+    "name": "Дзен",
+    "direct_purchase": false,
+    "reason": "Primarily a content platform, purchases likely through third-party stores if applicable."
+  },
+  {
+    "name": "Дурак Онлайн",
+    "direct_purchase": false,
+    "reason": "Likely requires third-party stores for in-game purchases."
+  },
+  {
+    "name": "Калибр",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through game platform or third-party store."
+  },
+  {
+    "name": "Легенда: Наследие Драконов",
+    "direct_purchase": true,
+    "reason": "Official site offers direct purchases for in-game content."
+  },
+  {
+    "name": "Легенды Дракономании",
+    "direct_purchase": false,
+    "reason": "Likely requires third-party stores like App Store or Google Play."
+  },
+  {
+    "name": "Легенды Кунг Фу",
+    "direct_purchase": false,
+    "reason": "Purchases likely through third-party platforms."
+  },
+  {
+    "name": "Матрешка RP",
+    "direct_purchase": false,
+    "reason": "Likely requires third-party platforms for purchases."
+  },
+  {
+    "name": "Мобильные игры",
+    "direct_purchase": false,
+    "reason": "Generic category, purchases typically through App Store or Google Play."
+  },
+  {
+    "name": "Одноклассники",
+    "direct_purchase": false,
+    "reason": "Social platform, purchases likely through third-party systems."
+  },
+  {
+    "name": "Прочие игры",
+    "direct_purchase": false,
+    "reason": "Generic category, purchases likely through third-party stores."
+  },
+  {
+    "name": "Русская Рыбалка",
+    "direct_purchase": false,
+    "reason": "Purchases likely handled through game platform or third-party store."
+  },
+  {
+    "name": "Танки Онлайн",
+    "direct_purchase": true,
+    "reason": "Official site offers direct purchases for in-game content."
+  },
+  {
+    "name": "Тиндер",
+    "direct_purchase": true,
+    "reason": "Subscription available directly on official site."
+  },
+  {
+    "name": "Шахматы",
+    "direct_purchase": false,
+    "reason": "Generic category, purchases likely through third-party platforms if applicable."
+  },
+  {
+    "name": "007 First Light",
+    "direct_purchase": false,
+    "reason": "Unclear official direct purchase availability, likely third-party store."
+  },
+  {
+    "name": "2XKO",
+    "direct_purchase": false,
+    "reason": "Likely handled by Riot Games platform or third-party store."
+  },
+  {
+    "name": "7 Days to Die",
+    "direct_purchase": false,
+    "reason": "Purchases typically through Steam or console stores."
+  },
+  {
+    "name": "8 Ball Pool",
+    "direct_purchase": false,
+    "reason": "Purchases likely through App Store or Google Play."
+  }
+]

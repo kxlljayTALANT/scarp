@@ -1,0 +1,3372 @@
+[
+  {
+    "name": "Abyss of Dungeons",
+    "demand_level": "low",
+    "note": "total_offers=1032"
+  },
+  {
+    "name": "Active Matter",
+    "demand_level": "low",
+    "note": "total_offers=591"
+  },
+  {
+    "name": "AFK Arena",
+    "demand_level": "very_high",
+    "note": "total_offers=23459"
+  },
+  {
+    "name": "AFK Journey",
+    "demand_level": "very_high",
+    "note": "total_offers=22004"
+  },
+  {
+    "name": "Age of Empires Mobile",
+    "demand_level": "very_high",
+    "note": "total_offers=8470"
+  },
+  {
+    "name": "Age of Mythology: Retold",
+    "demand_level": "high",
+    "note": "total_offers=3761"
+  },
+  {
+    "name": "Age of Wonders 4",
+    "demand_level": "very_high",
+    "note": "total_offers=22015"
+  },
+  {
+    "name": "AI Limit",
+    "demand_level": "low",
+    "note": "total_offers=889"
+  },
+  {
+    "name": "Aion",
+    "demand_level": "very_high",
+    "note": "total_offers=31035"
+  },
+  {
+    "name": "Aion 2",
+    "demand_level": "high",
+    "note": "total_offers=3963"
+  },
+  {
+    "name": "Aion Classic",
+    "demand_level": "very_high",
+    "note": "total_offers=8319"
+  },
+  {
+    "name": "Alan Wake 2",
+    "demand_level": "very_high",
+    "note": "total_offers=10419"
+  },
+  {
+    "name": "Albion Online",
+    "demand_level": "very_high",
+    "note": "total_offers=24130"
+  },
+  {
+    "name": "Aliens: Dark Descent",
+    "demand_level": "high",
+    "note": "total_offers=3996"
+  },
+  {
+    "name": "Amazing RP",
+    "demand_level": "high",
+    "note": "total_offers=7180"
+  },
+  {
+    "name": "Amerzone: The Explorer's Legacy",
+    "demand_level": "very_low",
+    "note": "total_offers=375"
+  },
+  {
+    "name": "Amikin Survival",
+    "demand_level": "medium",
+    "note": "total_offers=2432"
+  },
+  {
+    "name": "Among Us",
+    "demand_level": "very_high",
+    "note": "total_offers=23666"
+  },
+  {
+    "name": "Anchor Panic",
+    "demand_level": "very_low",
+    "note": "total_offers=186"
+  },
+  {
+    "name": "Aniimo",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Anno",
+    "demand_level": "medium",
+    "note": "total_offers=2094"
+  },
+  {
+    "name": "Anomaly Zone",
+    "demand_level": "high",
+    "note": "total_offers=5453"
+  },
+  {
+    "name": "Anthem",
+    "demand_level": "very_high",
+    "note": "total_offers=10223"
+  },
+  {
+    "name": "Anvil Empires",
+    "demand_level": "very_low",
+    "note": "total_offers=5"
+  },
+  {
+    "name": "APB: Reloaded",
+    "demand_level": "very_high",
+    "note": "total_offers=20642"
+  },
+  {
+    "name": "Apex Legends",
+    "demand_level": "very_high",
+    "note": "total_offers=26614"
+  },
+  {
+    "name": "App Store & iTunes",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "ARC Raiders",
+    "demand_level": "very_high",
+    "note": "total_offers=24744"
+  },
+  {
+    "name": "ArcheAge",
+    "demand_level": "very_high",
+    "note": "total_offers=12899"
+  },
+  {
+    "name": "Archeage War",
+    "demand_level": "medium",
+    "note": "total_offers=2599"
+  },
+  {
+    "name": "Arena Breakout",
+    "demand_level": "very_high",
+    "note": "total_offers=22773, top_categories: Прочее=13231, Облигации=2757, Донат=2262"
+  },
+  {
+    "name": "Arizona RP",
+    "demand_level": "high",
+    "note": "total_offers=8149, top_categories: Прочее=1936, Аккаунты=1523, Вирты=1472"
+  },
+  {
+    "name": "ARK: Survival Ascended",
+    "demand_level": "high",
+    "note": "total_offers=7677, top_categories: Услуги=5840, Ключи=1059, Предметы=350"
+  },
+  {
+    "name": "ARK: Survival Evolved",
+    "demand_level": "very_high",
+    "note": "total_offers=8917, top_categories: Услуги=7122, Ключи=913, Аккаунты=693"
+  },
+  {
+    "name": "Arknights",
+    "demand_level": "high",
+    "note": "total_offers=6928, top_categories: Услуги=4505, Донат=1622, Originium=558"
+  },
+  {
+    "name": "Arknights: Endfield",
+    "demand_level": "very_low",
+    "note": "total_offers=61, top_categories: Услуги=37, Аккаунты=16, Донат=8"
+  },
+  {
+    "name": "Arma 3",
+    "demand_level": "very_high",
+    "note": "total_offers=20781, top_categories: Прочее=18228, Ключи=1831, Аккаунты=638"
+  },
+  {
+    "name": "Arma Reforger",
+    "demand_level": "medium",
+    "note": "total_offers=1284, top_categories: Ключи=851, Аккаунты=220, Прочее=105"
+  },
+  {
+    "name": "Armored Core VI: Fires of Rubicon",
+    "demand_level": "high",
+    "note": "total_offers=3548, top_categories: Услуги=2746, Ключи=646, Аккаунты=143"
+  },
+  {
+    "name": "Armored Warfare: Армата",
+    "demand_level": "medium",
+    "note": "total_offers=2168, top_categories: Услуги=1670, Предметы=345, Золото=141"
+  },
+  {
+    "name": "Ashes of Creation",
+    "demand_level": "high",
+    "note": "total_offers=6023, top_categories: Прочее=4809, Услуги=385, Золото=277"
+  },
+  {
+    "name": "Asphalt",
+    "demand_level": "very_high",
+    "note": "total_offers=12132, top_categories: Прочее=11065, Донат=864, Токены=145"
+  },
+  {
+    "name": "Assassin’s Creed",
+    "demand_level": "very_high",
+    "note": "total_offers=31555, top_categories: Прочее=20237, Ключи=7001, Аккаунты=2822"
+  },
+  {
+    "name": "Assassin’s Creed Shadows",
+    "demand_level": "high",
+    "note": "total_offers=3948, top_categories: Ключи=2375, Аккаунты=597, Helix Credits=378"
+  },
+  {
+    "name": "Assetto Corsa",
+    "demand_level": "very_high",
+    "note": "total_offers=14244, top_categories: Прочее=11678, Ключи=1689, Аккаунты=680"
+  },
+  {
+    "name": "Astellia",
+    "demand_level": "very_high",
+    "note": "total_offers=8682, top_categories: Прочее=8536, GN-монеты=124, Золото=22"
+  },
+  {
+    "name": "Astro Bot",
+    "demand_level": "high",
+    "note": "total_offers=4266, top_categories: Прочее=3798, Ключи=297, Аккаунты=171"
+  },
+  {
+    "name": "Atlas Fallen",
+    "demand_level": "very_low",
+    "note": "total_offers=422, top_categories: Ключи=331, Game Pass=61, Аккаунты=20"
+  },
+  {
+    "name": "Atomfall",
+    "demand_level": "medium",
+    "note": "total_offers=1155, top_categories: Ключи=746, Аккаунты=172, Прочее=154"
+  },
+  {
+    "name": "Atomic Heart",
+    "demand_level": "very_high",
+    "note": "total_offers=19060, top_categories: Прочее=16183, Ключи=1989, Аккаунты=626"
+  },
+  {
+    "name": "AutoChess",
+    "demand_level": "very_low",
+    "note": "total_offers=107, top_categories: Пончики=95, Аккаунты=7, Буст=5"
+  },
+  {
+    "name": "Avatar: Frontiers of Pandora",
+    "demand_level": "very_high",
+    "note": "total_offers=13757, top_categories: Прочее=11052, Ключи=1784, Аккаунты=380"
+  },
+  {
+    "name": "Avowed",
+    "demand_level": "low",
+    "note": "total_offers=790, top_categories: Ключи=421, Аккаунты=174, Прочее=146"
+  },
+  {
+    "name": "Awaken: Chaos Era",
+    "demand_level": "medium",
+    "note": "total_offers=2531, top_categories: Услуги=2022, Донат=369, Бриллианты=140"
+  },
+  {
+    "name": "Azur Lane",
+    "demand_level": "high",
+    "note": "total_offers=3530, top_categories: Услуги=1859, Донат=1105, Гемы=500"
+  },
+  {
+    "name": "Back 4 Blood",
+    "demand_level": "medium",
+    "note": "total_offers=2884, top_categories: Ключи=1171, Услуги=1112, Аккаунты=476"
+  },
+  {
+    "name": "Backrooms",
+    "demand_level": "medium",
+    "note": "total_offers=1613, top_categories: Ключи=793, Аккаунты=677, Прочее=143"
+  },
+  {
+    "name": "Baldur's Gate 3",
+    "demand_level": "very_high",
+    "note": "total_offers=10732, top_categories: Прочее=8169, Ключи=1799, Аккаунты=628"
+  },
+  {
+    "name": "Batman: Arkham",
+    "demand_level": "medium",
+    "note": "total_offers=1738, top_categories: Ключи=1089, Оффлайн активации=277, Аккаунты=265"
+  },
+  {
+    "name": "Battle Teams 2",
+    "demand_level": "high",
+    "note": "total_offers=6002, top_categories: Прочее=5835, Монеты=83, Услуги=72"
+  },
+  {
+    "name": "Battle.net",
+    "demand_level": "very_high",
+    "note": "total_offers=11255"
+  },
+  {
+    "name": "BattleBit Remastered",
+    "demand_level": "high",
+    "note": "total_offers=7191"
+  },
+  {
+    "name": "Battlefield",
+    "demand_level": "very_high",
+    "note": "total_offers=24920"
+  },
+  {
+    "name": "Battlefield 6",
+    "demand_level": "high",
+    "note": "total_offers=5035"
+  },
+  {
+    "name": "Beat Saber",
+    "demand_level": "medium",
+    "note": "total_offers=2397"
+  },
+  {
+    "name": "Bellatores",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Biomutant",
+    "demand_level": "high",
+    "note": "total_offers=7050"
+  },
+  {
+    "name": "Bird Game 3",
+    "demand_level": "very_low",
+    "note": "total_offers=41"
+  },
+  {
+    "name": "BitCraft Online",
+    "demand_level": "very_low",
+    "note": "total_offers=185"
+  },
+  {
+    "name": "Black Beacon",
+    "demand_level": "low",
+    "note": "total_offers=594"
+  },
+  {
+    "name": "Black Clover M",
+    "demand_level": "medium",
+    "note": "total_offers=2461"
+  },
+  {
+    "name": "Black Desert",
+    "demand_level": "very_high",
+    "note": "total_offers=10999"
+  },
+  {
+    "name": "Black Desert Mobile",
+    "demand_level": "very_high",
+    "note": "total_offers=14712"
+  },
+  {
+    "name": "Black Myth: Wukong",
+    "demand_level": "high",
+    "note": "total_offers=6510"
+  },
+  {
+    "name": "Black Russia",
+    "demand_level": "very_high",
+    "note": "total_offers=53179"
+  },
+  {
+    "name": "Blade & Soul",
+    "demand_level": "high",
+    "note": "total_offers=8187"
+  },
+  {
+    "name": "Blade & Soul 2",
+    "demand_level": "very_low",
+    "note": "total_offers=106"
+  },
+  {
+    "name": "Blade & Soul Heroes",
+    "demand_level": "very_low",
+    "note": "total_offers=58"
+  },
+  {
+    "name": "Blade & Soul NEO",
+    "demand_level": "low",
+    "note": "total_offers=686"
+  },
+  {
+    "name": "Bleach Rebirth of Souls",
+    "demand_level": "medium",
+    "note": "total_offers=1135"
+  },
+  {
+    "name": "Bleach: Immortal Soul",
+    "demand_level": "low",
+    "note": "total_offers=824"
+  },
+  {
+    "name": "Bless Unleashed",
+    "demand_level": "very_low",
+    "note": "total_offers=95"
+  },
+  {
+    "name": "Block Strike",
+    "demand_level": "very_low",
+    "note": "total_offers=248"
+  },
+  {
+    "name": "Blockman GO",
+    "demand_level": "high",
+    "note": "total_offers=3341"
+  },
+  {
+    "name": "Blood And Soul",
+    "demand_level": "very_low",
+    "note": "total_offers=237"
+  },
+  {
+    "name": "Blood Strike",
+    "demand_level": "high",
+    "note": "total_offers=6680"
+  },
+  {
+    "name": "Bloodhunt",
+    "demand_level": "high",
+    "note": "total_offers=7538"
+  },
+  {
+    "name": "Blue Lock Project: World Champion",
+    "demand_level": "medium",
+    "note": "total_offers=2311"
+  },
+  {
+    "name": "Blue Protocol: Star Resonance",
+    "demand_level": "low",
+    "note": "total_offers=764"
+  },
+  {
+    "name": "Blum",
+    "demand_level": "medium",
+    "note": "total_offers=2139"
+  },
+  {
+    "name": "Bodycam",
+    "demand_level": "high",
+    "note": "total_offers=3506"
+  },
+  {
+    "name": "Bombie",
+    "demand_level": "medium",
+    "note": "total_offers=1829"
+  },
+  {
+    "name": "Boom Beach",
+    "demand_level": "very_high",
+    "note": "total_offers=10942"
+  },
+  {
+    "name": "Borderlands",
+    "demand_level": "high",
+    "note": "total_offers=6673"
+  },
+  {
+    "name": "Borderlands 4",
+    "demand_level": "medium",
+    "note": "total_offers=2983"
+  },
+  {
+    "name": "Brawl Stars",
+    "demand_level": "very_high",
+    "note": "total_offers=58160"
+  },
+  {
+    "name": "Brawlhalla",
+    "demand_level": "high",
+    "note": "total_offers=3583"
+  },
+  {
+    "name": "Broken Arrow",
+    "demand_level": "very_low",
+    "note": "total_offers=438"
+  },
+  {
+    "name": "Broken Ranks",
+    "demand_level": "very_low",
+    "note": "total_offers=59"
+  },
+  {
+    "name": "Bullet Echo",
+    "demand_level": "medium",
+    "note": "total_offers=1563"
+  },
+  {
+    "name": "Cabal Online",
+    "demand_level": "medium",
+    "note": "total_offers=1590"
+  },
+  {
+    "name": "Call of Dragons",
+    "demand_level": "very_high",
+    "note": "total_offers=9815"
+  },
+  {
+    "name": "Call of Duty",
+    "demand_level": "very_high",
+    "note": "total_offers=10515"
+  },
+  {
+    "name": "Call of Duty Mobile",
+    "demand_level": "high",
+    "note": "total_offers=7443"
+  },
+  {
+    "name": "Call of Duty Warzone",
+    "demand_level": "very_high",
+    "note": "total_offers=12692"
+  },
+  {
+    "name": "Call of Duty Warzone Mobile",
+    "demand_level": "medium",
+    "note": "total_offers=1521"
+  },
+  {
+    "name": "Call of Duty: Black Ops 6",
+    "demand_level": "very_high",
+    "note": "total_offers=9445"
+  },
+  {
+    "name": "Call of Duty: Black Ops 7",
+    "demand_level": "medium",
+    "note": "total_offers=2649"
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 3 (2023)",
+    "demand_level": "high",
+    "note": "total_offers=4214"
+  },
+  {
+    "name": "Candy Crush",
+    "demand_level": "high",
+    "note": "total_offers=3241"
+  },
+  {
+    "name": "Car Parking Multiplayer",
+    "demand_level": "high",
+    "note": "total_offers=4066"
+  },
+  {
+    "name": "Car Parking Multiplayer 2",
+    "demand_level": "medium",
+    "note": "total_offers=2422"
+  },
+  {
+    "name": "CarX Drift Racing",
+    "demand_level": "medium",
+    "note": "total_offers=1485"
+  },
+  {
+    "name": "Castle Clash",
+    "demand_level": "very_high",
+    "note": "total_offers=16702"
+  },
+  {
+    "name": "Catizen",
+    "demand_level": "low",
+    "note": "total_offers=1205"
+  },
+  {
+    "name": "Chained Together",
+    "demand_level": "high",
+    "note": "total_offers=3348"
+  },
+  {
+    "name": "Chaos Zero Nightmare",
+    "demand_level": "low",
+    "note": "total_offers=905"
+  },
+  {
+    "name": "Chicken Gun",
+    "demand_level": "very_low",
+    "note": "total_offers=50"
+  },
+  {
+    "name": "Chivalry 2",
+    "demand_level": "medium",
+    "note": "total_offers=1757"
+  },
+  {
+    "name": "Chrono Odyssey",
+    "demand_level": "very_low",
+    "note": "total_offers=2"
+  },
+  {
+    "name": "Cities: Skylines II",
+    "demand_level": "high",
+    "note": "total_offers=7731"
+  },
+  {
+    "name": "City Holder",
+    "demand_level": "low",
+    "note": "total_offers=926"
+  },
+  {
+    "name": "Civilization",
+    "demand_level": "medium",
+    "note": "total_offers=2654"
+  },
+  {
+    "name": "Clair Obscur: Expedition 33",
+    "demand_level": "medium",
+    "note": "total_offers=2317"
+  },
+  {
+    "name": "Clash of Clans",
+    "demand_level": "very_high",
+    "note": "total_offers=26671"
+  },
+  {
+    "name": "Clash of Kings",
+    "demand_level": "low",
+    "note": "total_offers=504"
+  },
+  {
+    "name": "Clash Royale",
+    "demand_level": "very_high",
+    "note": "total_offers=37513"
+  },
+  {
+    "name": "Code Vein II",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Command & Conquer: Legions",
+    "demand_level": "medium",
+    "note": "total_offers=1270"
+  },
+  {
+    "name": "Commandos: Origins",
+    "demand_level": "low",
+    "note": "total_offers=462"
+  },
+  {
+    "name": "Conan Exiles",
+    "demand_level": "medium",
+    "note": "total_offers=3041"
+  },
+  {
+    "name": "Conqueror's Blade",
+    "demand_level": "medium",
+    "note": "total_offers=1500"
+  },
+  {
+    "name": "Conscript",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Contract Wars",
+    "demand_level": "very_low",
+    "note": "total_offers=129"
+  },
+  {
+    "name": "CookieRun: Kingdom",
+    "demand_level": "medium",
+    "note": "total_offers=2118"
+  },
+  {
+    "name": "Core Keeper",
+    "demand_level": "medium",
+    "note": "total_offers=2914"
+  },
+  {
+    "name": "Corepunk",
+    "demand_level": "medium",
+    "note": "total_offers=1823"
+  },
+  {
+    "name": "Counter-Strike 2",
+    "demand_level": "very_high",
+    "note": "total_offers=43367"
+  },
+  {
+    "name": "Counter-Strike: GO",
+    "demand_level": "very_high",
+    "note": "total_offers=9412"
+  },
+  {
+    "name": "Crimson Desert",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Critical Ops",
+    "demand_level": "very_low",
+    "note": "total_offers=358"
+  },
+  {
+    "name": "Critical Strike",
+    "demand_level": "very_low",
+    "note": "total_offers=215"
+  },
+  {
+    "name": "Cronos: The New Dawn",
+    "demand_level": "low",
+    "note": "total_offers=754"
+  },
+  {
+    "name": "CrossFire",
+    "demand_level": "medium",
+    "note": "total_offers=1774"
+  },
+  {
+    "name": "Crossout",
+    "demand_level": "medium",
+    "note": "total_offers=1485"
+  },
+  {
+    "name": "Crosswind",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Crystal of Atlan",
+    "demand_level": "low",
+    "note": "total_offers=774"
+  },
+  {
+    "name": "Cult of the Lamb",
+    "demand_level": "high",
+    "note": "total_offers=4330"
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "demand_level": "high",
+    "note": "total_offers=4481"
+  },
+  {
+    "name": "Dark and Darker",
+    "demand_level": "medium",
+    "note": "total_offers=2329"
+  },
+  {
+    "name": "Dark Orbit",
+    "demand_level": "medium",
+    "note": "total_offers=1682"
+  },
+  {
+    "name": "Dark Souls",
+    "demand_level": "medium",
+    "note": "total_offers=2209"
+  },
+  {
+    "name": "Dawn of Ages",
+    "demand_level": "medium",
+    "note": "total_offers=3033"
+  },
+  {
+    "name": "Days Gone",
+    "demand_level": "high",
+    "note": "total_offers=3257"
+  },
+  {
+    "name": "DayZ",
+    "demand_level": "very_high",
+    "note": "total_offers=9320"
+  },
+  {
+    "name": "Dead by Daylight",
+    "demand_level": "very_high",
+    "note": "total_offers=19510"
+  },
+  {
+    "name": "Dead Island 2",
+    "demand_level": "high",
+    "note": "total_offers=5986"
+  },
+  {
+    "name": "Dead Rising",
+    "demand_level": "medium",
+    "note": "total_offers=1976"
+  },
+  {
+    "name": "Dead Rising Deluxe Remaster",
+    "demand_level": "medium",
+    "note": "total_offers=1634"
+  },
+  {
+    "name": "Dead Space",
+    "demand_level": "medium",
+    "note": "total_offers=1661"
+  },
+  {
+    "name": "Deadlock",
+    "demand_level": "very_high",
+    "note": "total_offers=10698"
+  },
+  {
+    "name": "Death Stranding",
+    "demand_level": "low",
+    "note": "total_offers=814"
+  },
+  {
+    "name": "Deep Rock Galactic",
+    "demand_level": "medium",
+    "note": "total_offers=2332"
+  },
+  {
+    "name": "Delta Force",
+    "demand_level": "high",
+    "note": "total_offers=6839"
+  },
+  {
+    "name": "Deltarune",
+    "demand_level": "very_low",
+    "note": "total_offers=415"
+  },
+  {
+    "name": "Destiny 2",
+    "demand_level": "very_high",
+    "note": "total_offers=16208"
+  },
+  {
+    "name": "Destiny: Rising",
+    "demand_level": "low",
+    "note": "total_offers=1196"
+  },
+  {
+    "name": "Deus Ex",
+    "demand_level": "medium",
+    "note": "total_offers=2668"
+  },
+  {
+    "name": "Devil May Cry",
+    "demand_level": "medium",
+    "note": "total_offers=1817"
+  },
+  {
+    "name": "Devil May Cry: Peak of Combat",
+    "demand_level": "medium",
+    "note": "total_offers=2595"
+  },
+  {
+    "name": "Diablo 2: Resurrected",
+    "demand_level": "medium",
+    "note": "total_offers=2562"
+  },
+  {
+    "name": "Diablo 3",
+    "demand_level": "medium",
+    "note": "total_offers=1946"
+  },
+  {
+    "name": "Diablo 4",
+    "demand_level": "very_high",
+    "note": "total_offers=24672"
+  },
+  {
+    "name": "Diablo Immortal",
+    "demand_level": "very_high",
+    "note": "total_offers=12405"
+  },
+  {
+    "name": "Don't Starve Together",
+    "demand_level": "low",
+    "note": "total_offers=1082"
+  },
+  {
+    "name": "Doom",
+    "demand_level": "high",
+    "note": "total_offers=5373"
+  },
+  {
+    "name": "Doomsday",
+    "demand_level": "medium",
+    "note": "total_offers=1472"
+  },
+  {
+    "name": "Dota 2",
+    "demand_level": "very_high",
+    "note": "total_offers=87325"
+  },
+  {
+    "name": "Drag Racing: Уличные гонки",
+    "demand_level": "high",
+    "note": "total_offers=6656"
+  },
+  {
+    "name": "Dragon Age",
+    "demand_level": "medium",
+    "note": "total_offers=1630"
+  },
+  {
+    "name": "Dragon Age: The Veilguard",
+    "demand_level": "high",
+    "note": "total_offers=3905"
+  },
+  {
+    "name": "Dragon Ball Legends",
+    "demand_level": "high",
+    "note": "total_offers=4875"
+  },
+  {
+    "name": "Dragon Ball: Sparking Zero",
+    "demand_level": "medium",
+    "note": "total_offers=2600"
+  },
+  {
+    "name": "Dragon Nest",
+    "demand_level": "low",
+    "note": "total_offers=662"
+  },
+  {
+    "name": "Dragon Raja",
+    "demand_level": "high",
+    "note": "total_offers=4848"
+  },
+  {
+    "name": "Dragon's Dogma 2",
+    "demand_level": "medium",
+    "note": "total_offers=2889"
+  },
+  {
+    "name": "Dragonheir: Silent Gods",
+    "demand_level": "medium",
+    "note": "total_offers=1679"
+  },
+  {
+    "name": "Drakantos",
+    "demand_level": "very_low",
+    "note": "total_offers=37"
+  },
+  {
+    "name": "Drakensang Online",
+    "demand_level": "very_low",
+    "note": "total_offers=378"
+  },
+  {
+    "name": "Dreadmyst",
+    "demand_level": "very_low",
+    "note": "total_offers=126"
+  },
+  {
+    "name": "Drive Beyond Horizons",
+    "demand_level": "very_low",
+    "note": "total_offers=345"
+  },
+  {
+    "name": "Duet Night Abyss",
+    "demand_level": "low",
+    "note": "total_offers=858"
+  },
+  {
+    "name": "Dune: Awakening",
+    "demand_level": "high",
+    "note": "total_offers=4684"
+  },
+  {
+    "name": "Dungeon Stalkers",
+    "demand_level": "very_low",
+    "note": "total_offers=47"
+  },
+  {
+    "name": "Dungeonborne",
+    "demand_level": "low",
+    "note": "total_offers=994"
+  },
+  {
+    "name": "Dying Light",
+    "demand_level": "high",
+    "note": "total_offers=6742"
+  },
+  {
+    "name": "EA app",
+    "demand_level": "high",
+    "note": "total_offers=5124"
+  },
+  {
+    "name": "EA SPORTS FC 24",
+    "demand_level": "high",
+    "note": "total_offers=3333"
+  },
+  {
+    "name": "EA SPORTS FC 25",
+    "demand_level": "high",
+    "note": "total_offers=3252"
+  },
+  {
+    "name": "EA SPORTS FC 26",
+    "demand_level": "high",
+    "note": "total_offers=6377"
+  },
+  {
+    "name": "Edens Zero",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "eFootball PES",
+    "demand_level": "medium",
+    "note": "total_offers=2942"
+  },
+  {
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "demand_level": "medium",
+    "note": "total_offers=2258"
+  },
+  {
+    "name": "Elden Ring",
+    "demand_level": "high",
+    "note": "total_offers=4687"
+  },
+  {
+    "name": "Elden Ring Nightreign",
+    "demand_level": "medium",
+    "note": "total_offers=2658"
+  },
+  {
+    "name": "Elder Scrolls",
+    "demand_level": "very_high",
+    "note": "total_offers=11898"
+  },
+  {
+    "name": "Enigma of Sepia",
+    "demand_level": "low",
+    "note": "total_offers=570"
+  },
+  {
+    "name": "Enlisted",
+    "demand_level": "very_low",
+    "note": "total_offers=434"
+  },
+  {
+    "name": "Enshrouded",
+    "demand_level": "high",
+    "note": "total_offers=4283"
+  },
+  {
+    "name": "Epic Games",
+    "demand_level": "high",
+    "note": "total_offers=7723"
+  },
+  {
+    "name": "Epic Seven",
+    "demand_level": "medium",
+    "note": "total_offers=1569"
+  },
+  {
+    "name": "Era of Celestials",
+    "demand_level": "very_low",
+    "note": "total_offers=293"
+  },
+  {
+    "name": "Escape from Duckov",
+    "demand_level": "very_low",
+    "note": "total_offers=295"
+  },
+  {
+    "name": "Etheria Restart",
+    "demand_level": "medium",
+    "note": "total_offers=1013"
+  },
+  {
+    "name": "Euro Truck Simulator 2",
+    "demand_level": "medium",
+    "note": "total_offers=2745"
+  },
+  {
+    "name": "Europa Universalis V",
+    "demand_level": "low",
+    "note": "total_offers=613"
+  },
+  {
+    "name": "EVE Echoes",
+    "demand_level": "medium",
+    "note": "total_offers=1119"
+  },
+  {
+    "name": "Evil Dead: The Game",
+    "demand_level": "very_low",
+    "note": "total_offers=190"
+  },
+  {
+    "name": "Exoborne",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Exoprimal",
+    "demand_level": "very_low",
+    "note": "total_offers=365"
+  },
+  {
+    "name": "Expeditions: A MudRunner Game",
+    "demand_level": "medium",
+    "note": "total_offers=1572"
+  },
+  {
+    "name": "F1 25",
+    "demand_level": "medium",
+    "note": "total_offers=1241"
+  },
+  {
+    "name": "Facebook",
+    "demand_level": "medium",
+    "note": "total_offers=1202"
+  },
+  {
+    "name": "Fall Guys",
+    "demand_level": "medium",
+    "note": "total_offers=2345"
+  },
+  {
+    "name": "Fallout 4",
+    "demand_level": "medium",
+    "note": "total_offers=2483"
+  },
+  {
+    "name": "Fallout 76",
+    "demand_level": "high",
+    "note": "total_offers=3267"
+  },
+  {
+    "name": "Fantasy Life i: The Girl Who Steals Time",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Far Cry",
+    "demand_level": "very_high",
+    "note": "total_offers=8256"
+  },
+  {
+    "name": "Farlight 84",
+    "demand_level": "medium",
+    "note": "total_offers=1677"
+  },
+  {
+    "name": "Farming Simulator",
+    "demand_level": "high",
+    "note": "total_offers=4554"
+  },
+  {
+    "name": "Fate Trigger",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "FBC: Firebreak",
+    "demand_level": "very_low",
+    "note": "total_offers=153"
+  },
+  {
+    "name": "FC Mobile",
+    "demand_level": "high",
+    "note": "total_offers=6322"
+  },
+  {
+    "name": "Fellowship (2025)",
+    "demand_level": "low",
+    "note": "total_offers=926"
+  },
+  {
+    "name": "FIFA",
+    "demand_level": "medium",
+    "note": "total_offers=1966"
+  },
+  {
+    "name": "Final Fantasy XVI",
+    "demand_level": "medium",
+    "note": "total_offers=1996"
+  },
+  {
+    "name": "Flintlock: The Siege of Dawn",
+    "demand_level": "medium",
+    "note": "total_offers=1370"
+  },
+  {
+    "name": "Football Manager",
+    "demand_level": "medium",
+    "note": "total_offers=1492"
+  },
+  {
+    "name": "For Honor",
+    "demand_level": "high",
+    "note": "total_offers=3232"
+  },
+  {
+    "name": "Forever Skies",
+    "demand_level": "very_low",
+    "note": "total_offers=203"
+  },
+  {
+    "name": "Fortnite",
+    "demand_level": "very_high",
+    "note": "total_offers=26309"
+  },
+  {
+    "name": "Forza Horizon",
+    "demand_level": "high",
+    "note": "total_offers=6508"
+  },
+  {
+    "name": "Forza Motorsport (2023)",
+    "demand_level": "medium",
+    "note": "total_offers=2160"
+  },
+  {
+    "name": "Foundation",
+    "demand_level": "very_low",
+    "note": "total_offers=253"
+  },
+  {
+    "name": "FP Club",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "FragPunk",
+    "demand_level": "medium",
+    "note": "total_offers=1565"
+  },
+  {
+    "name": "Free Fire",
+    "demand_level": "very_high",
+    "note": "total_offers=8384"
+  },
+  {
+    "name": "Frostborn",
+    "demand_level": "very_low",
+    "note": "total_offers=1087"
+  },
+  {
+    "name": "Frostpunk 2",
+    "demand_level": "medium",
+    "note": "total_offers=2137"
+  },
+  {
+    "name": "Game of Thrones: Kingsroad",
+    "demand_level": "very_low",
+    "note": "total_offers=374"
+  },
+  {
+    "name": "GanjaWars",
+    "demand_level": "very_low",
+    "note": "total_offers=25"
+  },
+  {
+    "name": "Garry’s Mod",
+    "demand_level": "medium",
+    "note": "total_offers=1972"
+  },
+  {
+    "name": "Genshin Impact",
+    "demand_level": "very_high",
+    "note": "total_offers=30389"
+  },
+  {
+    "name": "Geometry Dash",
+    "demand_level": "very_low",
+    "note": "total_offers=1019"
+  },
+  {
+    "name": "Ghost of Tsushima",
+    "demand_level": "medium",
+    "note": "total_offers=2355"
+  },
+  {
+    "name": "Ghost of Yotei",
+    "demand_level": "low",
+    "note": "total_offers=606"
+  },
+  {
+    "name": "Ghostrunner 2",
+    "demand_level": "high",
+    "note": "total_offers=7517"
+  },
+  {
+    "name": "Girls Frontline 2: Exilium",
+    "demand_level": "very_low",
+    "note": "total_offers=1048"
+  },
+  {
+    "name": "God of War",
+    "demand_level": "medium",
+    "note": "total_offers=2972"
+  },
+  {
+    "name": "Goddess of Victory: Nikke",
+    "demand_level": "medium",
+    "note": "total_offers=1972"
+  },
+  {
+    "name": "Gods, Death & Reapers",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "GOG",
+    "demand_level": "very_low",
+    "note": "total_offers=1045"
+  },
+  {
+    "name": "Gothic",
+    "demand_level": "medium",
+    "note": "total_offers=1411"
+  },
+  {
+    "name": "Gran Saga",
+    "demand_level": "very_low",
+    "note": "total_offers=260"
+  },
+  {
+    "name": "Gran Turismo",
+    "demand_level": "very_low",
+    "note": "total_offers=1233"
+  },
+  {
+    "name": "Gray Zone Warfare",
+    "demand_level": "very_low",
+    "note": "total_offers=1107"
+  },
+  {
+    "name": "Grounded",
+    "demand_level": "very_low",
+    "note": "total_offers=1226"
+  },
+  {
+    "name": "GTA 5 Online",
+    "demand_level": "very_high",
+    "note": "total_offers=13691"
+  },
+  {
+    "name": "GTA 5 RP, SAMP",
+    "demand_level": "very_high",
+    "note": "total_offers=16963"
+  },
+  {
+    "name": "Gwent",
+    "demand_level": "very_low",
+    "note": "total_offers=1108"
+  },
+  {
+    "name": "Hades 2",
+    "demand_level": "medium",
+    "note": "total_offers=1682"
+  },
+  {
+    "name": "Halo Infinite",
+    "demand_level": "medium",
+    "note": "total_offers=2246"
+  },
+  {
+    "name": "Hamster Kombat",
+    "demand_level": "low",
+    "note": "total_offers=626"
+  },
+  {
+    "name": "Harry Potter: Magic Awakened",
+    "demand_level": "medium",
+    "note": "total_offers=2112"
+  },
+  {
+    "name": "Hay Day",
+    "demand_level": "high",
+    "note": "total_offers=4509"
+  },
+  {
+    "name": "Hearthstone",
+    "demand_level": "high",
+    "note": "total_offers=5222"
+  },
+  {
+    "name": "Hearts of Iron IV",
+    "demand_level": "medium",
+    "note": "total_offers=1969"
+  },
+  {
+    "name": "Hell is Us",
+    "demand_level": "low",
+    "note": "total_offers=739"
+  },
+  {
+    "name": "Helldivers",
+    "demand_level": "high",
+    "note": "total_offers=6320"
+  },
+  {
+    "name": "Hero Siege",
+    "demand_level": "very_low",
+    "note": "total_offers=167"
+  },
+  {
+    "name": "Heroes of Might and Magic",
+    "demand_level": "low",
+    "note": "total_offers=1181"
+  },
+  {
+    "name": "Heroes of the Storm",
+    "demand_level": "very_low",
+    "note": "total_offers=260"
+  },
+  {
+    "name": "Heroes vs Hordes: Survivor",
+    "demand_level": "low",
+    "note": "total_offers=1219"
+  },
+  {
+    "name": "Hill Climb Racing 2",
+    "demand_level": "low",
+    "note": "total_offers=1126"
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "demand_level": "high",
+    "note": "total_offers=4107"
+  },
+  {
+    "name": "Hollow Knight",
+    "demand_level": "medium",
+    "note": "total_offers=2014"
+  },
+  {
+    "name": "Homeworld 3",
+    "demand_level": "low",
+    "note": "total_offers=1093"
+  },
+  {
+    "name": "Honkai Impact 3rd",
+    "demand_level": "low",
+    "note": "total_offers=1087"
+  },
+  {
+    "name": "Honkai: Star Rail",
+    "demand_level": "very_high",
+    "note": "total_offers=10737"
+  },
+  {
+    "name": "Honor of Kings",
+    "demand_level": "medium",
+    "note": "total_offers=1969"
+  },
+  {
+    "name": "Horizon",
+    "demand_level": "medium",
+    "note": "total_offers=2104"
+  },
+  {
+    "name": "Hunt: Showdown",
+    "demand_level": "high",
+    "note": "total_offers=5821"
+  },
+  {
+    "name": "Hunter x Hunter Nen x Impact",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Hustle Castle",
+    "demand_level": "low",
+    "note": "total_offers=934"
+  },
+  {
+    "name": "Hytale",
+    "demand_level": "low",
+    "note": "total_offers=1026"
+  },
+  {
+    "name": "Icarus",
+    "demand_level": "very_low",
+    "note": "total_offers=249"
+  },
+  {
+    "name": "Identity V",
+    "demand_level": "low",
+    "note": "total_offers=996"
+  },
+  {
+    "name": "IDLE Berserker",
+    "demand_level": "medium",
+    "note": "total_offers=1296"
+  },
+  {
+    "name": "IDLE Heroes",
+    "demand_level": "low",
+    "note": "total_offers=649"
+  },
+  {
+    "name": "Immortals of Aveum",
+    "demand_level": "high",
+    "note": "total_offers=3439"
+  },
+  {
+    "name": "Inazuma Eleven: Victory Road",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Indiana Jones and the Great Circle",
+    "demand_level": "medium",
+    "note": "total_offers=1578"
+  },
+  {
+    "name": "Infinite Magicraid",
+    "demand_level": "medium",
+    "note": "total_offers=1028"
+  },
+  {
+    "name": "Infinity Nikki",
+    "demand_level": "medium",
+    "note": "total_offers=1082"
+  },
+  {
+    "name": "Injustice 2 Mobile",
+    "demand_level": "very_low",
+    "note": "total_offers=408"
+  },
+  {
+    "name": "Instagram",
+    "demand_level": "high",
+    "note": "total_offers=4684"
+  },
+  {
+    "name": "inZOI",
+    "demand_level": "low",
+    "note": "total_offers=848"
+  },
+  {
+    "name": "It Takes Two",
+    "demand_level": "medium",
+    "note": "total_offers=2064"
+  },
+  {
+    "name": "Journey of Monarch",
+    "demand_level": "very_low",
+    "note": "total_offers=264"
+  },
+  {
+    "name": "Jujutsu Kaisen Phantom Parade",
+    "demand_level": "low",
+    "note": "total_offers=818"
+  },
+  {
+    "name": "Jump Space",
+    "demand_level": "very_low",
+    "note": "total_offers=101"
+  },
+  {
+    "name": "Jurassic World Evolution 3",
+    "demand_level": "low",
+    "note": "total_offers=779"
+  },
+  {
+    "name": "Kaiju NO. 8 The Game",
+    "demand_level": "very_low",
+    "note": "total_offers=106"
+  },
+  {
+    "name": "Karos Online",
+    "demand_level": "medium",
+    "note": "total_offers=1113"
+  },
+  {
+    "name": "Kenshi",
+    "demand_level": "low",
+    "note": "total_offers=935"
+  },
+  {
+    "name": "Killing Floor",
+    "demand_level": "medium",
+    "note": "total_offers=1600"
+  },
+  {
+    "name": "King Arthur: Legends Rise",
+    "demand_level": "very_low",
+    "note": "total_offers=381"
+  },
+  {
+    "name": "Kingdom Come: Deliverance",
+    "demand_level": "high",
+    "note": "total_offers=4094"
+  },
+  {
+    "name": "Kling AI",
+    "demand_level": "very_low",
+    "note": "total_offers=297"
+  },
+  {
+    "name": "Last Day on Earth: Survival",
+    "demand_level": "medium",
+    "note": "total_offers=2670"
+  },
+  {
+    "name": "Last Epoch",
+    "demand_level": "high",
+    "note": "total_offers=5632"
+  },
+  {
+    "name": "Last Island of Survival",
+    "demand_level": "medium",
+    "note": "total_offers=1225"
+  },
+  {
+    "name": "Last Oasis",
+    "demand_level": "very_low",
+    "note": "total_offers=66"
+  },
+  {
+    "name": "League of Legends",
+    "demand_level": "very_high",
+    "note": "total_offers=13738"
+  },
+  {
+    "name": "League of Legends: Wild Rift",
+    "demand_level": "high",
+    "note": "total_offers=4239"
+  },
+  {
+    "name": "Left 4 Dead",
+    "demand_level": "medium",
+    "note": "total_offers=1201"
+  },
+  {
+    "name": "Legacy: Steel & Sorcery",
+    "demand_level": "very_low",
+    "note": "total_offers=283"
+  },
+  {
+    "name": "Legend of YMIR",
+    "demand_level": "medium",
+    "note": "total_offers=1043"
+  },
+  {
+    "name": "Lethal Company",
+    "demand_level": "high",
+    "note": "total_offers=5146"
+  },
+  {
+    "name": "Liar's Bar",
+    "demand_level": "medium",
+    "note": "total_offers=1696"
+  },
+  {
+    "name": "Lies of P",
+    "demand_level": "medium",
+    "note": "total_offers=1595"
+  },
+  {
+    "name": "Life is Strange: Double Exposure",
+    "demand_level": "medium",
+    "note": "total_offers=1606"
+  },
+  {
+    "name": "Likee",
+    "demand_level": "high",
+    "note": "total_offers=3119"
+  },
+  {
+    "name": "Lineage 2",
+    "demand_level": "very_high",
+    "note": "total_offers=13079"
+  },
+  {
+    "name": "Lineage 2 Aden",
+    "demand_level": "medium",
+    "note": "total_offers=2363"
+  },
+  {
+    "name": "Lineage 2 Essence",
+    "demand_level": "high",
+    "note": "total_offers=4474"
+  },
+  {
+    "name": "Lineage 2 Legacy",
+    "demand_level": "medium",
+    "note": "total_offers=2975"
+  },
+  {
+    "name": "Lineage 2 Revolution",
+    "demand_level": "very_low",
+    "note": "total_offers=346"
+  },
+  {
+    "name": "Lineage 2M",
+    "demand_level": "medium",
+    "note": "total_offers=1978"
+  },
+  {
+    "name": "Little Nightmares",
+    "demand_level": "medium",
+    "note": "total_offers=2347"
+  },
+  {
+    "name": "Lord of Nazarick",
+    "demand_level": "medium",
+    "note": "total_offers=1205"
+  },
+  {
+    "name": "LORDNINE",
+    "demand_level": "very_low",
+    "note": "total_offers=343"
+  },
+  {
+    "name": "Lords Mobile",
+    "demand_level": "very_high",
+    "note": "total_offers=8069"
+  },
+  {
+    "name": "Lords of the Fallen",
+    "demand_level": "medium",
+    "note": "total_offers=1452"
+  },
+  {
+    "name": "Lost Ark",
+    "demand_level": "very_high",
+    "note": "total_offers=14746"
+  },
+  {
+    "name": "Lost Light",
+    "demand_level": "medium",
+    "note": "total_offers=2388"
+  },
+  {
+    "name": "Lost Records: Bloom & Rage",
+    "demand_level": "very_low",
+    "note": "total_offers=269"
+  },
+  {
+    "name": "Lost Soul Aside",
+    "demand_level": "low",
+    "note": "total_offers=536"
+  },
+  {
+    "name": "Love and Deepspace",
+    "demand_level": "low",
+    "note": "total_offers=906"
+  },
+  {
+    "name": "Mad World: Age of Darkness",
+    "demand_level": "very_low",
+    "note": "total_offers=24"
+  },
+  {
+    "name": "Madden NFL",
+    "demand_level": "low",
+    "note": "total_offers=967"
+  },
+  {
+    "name": "Mafia",
+    "demand_level": "very_high",
+    "note": "total_offers=7037"
+  },
+  {
+    "name": "Magic Chess: Go Go",
+    "demand_level": "medium",
+    "note": "total_offers=1435"
+  },
+  {
+    "name": "Majestic RP",
+    "demand_level": "high",
+    "note": "total_offers=4520"
+  },
+  {
+    "name": "Mandragora: Whispers of the Witch Tree",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Manor Lords",
+    "demand_level": "medium",
+    "note": "total_offers=1604"
+  },
+  {
+    "name": "Marathon",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Marvel Rivals",
+    "demand_level": "high",
+    "note": "total_offers=3746"
+  },
+  {
+    "name": "Mech Arena: Robot Showdown",
+    "demand_level": "medium",
+    "note": "total_offers=1396"
+  },
+  {
+    "name": "Mecha Break",
+    "demand_level": "very_low",
+    "note": "total_offers=306"
+  },
+  {
+    "name": "Mecharashi",
+    "demand_level": "low",
+    "note": "total_offers=633"
+  },
+  {
+    "name": "Megabonk",
+    "demand_level": "low",
+    "note": "total_offers=513"
+  },
+  {
+    "name": "Metal Gear",
+    "demand_level": "high",
+    "note": "total_offers=6876"
+  },
+  {
+    "name": "Metaphor: ReFantazio",
+    "demand_level": "medium",
+    "note": "total_offers=1488"
+  },
+  {
+    "name": "Metin2",
+    "demand_level": "very_low",
+    "note": "total_offers=393"
+  },
+  {
+    "name": "Metro",
+    "demand_level": "high",
+    "note": "total_offers=3040"
+  },
+  {
+    "name": "Microsoft Flight Simulator",
+    "demand_level": "medium",
+    "note": "total_offers=2069"
+  },
+  {
+    "name": "Mimesis",
+    "demand_level": "low",
+    "note": "total_offers=579"
+  },
+  {
+    "name": "MindsEye",
+    "demand_level": "very_low",
+    "note": "total_offers=275"
+  },
+  {
+    "name": "Minecraft Dungeons",
+    "demand_level": "medium",
+    "note": "total_offers=1105"
+  },
+  {
+    "name": "Minecraft Legends",
+    "demand_level": "medium",
+    "note": "total_offers=2790"
+  },
+  {
+    "name": "MIR4",
+    "demand_level": "very_low",
+    "note": "total_offers=177"
+  },
+  {
+    "name": "MiSide",
+    "demand_level": "low",
+    "note": "total_offers=694"
+  },
+  {
+    "name": "Mistfall Hunter",
+    "demand_level": "very_low",
+    "note": "total_offers=27"
+  },
+  {
+    "name": "MO.CO",
+    "demand_level": "medium",
+    "note": "total_offers=1038"
+  },
+  {
+    "name": "Mobile Legends",
+    "demand_level": "very_high",
+    "note": "total_offers=17725"
+  },
+  {
+    "name": "Mobile Legends: Adventure",
+    "demand_level": "medium",
+    "note": "total_offers=1200"
+  },
+  {
+    "name": "Modern Warships",
+    "demand_level": "low",
+    "note": "total_offers=575"
+  },
+  {
+    "name": "Monster Hunter",
+    "demand_level": "medium",
+    "note": "total_offers=1767"
+  },
+  {
+    "name": "Monster Hunter Wilds",
+    "demand_level": "medium",
+    "note": "total_offers=2287"
+  },
+  {
+    "name": "Mortal Kombat 1",
+    "demand_level": "high",
+    "note": "total_offers=3764"
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "demand_level": "medium",
+    "note": "total_offers=2460"
+  },
+  {
+    "name": "Mortal Kombat Mobile",
+    "demand_level": "high",
+    "note": "total_offers=5413"
+  },
+  {
+    "name": "Mortal Kombat X",
+    "demand_level": "medium",
+    "note": "total_offers=1179"
+  },
+  {
+    "name": "Mortal Online 2",
+    "demand_level": "low",
+    "note": "total_offers=567"
+  },
+  {
+    "name": "My Singing Monsters",
+    "demand_level": "medium",
+    "note": "total_offers=1679"
+  },
+  {
+    "name": "Myth of Empires",
+    "demand_level": "very_low",
+    "note": "total_offers=391"
+  },
+  {
+    "name": "Myths of Moonrise",
+    "demand_level": "low",
+    "note": "total_offers=916"
+  },
+  {
+    "name": "Naraka: Bladepoint",
+    "demand_level": "medium",
+    "note": "total_offers=1169"
+  },
+  {
+    "name": "Naruto X Boruto Ultimate Ninja Storm Connections",
+    "demand_level": "medium",
+    "note": "total_offers=1274"
+  },
+  {
+    "name": "NBA 2K",
+    "demand_level": "high",
+    "note": "total_offers=3814"
+  },
+  {
+    "name": "Need for Speed",
+    "demand_level": "high",
+    "note": "total_offers=4626"
+  },
+  {
+    "name": "Neverwinter",
+    "demand_level": "very_low",
+    "note": "total_offers=439"
+  },
+  {
+    "name": "New World",
+    "demand_level": "high",
+    "note": "total_offers=7668"
+  },
+  {
+    "name": "NHL",
+    "demand_level": "medium",
+    "note": "total_offers=1505"
+  },
+  {
+    "name": "Night Crows",
+    "demand_level": "medium",
+    "note": "total_offers=2281"
+  },
+  {
+    "name": "Nightingale",
+    "demand_level": "low",
+    "note": "total_offers=892"
+  },
+  {
+    "name": "Ninja Gaiden 4",
+    "demand_level": "low",
+    "note": "total_offers=786"
+  },
+  {
+    "name": "Nintendo",
+    "demand_level": "high",
+    "note": "total_offers=5504"
+  },
+  {
+    "name": "Nioh 3",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "No Man's Sky",
+    "demand_level": "medium",
+    "note": "total_offers=1413"
+  },
+  {
+    "name": "No Rest for the Wicked",
+    "demand_level": "medium",
+    "note": "total_offers=2208"
+  },
+  {
+    "name": "NTE (Neverness to Everness)",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Nulls Brawl",
+    "demand_level": "medium",
+    "note": "total_offers=1453"
+  },
+  {
+    "name": "ODIN: Valhalla Rising",
+    "demand_level": "medium",
+    "note": "total_offers=1508"
+  },
+  {
+    "name": "Once Human",
+    "demand_level": "medium",
+    "note": "total_offers=2799"
+  },
+  {
+    "name": "One Piece Bounty Rush",
+    "demand_level": "low",
+    "note": "total_offers=771"
+  },
+  {
+    "name": "One Punch Man: World",
+    "demand_level": "low",
+    "note": "total_offers=793"
+  },
+  {
+    "name": "Oniro",
+    "demand_level": "very_low",
+    "note": "total_offers=438"
+  },
+  {
+    "name": "Only Up!",
+    "demand_level": "low",
+    "note": "total_offers=885"
+  },
+  {
+    "name": "Outlast",
+    "demand_level": "high",
+    "note": "total_offers=3435"
+  },
+  {
+    "name": "Outriders",
+    "demand_level": "low",
+    "note": "total_offers=676"
+  },
+  {
+    "name": "Overwatch 2",
+    "demand_level": "high",
+    "note": "total_offers=5480"
+  },
+  {
+    "name": "Oxide: Survival Island",
+    "demand_level": "low",
+    "note": "total_offers=754"
+  },
+  {
+    "name": "Painkiller",
+    "demand_level": "very_low",
+    "note": "total_offers=248"
+  },
+  {
+    "name": "Paladins",
+    "demand_level": "low",
+    "note": "total_offers=1187"
+  },
+  {
+    "name": "Palia",
+    "demand_level": "low",
+    "note": "total_offers=972"
+  },
+  {
+    "name": "Palworld",
+    "demand_level": "high",
+    "note": "total_offers=3863"
+  },
+  {
+    "name": "Party Animals",
+    "demand_level": "medium",
+    "note": "total_offers=1339"
+  },
+  {
+    "name": "Paws",
+    "demand_level": "low",
+    "note": "total_offers=668"
+  },
+  {
+    "name": "Pax Dei",
+    "demand_level": "low",
+    "note": "total_offers=1117"
+  },
+  {
+    "name": "Payday 2",
+    "demand_level": "low",
+    "note": "total_offers=1219"
+  },
+  {
+    "name": "Payday 3",
+    "demand_level": "medium",
+    "note": "total_offers=1707"
+  },
+  {
+    "name": "Peak",
+    "demand_level": "medium",
+    "note": "total_offers=1965"
+  },
+  {
+    "name": "Perfect World",
+    "demand_level": "medium",
+    "note": "total_offers=2111"
+  },
+  {
+    "name": "Perfect World International",
+    "demand_level": "very_low",
+    "note": "total_offers=98"
+  },
+  {
+    "name": "Perfect World Mobile",
+    "demand_level": "very_low",
+    "note": "total_offers=216"
+  },
+  {
+    "name": "Perfect World: Ascend",
+    "demand_level": "very_low",
+    "note": "total_offers=172"
+  },
+  {
+    "name": "Persona",
+    "demand_level": "high",
+    "note": "total_offers=3184"
+  },
+  {
+    "name": "Persona 5: The Phantom X",
+    "demand_level": "low",
+    "note": "total_offers=569"
+  },
+  {
+    "name": "Phasmophobia",
+    "demand_level": "medium",
+    "note": "total_offers=2341"
+  },
+  {
+    "name": "Pioner",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Pixel Gun 3D",
+    "demand_level": "medium",
+    "note": "total_offers=1450"
+  },
+  {
+    "name": "PixelTap",
+    "demand_level": "low",
+    "note": "total_offers=658"
+  },
+  {
+    "name": "Plants vs Zombies 2",
+    "demand_level": "low",
+    "note": "total_offers=1238"
+  },
+  {
+    "name": "PlayStation",
+    "demand_level": "very_high",
+    "note": "total_offers=19706"
+  },
+  {
+    "name": "Point Blank",
+    "demand_level": "very_low",
+    "note": "total_offers=417"
+  },
+  {
+    "name": "Pokemon GO",
+    "demand_level": "high",
+    "note": "total_offers=3099"
+  },
+  {
+    "name": "Pokemon TCG Pocket",
+    "demand_level": "low",
+    "note": "total_offers=1088"
+  },
+  {
+    "name": "Prince of Persia: The Lost Crown",
+    "demand_level": "medium",
+    "note": "total_offers=1438"
+  },
+  {
+    "name": "Prison Architect 2",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Project Motor Racing",
+    "demand_level": "very_low",
+    "note": "total_offers=231"
+  },
+  {
+    "name": "Project Zeta",
+    "demand_level": "very_low",
+    "note": "total_offers=17"
+  },
+  {
+    "name": "Project Zomboid",
+    "demand_level": "medium",
+    "note": "total_offers=1750"
+  },
+  {
+    "name": "Province RP",
+    "demand_level": "medium",
+    "note": "total_offers=1636"
+  },
+  {
+    "name": "PUBG",
+    "demand_level": "very_high",
+    "note": "total_offers=7117"
+  },
+  {
+    "name": "PUBG Mobile",
+    "demand_level": "very_high",
+    "note": "total_offers=59368"
+  },
+  {
+    "name": "PUBG: Black Budget",
+    "demand_level": "very_low",
+    "note": "total_offers=4"
+  },
+  {
+    "name": "PUBG: New State",
+    "demand_level": "low",
+    "note": "total_offers=1205"
+  },
+  {
+    "name": "Punishing: Gray Raven",
+    "demand_level": "low",
+    "note": "total_offers=949"
+  },
+  {
+    "name": "R.E.P.O.",
+    "demand_level": "medium",
+    "note": "total_offers=2664"
+  },
+  {
+    "name": "R2 Online",
+    "demand_level": "very_low",
+    "note": "total_offers=409"
+  },
+  {
+    "name": "Radmir",
+    "demand_level": "high",
+    "note": "total_offers=5330"
+  },
+  {
+    "name": "Ragnarok",
+    "demand_level": "low",
+    "note": "total_offers=563"
+  },
+  {
+    "name": "Ragnarok M: Eternal Love",
+    "demand_level": "very_low",
+    "note": "total_offers=235"
+  },
+  {
+    "name": "Ragnarok Origin",
+    "demand_level": "very_low",
+    "note": "total_offers=143"
+  },
+  {
+    "name": "Raid: Shadow Legends",
+    "demand_level": "high",
+    "note": "total_offers=5839"
+  },
+  {
+    "name": "Rappelz",
+    "demand_level": "very_low",
+    "note": "total_offers=136"
+  },
+  {
+    "name": "Rasalas",
+    "demand_level": "very_low",
+    "note": "total_offers=218"
+  },
+  {
+    "name": "Ratchet & Clank: Rift Apart",
+    "demand_level": "very_low",
+    "note": "total_offers=438"
+  },
+  {
+    "name": "RAVEN2",
+    "demand_level": "medium",
+    "note": "total_offers=2325"
+  },
+  {
+    "name": "Ravendawn",
+    "demand_level": "very_low",
+    "note": "total_offers=151"
+  },
+  {
+    "name": "RavenQuest",
+    "demand_level": "very_low",
+    "note": "total_offers=76"
+  },
+  {
+    "name": "RCD",
+    "demand_level": "very_low",
+    "note": "total_offers=89"
+  },
+  {
+    "name": "Ready or Not",
+    "demand_level": "medium",
+    "note": "total_offers=1843"
+  },
+  {
+    "name": "Reanimal",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Red Dead Redemption",
+    "demand_level": "low",
+    "note": "total_offers=772"
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "demand_level": "high",
+    "note": "total_offers=4847"
+  },
+  {
+    "name": "Rematch",
+    "demand_level": "medium",
+    "note": "total_offers=2309"
+  },
+  {
+    "name": "Remnant 2",
+    "demand_level": "medium",
+    "note": "total_offers=1941"
+  },
+  {
+    "name": "Resident Evil",
+    "demand_level": "high",
+    "note": "total_offers=4128"
+  },
+  {
+    "name": "Resident Evil 4",
+    "demand_level": "medium",
+    "note": "total_offers=2367"
+  },
+  {
+    "name": "Resident Evil Requiem",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Resident Evil Village",
+    "demand_level": "medium",
+    "note": "total_offers=1624"
+  },
+  {
+    "name": "Revelation",
+    "demand_level": "very_low",
+    "note": "total_offers=437"
+  },
+  {
+    "name": "Revelation Mobile",
+    "demand_level": "very_low",
+    "note": "total_offers=293"
+  },
+  {
+    "name": "Reverse: 1999",
+    "demand_level": "low",
+    "note": "total_offers=1093"
+  },
+  {
+    "name": "RF Online",
+    "demand_level": "very_low",
+    "note": "total_offers=450"
+  },
+  {
+    "name": "RimWorld",
+    "demand_level": "low",
+    "note": "total_offers=747"
+  },
+  {
+    "name": "Rise of Kingdoms",
+    "demand_level": "medium",
+    "note": "total_offers=2592"
+  },
+  {
+    "name": "Rise of the Ronin",
+    "demand_level": "very_low",
+    "note": "total_offers=451, below very_low threshold"
+  },
+  {
+    "name": "RoadCraft",
+    "demand_level": "low",
+    "note": "total_offers=702, within low threshold"
+  },
+  {
+    "name": "RoboCop: Rogue City",
+    "demand_level": "low",
+    "note": "total_offers=928, within low threshold"
+  },
+  {
+    "name": "Rocket League",
+    "demand_level": "medium",
+    "note": "total_offers=2327, within medium threshold"
+  },
+  {
+    "name": "Rohan 2",
+    "demand_level": "very_low",
+    "note": "total_offers=76, below very_low threshold"
+  },
+  {
+    "name": "ROM",
+    "demand_level": "low",
+    "note": "total_offers=503, within low threshold"
+  },
+  {
+    "name": "Royal Match",
+    "demand_level": "medium",
+    "note": "total_offers=1184, within medium threshold"
+  },
+  {
+    "name": "Royal Quest",
+    "demand_level": "low",
+    "note": "total_offers=585, within low threshold"
+  },
+  {
+    "name": "Runway",
+    "demand_level": "very_low",
+    "note": "total_offers=171, below very_low threshold"
+  },
+  {
+    "name": "Rush Royale",
+    "demand_level": "medium",
+    "note": "total_offers=2234, within medium threshold"
+  },
+  {
+    "name": "Rust",
+    "demand_level": "very_high",
+    "note": "total_offers=21273, within very_high threshold"
+  },
+  {
+    "name": "Rust Mobile",
+    "demand_level": "very_low",
+    "note": "total_offers=0, below very_low threshold"
+  },
+  {
+    "name": "RustMe",
+    "demand_level": "medium",
+    "note": "total_offers=1580, within medium threshold"
+  },
+  {
+    "name": "RV There Yet",
+    "demand_level": "medium",
+    "note": "total_offers=1195, within medium threshold"
+  },
+  {
+    "name": "Saros",
+    "demand_level": "very_low",
+    "note": "total_offers=0, below very_low threshold"
+  },
+  {
+    "name": "Satisfactory",
+    "demand_level": "low",
+    "note": "total_offers=665, within low threshold"
+  },
+  {
+    "name": "SCUM",
+    "demand_level": "medium",
+    "note": "total_offers=1493, within medium threshold"
+  },
+  {
+    "name": "Sea of Conquest: Pirate War",
+    "demand_level": "very_low",
+    "note": "total_offers=336, below very_low threshold"
+  },
+  {
+    "name": "Sea of Thieves",
+    "demand_level": "high",
+    "note": "total_offers=4772, within high threshold"
+  },
+  {
+    "name": "Senua’s Saga: Hellblade 2",
+    "demand_level": "low",
+    "note": "total_offers=534, within low threshold"
+  },
+  {
+    "name": "Seven Hearts Stories",
+    "demand_level": "very_low",
+    "note": "total_offers=155, below very_low threshold"
+  },
+  {
+    "name": "Shin Megami Tensei V: Vengeance",
+    "demand_level": "very_low",
+    "note": "total_offers=453, below very_low threshold"
+  },
+  {
+    "name": "Sid Meier's Civilization 7",
+    "demand_level": "medium",
+    "note": "total_offers=1750, within medium threshold"
+  },
+  {
+    "name": "Silent Hill 2",
+    "demand_level": "medium",
+    "note": "total_offers=1614, within medium threshold"
+  },
+  {
+    "name": "Silent Hill f",
+    "demand_level": "medium",
+    "note": "total_offers=1571, within medium threshold"
+  },
+  {
+    "name": "Silkroad Online",
+    "demand_level": "very_low",
+    "note": "total_offers=426, below very_low threshold"
+  },
+  {
+    "name": "Silver and Blood",
+    "demand_level": "very_low",
+    "note": "total_offers=437, below very_low threshold"
+  },
+  {
+    "name": "Silver Palace",
+    "demand_level": "very_low",
+    "note": "total_offers=0, below very_low threshold"
+  },
+  {
+    "name": "Sker Ritual",
+    "demand_level": "very_low",
+    "note": "total_offers=218, below very_low threshold"
+  },
+  {
+    "name": "Skull and Bones",
+    "demand_level": "medium",
+    "note": "total_offers=1573, within medium threshold"
+  },
+  {
+    "name": "Sky: Children of the Light",
+    "demand_level": "very_low",
+    "note": "total_offers=336"
+  },
+  {
+    "name": "Skyforge",
+    "demand_level": "very_low",
+    "note": "total_offers=156"
+  },
+  {
+    "name": "Smite",
+    "demand_level": "low",
+    "note": "total_offers=469"
+  },
+  {
+    "name": "Smite 2",
+    "demand_level": "very_low",
+    "note": "total_offers=219"
+  },
+  {
+    "name": "Sniper Elite",
+    "demand_level": "medium",
+    "note": "total_offers=1672"
+  },
+  {
+    "name": "SnowRunner",
+    "demand_level": "medium",
+    "note": "total_offers=1573"
+  },
+  {
+    "name": "Solo Leveling: ARISE",
+    "demand_level": "medium",
+    "note": "total_offers=1476"
+  },
+  {
+    "name": "Sonic Racing: CrossWorlds",
+    "demand_level": "very_low",
+    "note": "total_offers=359"
+  },
+  {
+    "name": "Sonic X Shadow Generations",
+    "demand_level": "low",
+    "note": "total_offers=471"
+  },
+  {
+    "name": "Sons of the Forest",
+    "demand_level": "medium",
+    "note": "total_offers=1728"
+  },
+  {
+    "name": "Soul Knight",
+    "demand_level": "low",
+    "note": "total_offers=917"
+  },
+  {
+    "name": "Soulframe",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Soulmask",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "SoulWorker",
+    "demand_level": "very_low",
+    "note": "total_offers=27"
+  },
+  {
+    "name": "Soundpad",
+    "demand_level": "low",
+    "note": "total_offers=507"
+  },
+  {
+    "name": "South of Midnight",
+    "demand_level": "low",
+    "note": "total_offers=474"
+  },
+  {
+    "name": "Spectre Divide",
+    "demand_level": "very_low",
+    "note": "total_offers=55"
+  },
+  {
+    "name": "Spider-Man",
+    "demand_level": "high",
+    "note": "total_offers=2918"
+  },
+  {
+    "name": "Split Fiction",
+    "demand_level": "medium",
+    "note": "total_offers=1440"
+  },
+  {
+    "name": "Splitgate 2",
+    "demand_level": "very_low",
+    "note": "total_offers=85"
+  },
+  {
+    "name": "Spore",
+    "demand_level": "very_low",
+    "note": "total_offers=360"
+  },
+  {
+    "name": "Squad",
+    "demand_level": "medium",
+    "note": "total_offers=2213"
+  },
+  {
+    "name": "Squad Busters",
+    "demand_level": "low",
+    "note": "total_offers=1169"
+  },
+  {
+    "name": "Stalcraft",
+    "demand_level": "very_high",
+    "note": "total_offers=9655"
+  },
+  {
+    "name": "Stalker Online (Stay Out)",
+    "demand_level": "low",
+    "note": "total_offers=1178"
+  },
+  {
+    "name": "Standoff 2",
+    "demand_level": "very_high",
+    "note": "total_offers=27160"
+  },
+  {
+    "name": "Star Savior",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "Star Wars",
+    "demand_level": "high",
+    "note": "total_offers=6539"
+  },
+  {
+    "name": "StarCraft 2",
+    "demand_level": "low",
+    "note": "total_offers=771"
+  },
+  {
+    "name": "Stardew Valley",
+    "demand_level": "low",
+    "note": "total_offers=922"
+  },
+  {
+    "name": "Starfield",
+    "demand_level": "medium",
+    "note": "total_offers=1342"
+  },
+  {
+    "name": "Steam",
+    "demand_level": "very_high",
+    "note": "total_offers=56356"
+  },
+  {
+    "name": "Stella Sora",
+    "demand_level": "low",
+    "note": "total_offers=593"
+  },
+  {
+    "name": "Stellar Blade",
+    "demand_level": "medium",
+    "note": "total_offers=1686"
+  },
+  {
+    "name": "Still Wakes the Deep",
+    "demand_level": "very_low",
+    "note": "total_offers=375"
+  },
+  {
+    "name": "Stormgate",
+    "demand_level": "very_low",
+    "note": "total_offers=216"
+  },
+  {
+    "name": "Street Fighter 6",
+    "demand_level": "medium",
+    "note": "total_offers=1429"
+  },
+  {
+    "name": "Strinova",
+    "demand_level": "very_low",
+    "note": "total_offers=264"
+  },
+  {
+    "name": "Stronghold",
+    "demand_level": "low",
+    "note": "total_offers=694"
+  },
+  {
+    "name": "Stumble Guys",
+    "demand_level": "low",
+    "note": "total_offers=833"
+  },
+  {
+    "name": "Subnautica",
+    "demand_level": "medium",
+    "note": "total_offers=1057"
+  },
+  {
+    "name": "Suicide Squad: Kill the Justice League",
+    "demand_level": "low",
+    "note": "total_offers=471"
+  },
+  {
+    "name": "Summoners War: Chronicles",
+    "demand_level": "very_low",
+    "note": "total_offers=393"
+  },
+  {
+    "name": "Summoners War: Sky Arena",
+    "demand_level": "low",
+    "note": "total_offers=908"
+  },
+  {
+    "name": "Super Sus",
+    "demand_level": "low",
+    "note": "total_offers=887"
+  },
+  {
+    "name": "Sword Art Online Fractured Daydream",
+    "demand_level": "very_low",
+    "note": "total_offers=334"
+  },
+  {
+    "name": "System Shock 2: Remaster",
+    "demand_level": "very_low",
+    "note": "total_offers=134"
+  },
+  {
+    "name": "T3 Arena",
+    "demand_level": "low",
+    "note": "total_offers=471"
+  },
+  {
+    "name": "Tabletop Simulator",
+    "demand_level": "very_low",
+    "note": "total_offers=61"
+  },
+  {
+    "name": "Tainted Grail: The Fall of Avalon",
+    "demand_level": "low",
+    "note": "total_offers=577"
+  },
+  {
+    "name": "Tank Company",
+    "demand_level": "low",
+    "note": "total_offers=503"
+  },
+  {
+    "name": "Tarisland",
+    "demand_level": "medium",
+    "note": "total_offers=1437"
+  },
+  {
+    "name": "Team Fortress 2",
+    "demand_level": "medium",
+    "note": "total_offers=1161"
+  },
+  {
+    "name": "Teamfight Tactics",
+    "demand_level": "medium",
+    "note": "total_offers=1134"
+  },
+  {
+    "name": "Tekken",
+    "demand_level": "high",
+    "note": "total_offers=2812"
+  },
+  {
+    "name": "Tempest Rising",
+    "demand_level": "very_low",
+    "note": "total_offers=331"
+  },
+  {
+    "name": "TERA",
+    "demand_level": "very_low",
+    "note": "total_offers=159"
+  },
+  {
+    "name": "Terraria",
+    "demand_level": "high",
+    "note": "total_offers=2160"
+  },
+  {
+    "name": "Test Drive Unlimited Solar Crown",
+    "demand_level": "low",
+    "note": "total_offers=528"
+  },
+  {
+    "name": "The Alters",
+    "demand_level": "low",
+    "note": "total_offers=709"
+  },
+  {
+    "name": "The Bazaar",
+    "demand_level": "very_low",
+    "note": "total_offers=179, below very_low threshold"
+  },
+  {
+    "name": "The Casting of Frank Stone",
+    "demand_level": "low",
+    "note": "total_offers=468, within low threshold"
+  },
+  {
+    "name": "The Crew 2",
+    "demand_level": "medium",
+    "note": "total_offers=1617, within medium threshold"
+  },
+  {
+    "name": "The Crew Motorfest",
+    "demand_level": "medium",
+    "note": "total_offers=2393, within medium threshold"
+  },
+  {
+    "name": "The Dark Pictures",
+    "demand_level": "low",
+    "note": "total_offers=782, within low threshold"
+  },
+  {
+    "name": "The Finals",
+    "demand_level": "low",
+    "note": "total_offers=939, within low threshold"
+  },
+  {
+    "name": "The First Berserker: Khazan",
+    "demand_level": "medium",
+    "note": "total_offers=1094, within medium threshold"
+  },
+  {
+    "name": "The First Descendant",
+    "demand_level": "low",
+    "note": "total_offers=909, within low threshold"
+  },
+  {
+    "name": "The Headliners",
+    "demand_level": "very_low",
+    "note": "total_offers=312, below very_low threshold"
+  },
+  {
+    "name": "The Last of Us",
+    "demand_level": "high",
+    "note": "total_offers=3255, within high threshold"
+  },
+  {
+    "name": "The Legend of Neverland",
+    "demand_level": "low",
+    "note": "total_offers=669, within low threshold"
+  },
+  {
+    "name": "The Legend of Zelda",
+    "demand_level": "very_low",
+    "note": "total_offers=188, below very_low threshold"
+  },
+  {
+    "name": "The Long Dark",
+    "demand_level": "low",
+    "note": "total_offers=708, within low threshold"
+  },
+  {
+    "name": "The Midnight Walkers",
+    "demand_level": "very_low",
+    "note": "total_offers=0, below very_low threshold"
+  },
+  {
+    "name": "The Outer Worlds",
+    "demand_level": "low",
+    "note": "total_offers=856, within low threshold"
+  },
+  {
+    "name": "The Quinfall",
+    "demand_level": "very_low",
+    "note": "total_offers=361, below very_low threshold"
+  },
+  {
+    "name": "The Seven Deadly Sins: Grand Cross",
+    "demand_level": "medium",
+    "note": "total_offers=1065, within medium threshold"
+  },
+  {
+    "name": "The Sims",
+    "demand_level": "high",
+    "note": "total_offers=3679, within high threshold"
+  },
+  {
+    "name": "Thief",
+    "demand_level": "low",
+    "note": "total_offers=536, within low threshold"
+  },
+  {
+    "name": "Threads",
+    "demand_level": "very_low",
+    "note": "total_offers=71, below very_low threshold"
+  },
+  {
+    "name": "Throne and Liberty",
+    "demand_level": "medium",
+    "note": "total_offers=2182, within medium threshold"
+  },
+  {
+    "name": "TikTok",
+    "demand_level": "very_high",
+    "note": "total_offers=13114, within very_high threshold"
+  },
+  {
+    "name": "Tiles Survive",
+    "demand_level": "very_low",
+    "note": "total_offers=229, below very_low threshold"
+  },
+  {
+    "name": "Tiny Bunny",
+    "demand_level": "very_low",
+    "note": "total_offers=449, below very_low threshold"
+  },
+  {
+    "name": "Titan Quest",
+    "demand_level": "very_low",
+    "note": "total_offers=397, below very_low threshold"
+  },
+  {
+    "name": "Titanfall 2",
+    "demand_level": "low",
+    "note": "total_offers=493, within low threshold"
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six",
+    "demand_level": "high",
+    "note": "total_offers=4172, within high threshold"
+  },
+  {
+    "name": "Tom Clancy's The Division",
+    "demand_level": "high",
+    "note": "total_offers=3766, within high threshold"
+  },
+  {
+    "name": "Tom Clancy’s Ghost Recon",
+    "demand_level": "medium",
+    "note": "total_offers=3039, within medium threshold"
+  },
+  {
+    "name": "Tomb Raider",
+    "demand_level": "medium",
+    "note": "total_offers=1475, within medium threshold"
+  },
+  {
+    "name": "Torchlight: Infinite",
+    "demand_level": "low",
+    "note": "total_offers=1278, below medium threshold"
+  },
+  {
+    "name": "Total Conflict: Resistance",
+    "demand_level": "very_low",
+    "note": "total_offers=216, below low threshold"
+  },
+  {
+    "name": "Total War",
+    "demand_level": "high",
+    "note": "total_offers=4259, above high threshold"
+  },
+  {
+    "name": "Towa and the Guardians of the Sacred Tree",
+    "demand_level": "very_low",
+    "note": "total_offers=169, below low threshold"
+  },
+  {
+    "name": "Tower of Fantasy",
+    "demand_level": "low",
+    "note": "total_offers=1256, below medium threshold"
+  },
+  {
+    "name": "Trove",
+    "demand_level": "very_low",
+    "note": "total_offers=292, below low threshold"
+  },
+  {
+    "name": "Trovo",
+    "demand_level": "low",
+    "note": "total_offers=716, above low threshold"
+  },
+  {
+    "name": "Umamusume: Pretty Derby",
+    "demand_level": "low",
+    "note": "total_offers=583, above low threshold"
+  },
+  {
+    "name": "Uncharted",
+    "demand_level": "low",
+    "note": "total_offers=709, above low threshold"
+  },
+  {
+    "name": "Undawn",
+    "demand_level": "medium",
+    "note": "total_offers=1641, above medium threshold"
+  },
+  {
+    "name": "Undecember",
+    "demand_level": "low",
+    "note": "total_offers=902, above low threshold"
+  },
+  {
+    "name": "Undertale",
+    "demand_level": "very_low",
+    "note": "total_offers=388, below low threshold"
+  },
+  {
+    "name": "Undisputed",
+    "demand_level": "low",
+    "note": "total_offers=523, above low threshold"
+  },
+  {
+    "name": "Unknown 9: Awakening",
+    "demand_level": "low",
+    "note": "total_offers=539, above low threshold"
+  },
+  {
+    "name": "UNO!",
+    "demand_level": "low",
+    "note": "total_offers=537, above low threshold"
+  },
+  {
+    "name": "Until Dawn",
+    "demand_level": "low",
+    "note": "total_offers=491, above low threshold"
+  },
+  {
+    "name": "Uplay",
+    "demand_level": "medium",
+    "note": "total_offers=3000, below high threshold"
+  },
+  {
+    "name": "V Rising",
+    "demand_level": "low",
+    "note": "total_offers=1151, below medium threshold"
+  },
+  {
+    "name": "Valheim",
+    "demand_level": "low",
+    "note": "total_offers=1288, below medium threshold"
+  },
+  {
+    "name": "Valorant",
+    "demand_level": "very_high",
+    "note": "total_offers=18653, above very_high threshold"
+  },
+  {
+    "name": "Valorant Mobile",
+    "demand_level": "very_low",
+    "note": "total_offers=92, below low threshold"
+  },
+  {
+    "name": "Vampire: The Masquerade - Bloodlines 2",
+    "demand_level": "low",
+    "note": "total_offers=1045, below medium threshold"
+  },
+  {
+    "name": "Vampires: Bloodlord Rising",
+    "demand_level": "very_low",
+    "note": "total_offers=0, below low threshold"
+  },
+  {
+    "name": "Vaultbreakers",
+    "demand_level": "very_low",
+    "note": "total_offers=0, below low threshold"
+  },
+  {
+    "name": "Veo 3",
+    "demand_level": "low",
+    "note": "total_offers=473, above low threshold"
+  },
+  {
+    "name": "Vikings: War of Clans",
+    "demand_level": "medium",
+    "note": "total_offers=1584, above medium threshold"
+  },
+  {
+    "name": "VK Coin",
+    "demand_level": "very_low",
+    "note": "total_offers=0, below low threshold"
+  },
+  {
+    "name": "Vladik Brutal",
+    "demand_level": "very_low",
+    "note": "total_offers=205, below low threshold"
+  },
+  {
+    "name": "VR игры",
+    "demand_level": "low",
+    "note": "total_offers=1249, below medium threshold"
+  },
+  {
+    "name": "Wallpaper Engine",
+    "demand_level": "low",
+    "note": "total_offers=810, above low threshold"
+  },
+  {
+    "name": "War Thunder Mobile",
+    "demand_level": "medium",
+    "note": "total_offers=1741"
+  },
+  {
+    "name": "Warborne Above Ashes",
+    "demand_level": "very_low",
+    "note": "total_offers=242"
+  },
+  {
+    "name": "Warcraft 3: Reforged",
+    "demand_level": "low",
+    "note": "total_offers=749"
+  },
+  {
+    "name": "Warcraft Rumble",
+    "demand_level": "medium",
+    "note": "total_offers=1086"
+  },
+  {
+    "name": "Warhammer",
+    "demand_level": "medium",
+    "note": "total_offers=1847"
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "demand_level": "high",
+    "note": "total_offers=3151"
+  },
+  {
+    "name": "Warno",
+    "demand_level": "very_low",
+    "note": "total_offers=279"
+  },
+  {
+    "name": "Watch Dogs",
+    "demand_level": "medium",
+    "note": "total_offers=2973"
+  },
+  {
+    "name": "Watcher of Realms",
+    "demand_level": "medium",
+    "note": "total_offers=2172"
+  },
+  {
+    "name": "Wayfinder",
+    "demand_level": "very_low",
+    "note": "total_offers=224"
+  },
+  {
+    "name": "Where Winds Meet",
+    "demand_level": "medium",
+    "note": "total_offers=1896"
+  },
+  {
+    "name": "Wild Terra 2: New Lands",
+    "demand_level": "very_low",
+    "note": "total_offers=208"
+  },
+  {
+    "name": "Wildgate",
+    "demand_level": "very_low",
+    "note": "total_offers=151"
+  },
+  {
+    "name": "Will To Live Online",
+    "demand_level": "medium",
+    "note": "total_offers=2006"
+  },
+  {
+    "name": "World of Goo",
+    "demand_level": "very_low",
+    "note": "total_offers=195"
+  },
+  {
+    "name": "World of Sea Battle",
+    "demand_level": "very_low",
+    "note": "total_offers=37"
+  },
+  {
+    "name": "World of Warcraft Titan Reforged",
+    "demand_level": "very_low",
+    "note": "total_offers=80"
+  },
+  {
+    "name": "World of Water",
+    "demand_level": "very_low",
+    "note": "total_offers=45"
+  },
+  {
+    "name": "World War Z",
+    "demand_level": "medium",
+    "note": "total_offers=1303"
+  },
+  {
+    "name": "Worms",
+    "demand_level": "very_low",
+    "note": "total_offers=448"
+  },
+  {
+    "name": "WPlace",
+    "demand_level": "very_low",
+    "note": "total_offers=263"
+  },
+  {
+    "name": "Wuchang: Fallen Feathers",
+    "demand_level": "medium",
+    "note": "total_offers=1082"
+  },
+  {
+    "name": "Wuthering Waves",
+    "demand_level": "high",
+    "note": "total_offers=5162"
+  },
+  {
+    "name": "Xbox",
+    "demand_level": "very_high",
+    "note": "total_offers=11646"
+  },
+  {
+    "name": "Yakuza",
+    "demand_level": "medium",
+    "note": "total_offers=1803"
+  },
+  {
+    "name": "Zenless Zone Zero",
+    "demand_level": "high",
+    "note": "total_offers=6088"
+  },
+  {
+    "name": "Zepeto",
+    "demand_level": "medium",
+    "note": "total_offers=1184"
+  },
+  {
+    "name": "Zooba",
+    "demand_level": "low",
+    "note": "total_offers=774"
+  },
+  {
+    "name": "Ведьмак 3: Дикая Охота",
+    "demand_level": "medium",
+    "note": "total_offers=3037"
+  },
+  {
+    "name": "Дзен",
+    "demand_level": "low",
+    "note": "total_offers=717"
+  },
+  {
+    "name": "Дурак Онлайн",
+    "demand_level": "medium",
+    "note": "total_offers=1505"
+  },
+  {
+    "name": "Калибр",
+    "demand_level": "low",
+    "note": "total_offers=767"
+  },
+  {
+    "name": "Легенды Дракономании",
+    "demand_level": "low",
+    "note": "total_offers=872"
+  },
+  {
+    "name": "Легенды Кунг Фу",
+    "demand_level": "very_low",
+    "note": "total_offers=84"
+  },
+  {
+    "name": "Матрешка RP",
+    "demand_level": "high",
+    "note": "total_offers=3813"
+  },
+  {
+    "name": "Мобильные игры",
+    "demand_level": "very_high",
+    "note": "total_offers=9593"
+  },
+  {
+    "name": "Одноклассники",
+    "demand_level": "very_low",
+    "note": "total_offers=400"
+  },
+  {
+    "name": "Прочие игры",
+    "demand_level": "very_high",
+    "note": "total_offers=22232"
+  },
+  {
+    "name": "Русская Рыбалка",
+    "demand_level": "medium",
+    "note": "total_offers=2345"
+  },
+  {
+    "name": "Шахматы",
+    "demand_level": "medium",
+    "note": "total_offers=1290"
+  },
+  {
+    "name": "007 First Light",
+    "demand_level": "very_low",
+    "note": "total_offers=0"
+  },
+  {
+    "name": "2XKO",
+    "demand_level": "very_low",
+    "note": "total_offers=30"
+  },
+  {
+    "name": "7 Days to Die",
+    "demand_level": "medium",
+    "note": "total_offers=1962"
+  },
+  {
+    "name": "8 Ball Pool",
+    "demand_level": "high",
+    "note": "total_offers=3682"
+  }
+]
