@@ -76,7 +76,7 @@ const readLines = (filePath) => fs.readFileSync(filePath, 'utf8')
   .filter(Boolean);
 
 const parseTitleUrls = (html) => {
-  const regex = /<div class="game-title[^"]*">\\s*<a href="([^"]+)">([^<]+)<\\/a>/g;
+  const regex = /<div class="game-title[^"]*">\s*<a href="([^"]+)">([^<]+)<\/a>/g;
   const map = new Map();
   let match;
   while ((match = regex.exec(html)) !== null) {
@@ -95,7 +95,7 @@ const parseTitleUrls = (html) => {
 };
 
 const parseCounters = (html) => {
-  const regex = /counter-param">\\s*([^<]+?)\\s*<\\/div>\\s*<div class="counter-value">\\s*([^<]*?)\\s*<\\/div>/g;
+  const regex = /counter-param">\s*([^<]+?)\s*<\/div>\s*<div class="counter-value">\s*([^<]*?)\s*<\/div>/g;
   const counters = new Map();
   let match;
   while ((match = regex.exec(html)) !== null) {
